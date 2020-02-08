@@ -5,7 +5,6 @@
 #install.packages("rworldmap")
 #using the right libraries
 library(rtweet)
-register_google(key)
 #Autorization for Twitter's  API
 ## access token method: create token and save it as an environment variable
 create_token(

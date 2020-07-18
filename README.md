@@ -1,5 +1,6 @@
 # Greek-Sentiment-Analysis
 
+Greek-Sentiment-Analysis Lexicon Based
 The following scripts was used to:
 
  - Extract Sentiment of Tweets written to Greek Language

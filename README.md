@@ -11,6 +11,14 @@ The following scripts was used to:
  In order to achieve Sentiment Analysis in Greek Language I used the Greek Sentiment Lexicon which you can also find in this repository
  https://github.com/MKLab-ITI/greek-sentiment-lexicon
  
+ ## What you can find in this repository:
+
+* _The Scripts_
+* _Some Sample files_ :
+    1. sentiment analysis data.xlsx (**Data**)
+    2. greek_stop_words.csv (**Stop Words**)
+    3. emojis.csv (Actually didn't use them yet :smirk:)
+* >The graphs
 
  ## Using the scripts to:
 - [x] Establish Connections to Twitter's API

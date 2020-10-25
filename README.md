@@ -31,20 +31,20 @@ The following scripts was used to:
 # Some Graphs just to check!
 
 ### Anger:
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="800" height="600"> |
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="700" height="500"> |
 
 ### Disgust:
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG" width="700" height="500">
 
 ### Fear:
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Fear.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Fear.PNG" width="700" height="500">
 
 ### Happiness :
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Happiness.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Happiness.PNG" width="700" height="500">
 
 ### Sadness :
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Sadness.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Sadness.PNG" width="700" height="500">
 
 ### Surprise :
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="700" height="500">

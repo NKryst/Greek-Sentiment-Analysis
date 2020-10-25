@@ -28,16 +28,16 @@ The following scripts was used to:
 ## Disgust:
 
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG" width="500" height="500">
-![Disgust](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG)
+
 ## Fear:
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Fear.PNG" width="500" height="500">
-![Fear](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Fear.PNG)
+
 ## Happiness :
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Happiness.PNG" width="500" height="500">
-![Happiness](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Happiness.PNG)
+
 ## Sadness :
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Sadness.PNG" width="500" height="500">
-![Sadness](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Sadness.PNG)
+
 ## Surprise :
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="500" height="500">
-![Surprise](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG)
+

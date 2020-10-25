@@ -10,7 +10,7 @@ library(tidytext)
 # plotting packages
 #Getting the trends
 #Autorization for Google Maps API
-key = 'AIzaSyDCWpvrlHApUgPt03KlDB7MwpVz4HhiB8I'
+key = 'your key'
 register_google(key)
 #Autorization for Twitter's  API
 ## access token method: create token and save it as an environment variable

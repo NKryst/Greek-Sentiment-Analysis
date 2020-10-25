@@ -48,12 +48,3 @@ The following scripts was used to:
 
 ### Surprise :
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="800" height="600">
-
-# What you can find in this repository:
-
-* _The Scripts_
-* _Some Sample files_ :
-    1. sentiment analysis data.xlsx (**Data**)
-    2. greek_stop_words.csv (**Stop Words**)
-    3. emojis.csv (Actually didn't use them yet :smirk:)
-* _>The graphs_

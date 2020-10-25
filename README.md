@@ -25,6 +25,7 @@ The following scripts was used to:
 ## Anger:
 
 ![Anger](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG)
+<img src="(https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="100" height="100">
 ## Disgust:
 ![Disgust](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG)
 ## Fear:

@@ -13,12 +13,12 @@ The following scripts was used to:
  
  # Methodology :
  ## Using the scripts to:
- * Establish Connections to Twitter's API
- * Data Selection - Data Gathering
- * Cleaning - Integration - Storage
- * Feature Extraction
- * Knowledge extraction
- * Visualization
+-[x]Establish Connections to Twitter's API
+-[x] Data Selection - Data Gathering
+-[x]Cleaning - Integration - Storage
+-[x]Feature Extraction
+-[x]Knowledge extraction
+-[x]Visualization
  
 # Some Graphs just to check!
 

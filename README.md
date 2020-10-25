@@ -11,4 +11,8 @@ The following scripts was used to:
  In order to achieve Sentiment Analysis in Greek Language I used the Greek Sentiment Lexicon which you can also find in this repository
  https://github.com/MKLab-ITI/greek-sentiment-lexicon
  
-# Some Graphs just to check
+# Some Graphs just to check!
+
+## Anger:
+
+![Anger](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG)

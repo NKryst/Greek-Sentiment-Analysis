@@ -23,7 +23,7 @@ The following scripts was used to:
 # Some Graphs just to check!
 
 ## Anger:
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="400" height="400">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="500" height="500"> |
 
 ## Disgust:
 ![Disgust](https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Disgust.PNG)

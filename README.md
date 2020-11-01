@@ -28,7 +28,7 @@ The following scripts was used to:
 - [x] Knowledge extraction
 - [x] Visualization
  
-# Some Graphs just to check!
+# Some Graph to check!
 
 ### Anger:
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Anger.PNG" width="700" height="500"> |

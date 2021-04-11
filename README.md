@@ -53,7 +53,7 @@ The following scripts was used to:
 
 ### Surprise
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="800" height="600">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="700" height="500">
 
 # What you can find in this repository
 

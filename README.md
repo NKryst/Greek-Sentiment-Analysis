@@ -47,4 +47,4 @@ The following scripts was used to:
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Sadness.PNG" width="700" height="500">
 
 ### Surprise :
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="700" height="500">
+

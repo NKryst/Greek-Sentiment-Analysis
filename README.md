@@ -72,4 +72,4 @@ There were some several additions regarding the following:
 - _Emojis Sentiment Lexicon_
 - _Sentiment Analysis Revised_ (script) : taking under consideration all the values provided by the annotators of Greek Sentiment Lexicon
 
->>>>>>> master
+

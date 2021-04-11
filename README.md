@@ -53,11 +53,7 @@ The following scripts was used to:
 
 ### Surprise
 
-<<<<<<< HEAD
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="700" height="500">
-=======
-
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Graphs/Surprise.PNG" width="800" height="600">
 
 # What you can find in this repository
 
@@ -66,7 +62,7 @@ The following scripts was used to:
     1. sentiment analysis data.xlsx (**Data**)
     2. greek_stop_words.csv (**Stop Words**)
     3. emojis.csv (Actually didn't use them yet :smirk:)
-- _>The graphs_
+- _The graphs_
 
 # Update 14/2/2021
 
@@ -76,4 +72,4 @@ There were some several additions regarding the following:
 - _Emojis Sentiment Lexicon_
 - _Sentiment Analysis Revised_ (script) : taking under consideration all the values provided by the annotators of Greek Sentiment Lexicon
 
->>>>>>> master
+

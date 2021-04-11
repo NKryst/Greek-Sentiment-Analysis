@@ -29,7 +29,7 @@ The following scripts was used to:
 - [x] Knowledge extraction
 - [x] Visualization
 
-## Some Graph to check
+## Some Graph to check using Hamming Distance
 
 ### Anger
 

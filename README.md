@@ -33,27 +33,27 @@ The following scripts was used to:
 
 ### Anger
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Anger.PNG" width="700" height="500"> |
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Anger.png" width="700" height="500"> |
 
 ### Disgust
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Disgust.PNG" width="700" height="500">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Disgust.png" width="700" height="500">
 
 ### Fear
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Fear.PNG" width="700" height="500">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Fear.png" width="700" height="500">
 
 ### Happiness
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Happiness.PNG" width="700" height="500">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Happiness.png" width="700" height="500">
 
 ### Sadness
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Sadness.PNG" width="700" height="500">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Sadness.png" width="700" height="500">
 
 ### Surprise
 
-<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Surprise.PNG" width="700" height="500">
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Surprise.png" width="700" height="500">
 
 # What you can find in this repository
 

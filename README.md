@@ -62,7 +62,7 @@ The following scripts was used to:
     1. sentiment analysis data.xlsx (**Data**)
     2. greek_stop_words.csv (**Stop Words**)
     3. emojis.csv (Actually didn't use them yet :smirk:)
-- _>The graphs_
+- _The graphs_
 
 # Update 14/2/2021
 

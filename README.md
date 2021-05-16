@@ -79,9 +79,13 @@ The following scripts was used to:
 
 # Latest Updates
 
-There were some several additions regarding the following:
+**February 2021 There were some several additions regarding the following:
 
 - _GreeK Sentiment Lexicon_ : Updating the Polarity Values ( NAs --> 0 , Both --> [average of total values if average = 0 then Both --> 0 , average<0 Both -->-1 ,average>0 Both -->1] new name **Fixed Sentiment Lexicon
 - _Emojis Sentiment Lexicon_
 - _Sentiment Analysis Revised_ (script) : taking under consideration all the values provided by the annotators of Greek Sentiment Lexicon
 - _Addition of Polarity_
+
+**May 2021
+
+- _Addition of Bigram and Network Analysis_

@@ -10,7 +10,8 @@ The following scripts was used to:
 
  In order to achieve Sentiment Analysis in Greek Language I used the Greek Sentiment Lexicon which you can also find in this repository
  <https://github.com/MKLab-ITI/greek-sentiment-lexicon>
-For Network Analysis the code in R was from the below website adjusted to our needs:
+ 
+ For Network Analysis the code in R was from the below website adjusted to our needs:
 <https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/>
 ## What you can find in this repository
 

@@ -64,6 +64,10 @@ The following scripts was used to:
 
 <img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Hamming Graphs/Polarity.png" width="700" height="500">
 
+### Word Networks 
+
+<img src="https://github.com/NKryst/Greek-Sentiment-Analysis/blob/master/Files/Network Analysis 14-05-2021.png" width="700" height="500">
+
 # What you can find in this repository
 
 - _The Scripts_

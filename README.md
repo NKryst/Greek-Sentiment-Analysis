@@ -28,6 +28,8 @@ The following scripts was used to:
 - [x] Feature Extraction
 - [x] Knowledge extraction
 - [x] Visualization
+- [x] Bigrams
+- [x] Word Network Graphs
 
 ## Some Graph to check using Hamming Distance
 

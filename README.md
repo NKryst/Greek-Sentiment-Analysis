@@ -10,7 +10,9 @@ The following scripts was used to:
 
  In order to achieve Sentiment Analysis in Greek Language I used the Greek Sentiment Lexicon which you can also find in this repository
  <https://github.com/MKLab-ITI/greek-sentiment-lexicon>
-
+ 
+ For Network Analysis the code in R was from the below website adjusted to our needs:
+<https://juanitorduz.github.io/text-mining-networks-and-visualization-plebiscito-tweets/>
 ## What you can find in this repository
 
 - _The Scripts_
@@ -19,6 +21,7 @@ The following scripts was used to:
     2. greek_stop_words.csv (**Stop Words**)
     3. emojis.csv (Actually didn't use them yet :smirk:)
 - >The graphs
+- >Networks
 
 ## Using the scripts to
 
@@ -28,6 +31,8 @@ The following scripts was used to:
 - [x] Feature Extraction
 - [x] Knowledge extraction
 - [x] Visualization
+- [x] Bigrams
+- [x] Word Network Graphs
 
 ## Some Graph to check using Hamming Distance
 

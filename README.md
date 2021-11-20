@@ -1,5 +1,8 @@
 # Greek-Sentiment-Analysis
 
+## As a result of my MSc thesis : "Study on Social Media Data" 
+<https://dias.library.tuc.gr/view/89031>
+
 Greek-Sentiment-Analysis Lexicon Based
 The following scripts was used to:
 

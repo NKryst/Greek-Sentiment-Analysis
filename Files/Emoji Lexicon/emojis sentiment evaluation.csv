@@ -1,0 +1,2624 @@
+;code;description;Negative;Neutral;Positive;Check for Emotion or not
+1;<U+0001F600>;grinning face;0;0;1;1
+2;<U+0001F601>;beaming face with smiling eyes;0;0;1;1
+3;<U+0001F602>;face with tears of joy;0;0;1;1
+4;<U+0001F923>;rolling on the floor laughing;0;0;1;1
+5;<U+0001F603>;grinning face with big eyes;0;0;1;1
+6;<U+0001F604>;grinning face with smiling eyes;0;0;1;1
+7;<U+0001F605>;grinning face with sweat;0;0;1;1
+8;<U+0001F606>;grinning squinting face;0;0;1;1
+9;<U+0001F609>;winking face;0;0;1;1
+10;<U+0001F60A>;smiling face with smiling eyes;0;0;1;1
+11;<U+0001F60B>;face savoring food;0;0;1;1
+12;<U+0001F60E>;smiling face with sunglasses;0;0;1;1
+13;<U+0001F60D>;smiling face with heart-eyes;0;0;1;1
+14;<U+0001F618>;face blowing a kiss;0;0;1;1
+15;<U+0001F617>;kissing face;0;0;1;1
+16;<U+0001F619>;kissing face with smiling eyes;0;0;1;1
+17;<U+0001F61A>;kissing face with closed eyes;0;0;1;1
+18;O;smiling face;0;0;1;1
+19;<U+0001F642>;slightly smiling face;0;0;1;1
+20;<U+0001F917>;hugging face;0;0;1;1
+21;<U+0001F929>;star-struck;0;0;1;1
+22;<U+0001F914>;thinking face;0;1;0;1
+23;<U+0001F928>;face with raised eyebrow;0;1;0;1
+24;<U+0001F610>;neutral face;0;1;0;1
+25;<U+0001F611>;expressionless face;0;1;0;1
+26;<U+0001F636>;face without mouth;0;1;0;1
+27;<U+0001F644>;face with rolling eyes;1;0;0;1
+28;<U+0001F60F>;smirking face;0;0;1;1
+29;<U+0001F623>;persevering face;0;1;0;1
+30;<U+0001F625>;sad but relieved face;0;1;0;1
+31;<U+0001F62E>;face with open mouth;0;1;0;1
+32;<U+0001F910>;zipper-mouth face;0;1;0;1
+33;<U+0001F62F>;hushed face;0;1;0;1
+34;<U+0001F62A>;sleepy face;0;1;0;1
+35;<U+0001F62B>;tired face;1;0;0;1
+36;<U+0001F634>;sleeping face;0;1;0;1
+37;<U+0001F60C>;relieved face;0;0;1;1
+38;<U+0001F61B>;face with tongue;0;0;1;1
+39;<U+0001F61C>;winking face with tongue;0;0;1;1
+40;<U+0001F61D>;squinting face with tongue;0;0;1;1
+41;<U+0001F924>;drooling face;0;1;0;1
+42;<U+0001F612>;unamused face;1;0;0;1
+43;<U+0001F613>;downcast face with sweat;1;0;0;1
+44;<U+0001F614>;pensive face;1;0;0;1
+45;<U+0001F615>;confused face;1;0;0;1
+46;<U+0001F643>;upside-down face;0;0;1;1
+47;<U+0001F911>;money-mouth face;0;0;1;1
+48;<U+0001F632>;astonished face;0;1;0;1
+49;<U+2639>;frowning face;1;0;0;1
+50;<U+0001F641>;slightly frowning face;1;0;0;1
+51;<U+0001F616>;confounded face;1;0;0;1
+52;<U+0001F61E>;disappointed face;1;0;0;1
+53;<U+0001F61F>;worried face;1;0;0;1
+54;<U+0001F624>;face with steam from nose;1;0;0;1
+55;<U+0001F622>;crying face;1;0;0;1
+56;<U+0001F62D>;loudly crying face;1;0;0;1
+57;<U+0001F626>;frowning face with open mouth;1;0;0;1
+58;<U+0001F627>;anguished face;0;1;0;1
+59;<U+0001F628>;fearful face;1;0;0;1
+60;<U+0001F629>;weary face;1;0;0;1
+61;<U+0001F92F>;exploding head;1;0;0;1
+62;<U+0001F62C>;grimacing face;0;1;0;1
+63;<U+0001F630>;anxious face with sweat;1;0;0;1
+64;<U+0001F631>;face screaming in fear;1;0;0;1
+65;<U+0001F633>;flushed face;0;1;0;1
+66;<U+0001F92A>;crazy face;1;0;0;1
+67;<U+0001F635>;dizzy face;1;0;0;1
+68;<U+0001F621>;pouting face;1;0;0;1
+69;<U+0001F620>;angry face;1;0;0;1
+70;<U+0001F92C>;face with symbols on mouth;1;0;0;1
+71;<U+0001F637>;face with medical mask;1;0;0;1
+72;<U+0001F912>;face with thermometer;1;0;0;1
+73;<U+0001F915>;face with head-bandage;1;0;0;1
+74;<U+0001F922>;nauseated face;1;0;0;1
+75;<U+0001F92E>;face vomiting;1;0;0;1
+76;<U+0001F927>;sneezing face;0;1;0;1
+77;<U+0001F607>;smiling face with halo;0;0;1;1
+78;<U+0001F920>;cowboy hat face;0;1;0;1
+79;<U+0001F921>;clown face;0;1;0;1
+80;<U+0001F925>;lying face;1;0;0;1
+81;<U+0001F92B>;shushing face;0;1;0;1
+82;<U+0001F92D>;face with hand over mouth;0;1;0;1
+83;<U+0001F9D0>;face with monocle;0;1;0;1
+84;<U+0001F913>;nerd face;0;1;0;1
+85;<U+0001F608>;smiling face with horns;0;0;1;1
+86;<U+0001F47F>;angry face with horns;1;0;0;1
+87;<U+0001F479>;ogre;1;0;0;1
+88;<U+0001F47A>;goblin;1;0;0;1
+89;<U+0001F480>;skull;1;0;0;1
+90;<U+2620>;skull and crossbones;1;0;0;1
+91;<U+0001F47B>;ghost;1;0;0;1
+92;<U+0001F47D>;alien;1;0;0;1
+93;<U+0001F47E>;alien monster;1;0;0;1
+94;<U+0001F916>;robot face;0;1;0;1
+95;<U+0001F4A9>;pile of poo;1;0;0;1
+96;<U+0001F63A>;grinning cat face;0;0;1;1
+97;<U+0001F638>;grinning cat face with smiling eyes;0;0;1;1
+98;<U+0001F639>;cat face with tears of joy;0;0;1;1
+99;<U+0001F63B>;smiling cat face with heart-eyes;0;0;1;1
+100;<U+0001F63C>;cat face with wry smile;1;0;0;1
+101;<U+0001F63D>;kissing cat face;0;0;1;1
+102;<U+0001F640>;weary cat face;1;0;0;1
+103;<U+0001F63F>;crying cat face;1;0;0;1
+104;<U+0001F63E>;pouting cat face;1;0;0;1
+105;<U+0001F648>;see-no-evil monkey;0;0;1;1
+106;<U+0001F649>;hear-no-evil monkey;0;0;1;1
+107;<U+0001F64A>;speak-no-evil monkey;0;0;1;1
+108;<U+0001F476>;baby;0;1;0;1
+109;<U+0001F476><U+0001F3FB>;light skin tone baby;0;1;0;1
+110;<U+0001F476><U+0001F3FC>;medium-light skin tone baby;0;1;0;1
+111;<U+0001F476><U+0001F3FD>;medium skin tone baby;0;1;0;1
+112;<U+0001F476><U+0001F3FE>;medium-dark skin tone baby;0;1;0;1
+113;<U+0001F476><U+0001F3FF>;dark skin tone baby;0;1;0;1
+114;<U+0001F9D2>;child;0;1;0;1
+115;<U+0001F9D2><U+0001F3FB>;light skin tone child;0;1;0;1
+116;<U+0001F9D2><U+0001F3FC>;medium-light skin tone child;0;1;0;1
+117;<U+0001F9D2><U+0001F3FD>;medium skin tone child;0;1;0;1
+118;<U+0001F9D2><U+0001F3FE>;medium-dark skin tone child;0;1;0;1
+119;<U+0001F9D2><U+0001F3FF>;dark skin tone child;0;1;0;1
+120;<U+0001F466>;boy;0;1;0;1
+121;<U+0001F466><U+0001F3FB>;light skin tone boy;0;1;0;1
+122;<U+0001F466><U+0001F3FC>;medium-light skin tone boy;0;1;0;1
+123;<U+0001F466><U+0001F3FD>;medium skin tone boy;0;1;0;1
+124;<U+0001F466><U+0001F3FE>;medium-dark skin tone boy;0;1;0;1
+125;<U+0001F466><U+0001F3FF>;dark skin tone boy;0;1;0;1
+126;<U+0001F467>;girl;0;1;0;1
+127;<U+0001F467><U+0001F3FB>;light skin tone girl;0;1;0;1
+128;<U+0001F467><U+0001F3FC>;medium-light skin tone girl;0;1;0;1
+129;<U+0001F467><U+0001F3FD>;medium skin tone girl;0;1;0;1
+130;<U+0001F467><U+0001F3FE>;medium-dark skin tone girl;0;1;0;1
+131;<U+0001F467><U+0001F3FF>;dark skin tone girl;0;1;0;1
+132;<U+0001F9D1>;adult;0;1;0;1
+133;<U+0001F9D1><U+0001F3FB>;light skin tone adult;0;1;0;1
+134;<U+0001F9D1><U+0001F3FC>;medium-light skin tone adult;0;1;0;1
+135;<U+0001F9D1><U+0001F3FD>;medium skin tone adult;0;1;0;1
+136;<U+0001F9D1><U+0001F3FE>;medium-dark skin tone adult;0;1;0;1
+137;<U+0001F9D1><U+0001F3FF>;dark skin tone adult;0;1;0;1
+138;<U+0001F468>;man;0;1;0;1
+139;<U+0001F468><U+0001F3FB>;light skin tone man;0;1;0;1
+140;<U+0001F468><U+0001F3FC>;medium-light skin tone man;0;1;0;1
+141;<U+0001F468><U+0001F3FD>;medium skin tone man;0;1;0;1
+142;<U+0001F468><U+0001F3FE>;medium-dark skin tone man;0;1;0;1
+143;<U+0001F468><U+0001F3FF>;dark skin tone man;0;1;0;1
+144;<U+0001F469>;woman;0;1;0;1
+145;<U+0001F469><U+0001F3FB>;light skin tone woman;0;1;0;1
+146;<U+0001F469><U+0001F3FC>;medium-light skin tone woman;0;1;0;1
+147;<U+0001F469><U+0001F3FD>;medium skin tone woman;0;1;0;1
+148;<U+0001F469><U+0001F3FE>;medium-dark skin tone woman;0;1;0;1
+149;<U+0001F469><U+0001F3FF>;dark skin tone woman;0;1;0;1
+150;<U+0001F9D3>;older adult;0;1;0;1
+151;<U+0001F9D3><U+0001F3FB>;light skin tone older adult;0;1;0;1
+152;<U+0001F9D3><U+0001F3FC>;medium-light skin tone older adult;0;1;0;1
+153;<U+0001F9D3><U+0001F3FD>;medium skin tone older adult;0;1;0;1
+154;<U+0001F9D3><U+0001F3FE>;medium-dark skin tone older adult;0;1;0;1
+155;<U+0001F9D3><U+0001F3FF>;dark skin tone older adult;0;1;0;1
+156;<U+0001F474>;old man;0;1;0;1
+157;<U+0001F474><U+0001F3FB>;light skin tone old man;0;1;0;1
+158;<U+0001F474><U+0001F3FC>;medium-light skin tone old man;0;1;0;1
+159;<U+0001F474><U+0001F3FD>;medium skin tone old man;0;1;0;1
+160;<U+0001F474><U+0001F3FE>;medium-dark skin tone old man;0;1;0;1
+161;<U+0001F474><U+0001F3FF>;dark skin tone old man;0;1;0;1
+162;<U+0001F475>;old woman;0;1;0;1
+163;<U+0001F475><U+0001F3FB>;light skin tone old woman;0;1;0;1
+164;<U+0001F475><U+0001F3FC>;medium-light skin tone old woman;0;1;0;1
+165;<U+0001F475><U+0001F3FD>;medium skin tone old woman;0;1;0;1
+166;<U+0001F475><U+0001F3FE>;medium-dark skin tone old woman;0;1;0;1
+167;<U+0001F475><U+0001F3FF>;dark skin tone old woman;0;1;0;1
+168;<U+0001F468><U+200D><U+2695><U+FE0F>;man health worker;0;1;0;1
+169;<U+0001F468><U+0001F3FB><U+200D><U+2695><U+FE0F>;light skin tone man health worker;0;1;0;1
+170;<U+0001F468><U+0001F3FC><U+200D><U+2695><U+FE0F>;medium-light skin tone man health worker;0;1;0;1
+171;<U+0001F468><U+0001F3FD><U+200D><U+2695><U+FE0F>;medium skin tone man health worker;0;1;0;1
+172;<U+0001F468><U+0001F3FE><U+200D><U+2695><U+FE0F>;medium-dark skin tone man health worker;0;1;0;1
+173;<U+0001F468><U+0001F3FF><U+200D><U+2695><U+FE0F>;dark skin tone man health worker;0;1;0;1
+174;<U+0001F469><U+200D><U+2695><U+FE0F>;woman health worker;0;1;0;1
+175;<U+0001F469><U+0001F3FB><U+200D><U+2695><U+FE0F>;light skin tone woman health worker;0;1;0;1
+176;<U+0001F469><U+0001F3FC><U+200D><U+2695><U+FE0F>;medium-light skin tone woman health worker;0;1;0;1
+177;<U+0001F469><U+0001F3FD><U+200D><U+2695><U+FE0F>;medium skin tone woman health worker;0;1;0;1
+178;<U+0001F469><U+0001F3FE><U+200D><U+2695><U+FE0F>;medium-dark skin tone woman health worker;0;1;0;1
+179;<U+0001F469><U+0001F3FF><U+200D><U+2695><U+FE0F>;dark skin tone woman health worker;0;1;0;1
+180;<U+0001F468><U+200D><U+0001F393>;man student;0;1;0;1
+181;<U+0001F468><U+0001F3FB><U+200D><U+0001F393>;light skin tone man student;0;1;0;1
+182;<U+0001F468><U+0001F3FC><U+200D><U+0001F393>;medium-light skin tone man student;0;1;0;1
+183;<U+0001F468><U+0001F3FD><U+200D><U+0001F393>;medium skin tone man student;0;1;0;1
+184;<U+0001F468><U+0001F3FE><U+200D><U+0001F393>;medium-dark skin tone man student;0;1;0;1
+185;<U+0001F468><U+0001F3FF><U+200D><U+0001F393>;dark skin tone man student;0;1;0;1
+186;<U+0001F469><U+200D><U+0001F393>;woman student;0;1;0;1
+187;<U+0001F469><U+0001F3FB><U+200D><U+0001F393>;light skin tone woman student;0;1;0;1
+188;<U+0001F469><U+0001F3FC><U+200D><U+0001F393>;medium-light skin tone woman student;0;1;0;1
+189;<U+0001F469><U+0001F3FD><U+200D><U+0001F393>;medium skin tone woman student;0;1;0;1
+190;<U+0001F469><U+0001F3FE><U+200D><U+0001F393>;medium-dark skin tone woman student;0;1;0;1
+191;<U+0001F469><U+0001F3FF><U+200D><U+0001F393>;dark skin tone woman student;0;1;0;1
+192;<U+0001F468><U+200D><U+0001F3EB>;man teacher;0;1;0;1
+193;<U+0001F468><U+0001F3FB><U+200D><U+0001F3EB>;light skin tone man teacher;0;1;0;1
+194;<U+0001F468><U+0001F3FC><U+200D><U+0001F3EB>;medium-light skin tone man teacher;0;1;0;1
+195;<U+0001F468><U+0001F3FD><U+200D><U+0001F3EB>;medium skin tone man teacher;0;1;0;1
+196;<U+0001F468><U+0001F3FE><U+200D><U+0001F3EB>;medium-dark skin tone man teacher;0;1;0;1
+197;<U+0001F468><U+0001F3FF><U+200D><U+0001F3EB>;dark skin tone man teacher;0;1;0;1
+198;<U+0001F469><U+200D><U+0001F3EB>;woman teacher;0;1;0;1
+199;<U+0001F469><U+0001F3FB><U+200D><U+0001F3EB>;light skin tone woman teacher;0;1;0;1
+200;<U+0001F469><U+0001F3FC><U+200D><U+0001F3EB>;medium-light skin tone woman teacher;0;1;0;1
+201;<U+0001F469><U+0001F3FD><U+200D><U+0001F3EB>;medium skin tone woman teacher;0;1;0;1
+202;<U+0001F469><U+0001F3FE><U+200D><U+0001F3EB>;medium-dark skin tone woman teacher;0;1;0;1
+203;<U+0001F469><U+0001F3FF><U+200D><U+0001F3EB>;dark skin tone woman teacher;0;1;0;1
+204;<U+0001F468><U+200D><U+2696><U+FE0F>;man judge;0;1;0;1
+205;<U+0001F468><U+0001F3FB><U+200D><U+2696><U+FE0F>;light skin tone man judge;0;1;0;1
+206;<U+0001F468><U+0001F3FC><U+200D><U+2696><U+FE0F>;medium-light skin tone man judge;0;1;0;1
+207;<U+0001F468><U+0001F3FD><U+200D><U+2696><U+FE0F>;medium skin tone man judge;0;1;0;1
+208;<U+0001F468><U+0001F3FE><U+200D><U+2696><U+FE0F>;medium-dark skin tone man judge;0;1;0;1
+209;<U+0001F468><U+0001F3FF><U+200D><U+2696><U+FE0F>;dark skin tone man judge;0;1;0;1
+210;<U+0001F469><U+200D><U+2696><U+FE0F>;woman judge;0;1;0;1
+211;<U+0001F469><U+0001F3FB><U+200D><U+2696><U+FE0F>;light skin tone woman judge;0;1;0;1
+212;<U+0001F469><U+0001F3FC><U+200D><U+2696><U+FE0F>;medium-light skin tone woman judge;0;1;0;1
+213;<U+0001F469><U+0001F3FD><U+200D><U+2696><U+FE0F>;medium skin tone woman judge;0;1;0;1
+214;<U+0001F469><U+0001F3FE><U+200D><U+2696><U+FE0F>;medium-dark skin tone woman judge;0;1;0;1
+215;<U+0001F469><U+0001F3FF><U+200D><U+2696><U+FE0F>;dark skin tone woman judge;0;1;0;1
+216;<U+0001F468><U+200D><U+0001F33E>;man farmer;0;1;0;1
+217;<U+0001F468><U+0001F3FB><U+200D><U+0001F33E>;light skin tone man farmer;0;1;0;1
+218;<U+0001F468><U+0001F3FC><U+200D><U+0001F33E>;medium-light skin tone man farmer;0;1;0;1
+219;<U+0001F468><U+0001F3FD><U+200D><U+0001F33E>;medium skin tone man farmer;0;1;0;1
+220;<U+0001F468><U+0001F3FE><U+200D><U+0001F33E>;medium-dark skin tone man farmer;0;1;0;1
+221;<U+0001F468><U+0001F3FF><U+200D><U+0001F33E>;dark skin tone man farmer;0;1;0;1
+222;<U+0001F469><U+200D><U+0001F33E>;woman farmer;0;1;0;1
+223;<U+0001F469><U+0001F3FB><U+200D><U+0001F33E>;light skin tone woman farmer;0;1;0;1
+224;<U+0001F469><U+0001F3FC><U+200D><U+0001F33E>;medium-light skin tone woman farmer;0;1;0;1
+225;<U+0001F469><U+0001F3FD><U+200D><U+0001F33E>;medium skin tone woman farmer;0;1;0;1
+226;<U+0001F469><U+0001F3FE><U+200D><U+0001F33E>;medium-dark skin tone woman farmer;0;1;0;1
+227;<U+0001F469><U+0001F3FF><U+200D><U+0001F33E>;dark skin tone woman farmer;0;1;0;1
+228;<U+0001F468><U+200D><U+0001F373>;man cook;0;1;0;1
+229;<U+0001F468><U+0001F3FB><U+200D><U+0001F373>;light skin tone man cook;0;1;0;1
+230;<U+0001F468><U+0001F3FC><U+200D><U+0001F373>;medium-light skin tone man cook;0;1;0;1
+231;<U+0001F468><U+0001F3FD><U+200D><U+0001F373>;medium skin tone man cook;0;1;0;1
+232;<U+0001F468><U+0001F3FE><U+200D><U+0001F373>;medium-dark skin tone man cook;0;1;0;1
+233;<U+0001F468><U+0001F3FF><U+200D><U+0001F373>;dark skin tone man cook;0;1;0;1
+234;<U+0001F469><U+200D><U+0001F373>;woman cook;0;1;0;1
+235;<U+0001F469><U+0001F3FB><U+200D><U+0001F373>;light skin tone woman cook;0;1;0;1
+236;<U+0001F469><U+0001F3FC><U+200D><U+0001F373>;medium-light skin tone woman cook;0;1;0;1
+237;<U+0001F469><U+0001F3FD><U+200D><U+0001F373>;medium skin tone woman cook;0;1;0;1
+238;<U+0001F469><U+0001F3FE><U+200D><U+0001F373>;medium-dark skin tone woman cook;0;1;0;1
+239;<U+0001F469><U+0001F3FF><U+200D><U+0001F373>;dark skin tone woman cook;0;1;0;1
+240;<U+0001F468><U+200D><U+0001F527>;man mechanic;0;1;0;1
+241;<U+0001F468><U+0001F3FB><U+200D><U+0001F527>;light skin tone man mechanic;0;1;0;1
+242;<U+0001F468><U+0001F3FC><U+200D><U+0001F527>;medium-light skin tone man mechanic;0;1;0;1
+243;<U+0001F468><U+0001F3FD><U+200D><U+0001F527>;medium skin tone man mechanic;0;1;0;1
+244;<U+0001F468><U+0001F3FE><U+200D><U+0001F527>;medium-dark skin tone man mechanic;0;1;0;1
+245;<U+0001F468><U+0001F3FF><U+200D><U+0001F527>;dark skin tone man mechanic;0;1;0;1
+246;<U+0001F469><U+200D><U+0001F527>;woman mechanic;0;1;0;1
+247;<U+0001F469><U+0001F3FB><U+200D><U+0001F527>;light skin tone woman mechanic;0;1;0;1
+248;<U+0001F469><U+0001F3FC><U+200D><U+0001F527>;medium-light skin tone woman mechanic;0;1;0;1
+249;<U+0001F469><U+0001F3FD><U+200D><U+0001F527>;medium skin tone woman mechanic;0;1;0;1
+250;<U+0001F469><U+0001F3FE><U+200D><U+0001F527>;medium-dark skin tone woman mechanic;0;1;0;1
+251;<U+0001F469><U+0001F3FF><U+200D><U+0001F527>;dark skin tone woman mechanic;0;1;0;1
+252;<U+0001F468><U+200D><U+0001F3ED>;man factory worker;0;1;0;1
+253;<U+0001F468><U+0001F3FB><U+200D><U+0001F3ED>;light skin tone man factory worker;0;1;0;1
+254;<U+0001F468><U+0001F3FC><U+200D><U+0001F3ED>;medium-light skin tone man factory worker;0;1;0;1
+255;<U+0001F468><U+0001F3FD><U+200D><U+0001F3ED>;medium skin tone man factory worker;0;1;0;1
+256;<U+0001F468><U+0001F3FE><U+200D><U+0001F3ED>;medium-dark skin tone man factory worker;0;1;0;1
+257;<U+0001F468><U+0001F3FF><U+200D><U+0001F3ED>;dark skin tone man factory worker;0;1;0;1
+258;<U+0001F469><U+200D><U+0001F3ED>;woman factory worker;0;1;0;1
+259;<U+0001F469><U+0001F3FB><U+200D><U+0001F3ED>;light skin tone woman factory worker;0;1;0;1
+260;<U+0001F469><U+0001F3FC><U+200D><U+0001F3ED>;medium-light skin tone woman factory worker;0;1;0;1
+261;<U+0001F469><U+0001F3FD><U+200D><U+0001F3ED>;medium skin tone woman factory worker;0;1;0;1
+262;<U+0001F469><U+0001F3FE><U+200D><U+0001F3ED>;medium-dark skin tone woman factory worker;0;1;0;1
+263;<U+0001F469><U+0001F3FF><U+200D><U+0001F3ED>;dark skin tone woman factory worker;0;1;0;1
+264;<U+0001F468><U+200D><U+0001F4BC>;man office worker;0;1;0;1
+265;<U+0001F468><U+0001F3FB><U+200D><U+0001F4BC>;light skin tone man office worker;0;1;0;1
+266;<U+0001F468><U+0001F3FC><U+200D><U+0001F4BC>;medium-light skin tone man office worker;0;1;0;1
+267;<U+0001F468><U+0001F3FD><U+200D><U+0001F4BC>;medium skin tone man office worker;0;1;0;1
+268;<U+0001F468><U+0001F3FE><U+200D><U+0001F4BC>;medium-dark skin tone man office worker;0;1;0;1
+269;<U+0001F468><U+0001F3FF><U+200D><U+0001F4BC>;dark skin tone man office worker;0;1;0;1
+270;<U+0001F469><U+200D><U+0001F4BC>;woman office worker;0;1;0;1
+271;<U+0001F469><U+0001F3FB><U+200D><U+0001F4BC>;light skin tone woman office worker;0;1;0;1
+272;<U+0001F469><U+0001F3FC><U+200D><U+0001F4BC>;medium-light skin tone woman office worker;0;1;0;1
+273;<U+0001F469><U+0001F3FD><U+200D><U+0001F4BC>;medium skin tone woman office worker;0;1;0;1
+274;<U+0001F469><U+0001F3FE><U+200D><U+0001F4BC>;medium-dark skin tone woman office worker;0;1;0;1
+275;<U+0001F469><U+0001F3FF><U+200D><U+0001F4BC>;dark skin tone woman office worker;0;1;0;1
+276;<U+0001F468><U+200D><U+0001F52C>;man scientist;0;1;0;1
+277;<U+0001F468><U+0001F3FB><U+200D><U+0001F52C>;light skin tone man scientist;0;1;0;1
+278;<U+0001F468><U+0001F3FC><U+200D><U+0001F52C>;medium-light skin tone man scientist;0;1;0;1
+279;<U+0001F468><U+0001F3FD><U+200D><U+0001F52C>;medium skin tone man scientist;0;1;0;1
+280;<U+0001F468><U+0001F3FE><U+200D><U+0001F52C>;medium-dark skin tone man scientist;0;1;0;1
+281;<U+0001F468><U+0001F3FF><U+200D><U+0001F52C>;dark skin tone man scientist;0;1;0;1
+282;<U+0001F469><U+200D><U+0001F52C>;woman scientist;0;1;0;1
+283;<U+0001F469><U+0001F3FB><U+200D><U+0001F52C>;light skin tone woman scientist;0;1;0;1
+284;<U+0001F469><U+0001F3FC><U+200D><U+0001F52C>;medium-light skin tone woman scientist;0;1;0;1
+285;<U+0001F469><U+0001F3FD><U+200D><U+0001F52C>;medium skin tone woman scientist;0;1;0;1
+286;<U+0001F469><U+0001F3FE><U+200D><U+0001F52C>;medium-dark skin tone woman scientist;0;1;0;1
+287;<U+0001F469><U+0001F3FF><U+200D><U+0001F52C>;dark skin tone woman scientist;0;1;0;1
+288;<U+0001F468><U+200D><U+0001F4BB>;man technologist;0;1;0;1
+289;<U+0001F468><U+0001F3FB><U+200D><U+0001F4BB>;light skin tone man technologist;0;1;0;1
+290;<U+0001F468><U+0001F3FC><U+200D><U+0001F4BB>;medium-light skin tone man technologist;0;1;0;1
+291;<U+0001F468><U+0001F3FD><U+200D><U+0001F4BB>;medium skin tone man technologist;0;1;0;1
+292;<U+0001F468><U+0001F3FE><U+200D><U+0001F4BB>;medium-dark skin tone man technologist;0;1;0;1
+293;<U+0001F468><U+0001F3FF><U+200D><U+0001F4BB>;dark skin tone man technologist;0;1;0;1
+294;<U+0001F469><U+200D><U+0001F4BB>;woman technologist;0;1;0;1
+295;<U+0001F469><U+0001F3FB><U+200D><U+0001F4BB>;light skin tone woman technologist;0;1;0;1
+296;<U+0001F469><U+0001F3FC><U+200D><U+0001F4BB>;medium-light skin tone woman technologist;0;1;0;1
+297;<U+0001F469><U+0001F3FD><U+200D><U+0001F4BB>;medium skin tone woman technologist;0;1;0;1
+298;<U+0001F469><U+0001F3FE><U+200D><U+0001F4BB>;medium-dark skin tone woman technologist;0;1;0;1
+299;<U+0001F469><U+0001F3FF><U+200D><U+0001F4BB>;dark skin tone woman technologist;0;1;0;1
+300;<U+0001F468><U+200D><U+0001F3A4>;man singer;0;1;0;1
+301;<U+0001F468><U+0001F3FB><U+200D><U+0001F3A4>;light skin tone man singer;0;1;0;1
+302;<U+0001F468><U+0001F3FC><U+200D><U+0001F3A4>;medium-light skin tone man singer;0;1;0;1
+303;<U+0001F468><U+0001F3FD><U+200D><U+0001F3A4>;medium skin tone man singer;0;1;0;1
+304;<U+0001F468><U+0001F3FE><U+200D><U+0001F3A4>;medium-dark skin tone man singer;0;1;0;1
+305;<U+0001F468><U+0001F3FF><U+200D><U+0001F3A4>;dark skin tone man singer;0;1;0;1
+306;<U+0001F469><U+200D><U+0001F3A4>;woman singer;0;1;0;1
+307;<U+0001F469><U+0001F3FB><U+200D><U+0001F3A4>;light skin tone woman singer;0;1;0;1
+308;<U+0001F469><U+0001F3FC><U+200D><U+0001F3A4>;medium-light skin tone woman singer;0;1;0;1
+309;<U+0001F469><U+0001F3FD><U+200D><U+0001F3A4>;medium skin tone woman singer;0;1;0;1
+310;<U+0001F469><U+0001F3FE><U+200D><U+0001F3A4>;medium-dark skin tone woman singer;0;1;0;1
+311;<U+0001F469><U+0001F3FF><U+200D><U+0001F3A4>;dark skin tone woman singer;0;1;0;1
+312;<U+0001F468><U+200D><U+0001F3A8>;man artist;0;1;0;1
+313;<U+0001F468><U+0001F3FB><U+200D><U+0001F3A8>;light skin tone man artist;0;1;0;1
+314;<U+0001F468><U+0001F3FC><U+200D><U+0001F3A8>;medium-light skin tone man artist;0;1;0;1
+315;<U+0001F468><U+0001F3FD><U+200D><U+0001F3A8>;medium skin tone man artist;0;1;0;1
+316;<U+0001F468><U+0001F3FE><U+200D><U+0001F3A8>;medium-dark skin tone man artist;0;1;0;1
+317;<U+0001F468><U+0001F3FF><U+200D><U+0001F3A8>;dark skin tone man artist;0;1;0;1
+318;<U+0001F469><U+200D><U+0001F3A8>;woman artist;0;1;0;1
+319;<U+0001F469><U+0001F3FB><U+200D><U+0001F3A8>;light skin tone woman artist;0;1;0;1
+320;<U+0001F469><U+0001F3FC><U+200D><U+0001F3A8>;medium-light skin tone woman artist;0;1;0;1
+321;<U+0001F469><U+0001F3FD><U+200D><U+0001F3A8>;medium skin tone woman artist;0;1;0;1
+322;<U+0001F469><U+0001F3FE><U+200D><U+0001F3A8>;medium-dark skin tone woman artist;0;1;0;1
+323;<U+0001F469><U+0001F3FF><U+200D><U+0001F3A8>;dark skin tone woman artist;0;1;0;1
+324;<U+0001F468><U+200D><U+2708><U+FE0F>;man pilot;0;1;0;1
+325;<U+0001F468><U+0001F3FB><U+200D><U+2708><U+FE0F>;light skin tone man pilot;0;1;0;1
+326;<U+0001F468><U+0001F3FC><U+200D><U+2708><U+FE0F>;medium-light skin tone man pilot;0;1;0;1
+327;<U+0001F468><U+0001F3FD><U+200D><U+2708><U+FE0F>;medium skin tone man pilot;0;1;0;1
+328;<U+0001F468><U+0001F3FE><U+200D><U+2708><U+FE0F>;medium-dark skin tone man pilot;0;1;0;1
+329;<U+0001F468><U+0001F3FF><U+200D><U+2708><U+FE0F>;dark skin tone man pilot;0;1;0;1
+330;<U+0001F469><U+200D><U+2708><U+FE0F>;woman pilot;0;1;0;1
+331;<U+0001F469><U+0001F3FB><U+200D><U+2708><U+FE0F>;light skin tone woman pilot;0;1;0;1
+332;<U+0001F469><U+0001F3FC><U+200D><U+2708><U+FE0F>;medium-light skin tone woman pilot;0;1;0;1
+333;<U+0001F469><U+0001F3FD><U+200D><U+2708><U+FE0F>;medium skin tone woman pilot;0;1;0;1
+334;<U+0001F469><U+0001F3FE><U+200D><U+2708><U+FE0F>;medium-dark skin tone woman pilot;0;1;0;1
+335;<U+0001F469><U+0001F3FF><U+200D><U+2708><U+FE0F>;dark skin tone woman pilot;0;1;0;1
+336;<U+0001F468><U+200D><U+0001F680>;man astronaut;0;1;0;1
+337;<U+0001F468><U+0001F3FB><U+200D><U+0001F680>;light skin tone man astronaut;0;1;0;1
+338;<U+0001F468><U+0001F3FC><U+200D><U+0001F680>;medium-light skin tone man astronaut;0;1;0;1
+339;<U+0001F468><U+0001F3FD><U+200D><U+0001F680>;medium skin tone man astronaut;0;1;0;1
+340;<U+0001F468><U+0001F3FE><U+200D><U+0001F680>;medium-dark skin tone man astronaut;0;1;0;1
+341;<U+0001F468><U+0001F3FF><U+200D><U+0001F680>;dark skin tone man astronaut;0;1;0;1
+342;<U+0001F469><U+200D><U+0001F680>;woman astronaut;0;1;0;1
+343;<U+0001F469><U+0001F3FB><U+200D><U+0001F680>;light skin tone woman astronaut;0;1;0;1
+344;<U+0001F469><U+0001F3FC><U+200D><U+0001F680>;medium-light skin tone woman astronaut;0;1;0;1
+345;<U+0001F469><U+0001F3FD><U+200D><U+0001F680>;medium skin tone woman astronaut;0;1;0;1
+346;<U+0001F469><U+0001F3FE><U+200D><U+0001F680>;medium-dark skin tone woman astronaut;0;1;0;1
+347;<U+0001F469><U+0001F3FF><U+200D><U+0001F680>;dark skin tone woman astronaut;0;1;0;1
+348;<U+0001F468><U+200D><U+0001F692>;man firefighter;0;1;0;1
+349;<U+0001F468><U+0001F3FB><U+200D><U+0001F692>;light skin tone man firefighter;0;1;0;1
+350;<U+0001F468><U+0001F3FC><U+200D><U+0001F692>;medium-light skin tone man firefighter;0;1;0;1
+351;<U+0001F468><U+0001F3FD><U+200D><U+0001F692>;medium skin tone man firefighter;0;1;0;1
+352;<U+0001F468><U+0001F3FE><U+200D><U+0001F692>;medium-dark skin tone man firefighter;0;1;0;1
+353;<U+0001F468><U+0001F3FF><U+200D><U+0001F692>;dark skin tone man firefighter;0;1;0;1
+354;<U+0001F469><U+200D><U+0001F692>;woman firefighter;0;1;0;1
+355;<U+0001F469><U+0001F3FB><U+200D><U+0001F692>;light skin tone woman firefighter;0;1;0;1
+356;<U+0001F469><U+0001F3FC><U+200D><U+0001F692>;medium-light skin tone woman firefighter;0;1;0;1
+357;<U+0001F469><U+0001F3FD><U+200D><U+0001F692>;medium skin tone woman firefighter;0;1;0;1
+358;<U+0001F469><U+0001F3FE><U+200D><U+0001F692>;medium-dark skin tone woman firefighter;0;1;0;1
+359;<U+0001F469><U+0001F3FF><U+200D><U+0001F692>;dark skin tone woman firefighter;0;1;0;1
+360;<U+0001F46E>;police officer;0;1;0;1
+361;<U+0001F46E><U+0001F3FB>;light skin tone police officer;0;1;0;1
+362;<U+0001F46E><U+0001F3FC>;medium-light skin tone police officer;0;1;0;1
+363;<U+0001F46E><U+0001F3FD>;medium skin tone police officer;0;1;0;1
+364;<U+0001F46E><U+0001F3FE>;medium-dark skin tone police officer;0;1;0;1
+365;<U+0001F46E><U+0001F3FF>;dark skin tone police officer;0;1;0;1
+366;<U+0001F46E><U+200D>><U+FE0F>;man police officer;0;1;0;1
+367;<U+0001F46E><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man police officer;0;1;0;1
+368;<U+0001F46E><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man police officer;0;1;0;1
+369;<U+0001F46E><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man police officer;0;1;0;1
+370;<U+0001F46E><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man police officer;0;1;0;1
+371;<U+0001F46E><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man police officer;0;1;0;1
+372;<U+0001F46E><U+200D>+<U+FE0F>;woman police officer;0;1;0;1
+373;<U+0001F46E><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman police officer;0;1;0;1
+374;<U+0001F46E><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman police officer;0;1;0;1
+375;<U+0001F46E><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman police officer;0;1;0;1
+376;<U+0001F46E><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman police officer;0;1;0;1
+377;<U+0001F46E><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman police officer;0;1;0;1
+378;<U+0001F575>;detective;0;1;0;1
+379;<U+0001F575><U+0001F3FB>;light skin tone detective;0;1;0;1
+380;<U+0001F575><U+0001F3FC>;medium-light skin tone detective;0;1;0;1
+381;<U+0001F575><U+0001F3FD>;medium skin tone detective;0;1;0;1
+382;<U+0001F575><U+0001F3FE>;medium-dark skin tone detective;0;1;0;1
+383;<U+0001F575><U+0001F3FF>;dark skin tone detective;0;1;0;1
+384;<U+0001F575><U+FE0F><U+200D>><U+FE0F>;man detective;0;1;0;1
+385;<U+0001F575><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man detective;0;1;0;1
+386;<U+0001F575><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man detective;0;1;0;1
+387;<U+0001F575><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man detective;0;1;0;1
+388;<U+0001F575><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man detective;0;1;0;1
+389;<U+0001F575><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man detective;0;1;0;1
+390;<U+0001F575><U+FE0F><U+200D>+<U+FE0F>;woman detective;0;1;0;1
+391;<U+0001F575><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman detective;0;1;0;1
+392;<U+0001F575><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman detective;0;1;0;1
+393;<U+0001F575><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman detective;0;1;0;1
+394;<U+0001F575><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman detective;0;1;0;1
+395;<U+0001F575><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman detective;0;1;0;1
+396;<U+0001F482>;guard;0;1;0;1
+397;<U+0001F482><U+0001F3FB>;light skin tone guard;0;1;0;1
+398;<U+0001F482><U+0001F3FC>;medium-light skin tone guard;0;1;0;1
+399;<U+0001F482><U+0001F3FD>;medium skin tone guard;0;1;0;1
+400;<U+0001F482><U+0001F3FE>;medium-dark skin tone guard;0;1;0;1
+401;<U+0001F482><U+0001F3FF>;dark skin tone guard;0;1;0;1
+402;<U+0001F482><U+200D>><U+FE0F>;man guard;0;1;0;1
+403;<U+0001F482><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man guard;0;1;0;1
+404;<U+0001F482><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man guard;0;1;0;1
+405;<U+0001F482><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man guard;0;1;0;1
+406;<U+0001F482><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man guard;0;1;0;1
+407;<U+0001F482><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man guard;0;1;0;1
+408;<U+0001F482><U+200D>+<U+FE0F>;woman guard;0;1;0;1
+409;<U+0001F482><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman guard;0;1;0;1
+410;<U+0001F482><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman guard;0;1;0;1
+411;<U+0001F482><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman guard;0;1;0;1
+412;<U+0001F482><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman guard;0;1;0;1
+413;<U+0001F482><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman guard;0;1;0;1
+414;<U+0001F477>;construction worker;0;1;0;1
+415;<U+0001F477><U+0001F3FB>;light skin tone construction worker;0;1;0;1
+416;<U+0001F477><U+0001F3FC>;medium-light skin tone construction worker;0;1;0;1
+417;<U+0001F477><U+0001F3FD>;medium skin tone construction worker;0;1;0;1
+418;<U+0001F477><U+0001F3FE>;medium-dark skin tone construction worker;0;1;0;1
+419;<U+0001F477><U+0001F3FF>;dark skin tone construction worker;0;1;0;1
+420;<U+0001F477><U+200D>><U+FE0F>;man construction worker;0;1;0;1
+421;<U+0001F477><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man construction worker;0;1;0;1
+422;<U+0001F477><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man construction worker;0;1;0;1
+423;<U+0001F477><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man construction worker;0;1;0;1
+424;<U+0001F477><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man construction worker;0;1;0;1
+425;<U+0001F477><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man construction worker;0;1;0;1
+426;<U+0001F477><U+200D>+<U+FE0F>;woman construction worker;0;1;0;1
+427;<U+0001F477><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman construction worker;0;1;0;1
+428;<U+0001F477><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman construction worker;0;1;0;1
+429;<U+0001F477><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman construction worker;0;1;0;1
+430;<U+0001F477><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman construction worker;0;1;0;1
+431;<U+0001F477><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman construction worker;0;1;0;1
+432;<U+0001F934>;prince;0;1;0;1
+433;<U+0001F934><U+0001F3FB>;light skin tone prince;0;1;0;1
+434;<U+0001F934><U+0001F3FC>;medium-light skin tone prince;0;1;0;1
+435;<U+0001F934><U+0001F3FD>;medium skin tone prince;0;1;0;1
+436;<U+0001F934><U+0001F3FE>;medium-dark skin tone prince;0;1;0;1
+437;<U+0001F934><U+0001F3FF>;dark skin tone prince;0;1;0;1
+438;<U+0001F478>;princess;0;1;0;1
+439;<U+0001F478><U+0001F3FB>;light skin tone princess;0;1;0;1
+440;<U+0001F478><U+0001F3FC>;medium-light skin tone princess;0;1;0;1
+441;<U+0001F478><U+0001F3FD>;medium skin tone princess;0;1;0;1
+442;<U+0001F478><U+0001F3FE>;medium-dark skin tone princess;0;1;0;1
+443;<U+0001F478><U+0001F3FF>;dark skin tone princess;0;1;0;1
+444;<U+0001F473>;person wearing turban;0;1;0;1
+445;<U+0001F473><U+0001F3FB>;light skin tone person wearing turban;0;1;0;1
+446;<U+0001F473><U+0001F3FC>;medium-light skin tone person wearing turban;0;1;0;1
+447;<U+0001F473><U+0001F3FD>;medium skin tone person wearing turban;0;1;0;1
+448;<U+0001F473><U+0001F3FE>;medium-dark skin tone person wearing turban;0;1;0;1
+449;<U+0001F473><U+0001F3FF>;dark skin tone person wearing turban;0;1;0;1
+450;<U+0001F473><U+200D>><U+FE0F>;man wearing turban;0;1;0;1
+451;<U+0001F473><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man wearing turban;0;1;0;1
+452;<U+0001F473><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man wearing turban;0;1;0;1
+453;<U+0001F473><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man wearing turban;0;1;0;1
+454;<U+0001F473><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man wearing turban;0;1;0;1
+455;<U+0001F473><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man wearing turban;0;1;0;1
+456;<U+0001F473><U+200D>+<U+FE0F>;woman wearing turban;0;1;0;1
+457;<U+0001F473><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman wearing turban;0;1;0;1
+458;<U+0001F473><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman wearing turban;0;1;0;1
+459;<U+0001F473><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman wearing turban;0;1;0;1
+460;<U+0001F473><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman wearing turban;0;1;0;1
+461;<U+0001F473><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman wearing turban;0;1;0;1
+462;<U+0001F472>;man with Chinese cap;0;1;0;1
+463;<U+0001F472><U+0001F3FB>;light skin tone man with Chinese cap;0;1;0;1
+464;<U+0001F472><U+0001F3FC>;medium-light skin tone man with Chinese cap;0;1;0;1
+465;<U+0001F472><U+0001F3FD>;medium skin tone man with Chinese cap;0;1;0;1
+466;<U+0001F472><U+0001F3FE>;medium-dark skin tone man with Chinese cap;0;1;0;1
+467;<U+0001F472><U+0001F3FF>;dark skin tone man with Chinese cap;0;1;0;1
+468;<U+0001F9D5>;woman with headscarf;0;1;0;1
+469;<U+0001F9D5><U+0001F3FB>;light skin tone woman with headscarf;0;1;0;1
+470;<U+0001F9D5><U+0001F3FC>;medium-light skin tone woman with headscarf;0;1;0;1
+471;<U+0001F9D5><U+0001F3FD>;medium skin tone woman with headscarf;0;1;0;1
+472;<U+0001F9D5><U+0001F3FE>;medium-dark skin tone woman with headscarf;0;1;0;1
+473;<U+0001F9D5><U+0001F3FF>;dark skin tone woman with headscarf;0;1;0;1
+474;<U+0001F9D4>;bearded person;0;1;0;1
+475;<U+0001F9D4><U+0001F3FB>;light skin tone bearded person;0;1;0;1
+476;<U+0001F9D4><U+0001F3FC>;medium-light skin tone bearded person;0;1;0;1
+477;<U+0001F9D4><U+0001F3FD>;medium skin tone bearded person;0;1;0;1
+478;<U+0001F9D4><U+0001F3FE>;medium-dark skin tone bearded person;0;1;0;1
+479;<U+0001F9D4><U+0001F3FF>;dark skin tone bearded person;0;1;0;1
+480;<U+0001F471>;blond-haired person;0;1;0;1
+481;<U+0001F471><U+0001F3FB>;light skin tone blond-haired person;0;1;0;1
+482;<U+0001F471><U+0001F3FC>;medium-light skin tone blond-haired person;0;1;0;1
+483;<U+0001F471><U+0001F3FD>;medium skin tone blond-haired person;0;1;0;1
+484;<U+0001F471><U+0001F3FE>;medium-dark skin tone blond-haired person;0;1;0;1
+485;<U+0001F471><U+0001F3FF>;dark skin tone blond-haired person;0;1;0;1
+486;<U+0001F471><U+200D>><U+FE0F>;blond-haired man;0;1;0;1
+487;<U+0001F471><U+0001F3FB><U+200D>><U+FE0F>;light skin tone blond-haired man;0;1;0;1
+488;<U+0001F471><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone blond-haired man;0;1;0;1
+489;<U+0001F471><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone blond-haired man;0;1;0;1
+490;<U+0001F471><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone blond-haired man;0;1;0;1
+491;<U+0001F471><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone blond-haired man;0;1;0;1
+492;<U+0001F471><U+200D>+<U+FE0F>;blond-haired woman;0;1;0;1
+493;<U+0001F471><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone blond-haired woman;0;1;0;1
+494;<U+0001F471><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone blond-haired woman;0;1;0;1
+495;<U+0001F471><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone blond-haired woman;0;1;0;1
+496;<U+0001F471><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone blond-haired woman;0;1;0;1
+497;<U+0001F471><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone blond-haired woman;0;1;0;1
+498;<U+0001F935>;man in tuxedo;0;1;0;1
+499;<U+0001F935><U+0001F3FB>;light skin tone man in tuxedo;0;1;0;1
+500;<U+0001F935><U+0001F3FC>;medium-light skin tone man in tuxedo;0;1;0;1
+501;<U+0001F935><U+0001F3FD>;medium skin tone man in tuxedo;0;1;0;1
+502;<U+0001F935><U+0001F3FE>;medium-dark skin tone man in tuxedo;0;1;0;1
+503;<U+0001F935><U+0001F3FF>;dark skin tone man in tuxedo;0;1;0;1
+504;<U+0001F470>;bride with veil;0;1;0;1
+505;<U+0001F470><U+0001F3FB>;light skin tone bride with veil;0;1;0;1
+506;<U+0001F470><U+0001F3FC>;medium-light skin tone bride with veil;0;1;0;1
+507;<U+0001F470><U+0001F3FD>;medium skin tone bride with veil;0;1;0;1
+508;<U+0001F470><U+0001F3FE>;medium-dark skin tone bride with veil;0;1;0;1
+509;<U+0001F470><U+0001F3FF>;dark skin tone bride with veil;0;1;0;1
+510;<U+0001F930>;pregnant woman;0;1;0;1
+511;<U+0001F930><U+0001F3FB>;light skin tone pregnant woman;0;1;0;1
+512;<U+0001F930><U+0001F3FC>;medium-light skin tone pregnant woman;0;1;0;1
+513;<U+0001F930><U+0001F3FD>;medium skin tone pregnant woman;0;1;0;1
+514;<U+0001F930><U+0001F3FE>;medium-dark skin tone pregnant woman;0;1;0;1
+515;<U+0001F930><U+0001F3FF>;dark skin tone pregnant woman;0;1;0;1
+516;<U+0001F931>;breast-feeding;0;1;0;1
+517;<U+0001F931><U+0001F3FB>;light skin tone breast-feeding;0;1;0;1
+518;<U+0001F931><U+0001F3FC>;medium-light skin tone breast-feeding;0;1;0;1
+519;<U+0001F931><U+0001F3FD>;medium skin tone breast-feeding;0;1;0;1
+520;<U+0001F931><U+0001F3FE>;medium-dark skin tone breast-feeding;0;1;0;1
+521;<U+0001F931><U+0001F3FF>;dark skin tone breast-feeding;0;1;0;1
+522;<U+0001F47C>;baby angel;0;1;0;1
+523;<U+0001F47C><U+0001F3FB>;light skin tone baby angel;0;1;0;1
+524;<U+0001F47C><U+0001F3FC>;medium-light skin tone baby angel;0;1;0;1
+525;<U+0001F47C><U+0001F3FD>;medium skin tone baby angel;0;1;0;1
+526;<U+0001F47C><U+0001F3FE>;medium-dark skin tone baby angel;0;1;0;1
+527;<U+0001F47C><U+0001F3FF>;dark skin tone baby angel;0;1;0;1
+528;<U+0001F385>;Santa Claus;0;1;0;1
+529;<U+0001F385><U+0001F3FB>;light skin tone Santa Claus;0;1;0;1
+530;<U+0001F385><U+0001F3FC>;medium-light skin tone Santa Claus;0;1;0;1
+531;<U+0001F385><U+0001F3FD>;medium skin tone Santa Claus;0;1;0;1
+532;<U+0001F385><U+0001F3FE>;medium-dark skin tone Santa Claus;0;1;0;1
+533;<U+0001F385><U+0001F3FF>;dark skin tone Santa Claus;0;1;0;1
+534;<U+0001F936>;Mrs. Claus;0;1;0;1
+535;<U+0001F936><U+0001F3FB>;light skin tone Mrs. Claus;0;1;0;1
+536;<U+0001F936><U+0001F3FC>;medium-light skin tone Mrs. Claus;0;1;0;1
+537;<U+0001F936><U+0001F3FD>;medium skin tone Mrs. Claus;0;1;0;1
+538;<U+0001F936><U+0001F3FE>;medium-dark skin tone Mrs. Claus;0;1;0;1
+539;<U+0001F936><U+0001F3FF>;dark skin tone Mrs. Claus;0;1;0;1
+540;<U+0001F9D9>;mage;0;1;0;1
+541;<U+0001F9D9><U+0001F3FB>;light skin tone mage;0;1;0;1
+542;<U+0001F9D9><U+0001F3FC>;medium-light skin tone mage;0;1;0;1
+543;<U+0001F9D9><U+0001F3FD>;medium skin tone mage;0;1;0;1
+544;<U+0001F9D9><U+0001F3FE>;medium-dark skin tone mage;0;1;0;1
+545;<U+0001F9D9><U+0001F3FF>;dark skin tone mage;0;1;0;1
+546;<U+0001F9D9><U+200D>+<U+FE0F>;woman mage;0;1;0;1
+547;<U+0001F9D9><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman mage;0;1;0;1
+548;<U+0001F9D9><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman mage;0;1;0;1
+549;<U+0001F9D9><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman mage;0;1;0;1
+550;<U+0001F9D9><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman mage;0;1;0;1
+551;<U+0001F9D9><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman mage;0;1;0;1
+552;<U+0001F9D9><U+200D>><U+FE0F>;man mage;0;1;0;1
+553;<U+0001F9D9><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man mage;0;1;0;1
+554;<U+0001F9D9><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man mage;0;1;0;1
+555;<U+0001F9D9><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man mage;0;1;0;1
+556;<U+0001F9D9><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man mage;0;1;0;1
+557;<U+0001F9D9><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man mage;0;1;0;1
+558;<U+0001F9DA>;fairy;0;1;0;1
+559;<U+0001F9DA><U+0001F3FB>;light skin tone fairy;0;1;0;1
+560;<U+0001F9DA><U+0001F3FC>;medium-light skin tone fairy;0;1;0;1
+561;<U+0001F9DA><U+0001F3FD>;medium skin tone fairy;0;1;0;1
+562;<U+0001F9DA><U+0001F3FE>;medium-dark skin tone fairy;0;1;0;1
+563;<U+0001F9DA><U+0001F3FF>;dark skin tone fairy;0;1;0;1
+564;<U+0001F9DA><U+200D>+<U+FE0F>;woman fairy;0;1;0;1
+565;<U+0001F9DA><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman fairy;0;1;0;1
+566;<U+0001F9DA><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman fairy;0;1;0;1
+567;<U+0001F9DA><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman fairy;0;1;0;1
+568;<U+0001F9DA><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman fairy;0;1;0;1
+569;<U+0001F9DA><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman fairy;0;1;0;1
+570;<U+0001F9DA><U+200D>><U+FE0F>;man fairy;0;1;0;1
+571;<U+0001F9DA><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man fairy;0;1;0;1
+572;<U+0001F9DA><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man fairy;0;1;0;1
+573;<U+0001F9DA><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man fairy;0;1;0;1
+574;<U+0001F9DA><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man fairy;0;1;0;1
+575;<U+0001F9DA><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man fairy;0;1;0;1
+576;<U+0001F9DB>;vampire;0;1;0;1
+577;<U+0001F9DB><U+0001F3FB>;light skin tone vampire;0;1;0;1
+578;<U+0001F9DB><U+0001F3FC>;medium-light skin tone vampire;0;1;0;1
+579;<U+0001F9DB><U+0001F3FD>;medium skin tone vampire;0;1;0;1
+580;<U+0001F9DB><U+0001F3FE>;medium-dark skin tone vampire;0;1;0;1
+581;<U+0001F9DB><U+0001F3FF>;dark skin tone vampire;0;1;0;1
+582;<U+0001F9DB><U+200D>+<U+FE0F>;woman vampire;0;1;0;1
+583;<U+0001F9DB><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman vampire;0;1;0;1
+584;<U+0001F9DB><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman vampire;0;1;0;1
+585;<U+0001F9DB><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman vampire;0;1;0;1
+586;<U+0001F9DB><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman vampire;0;1;0;1
+587;<U+0001F9DB><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman vampire;0;1;0;1
+588;<U+0001F9DB><U+200D>><U+FE0F>;man vampire;0;1;0;1
+589;<U+0001F9DB><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man vampire;0;1;0;1
+590;<U+0001F9DB><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man vampire;0;1;0;1
+591;<U+0001F9DB><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man vampire;0;1;0;1
+592;<U+0001F9DB><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man vampire;0;1;0;1
+593;<U+0001F9DB><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man vampire;0;1;0;1
+594;<U+0001F9DC>;merperson;0;1;0;1
+595;<U+0001F9DC><U+0001F3FB>;light skin tone merperson;0;1;0;1
+596;<U+0001F9DC><U+0001F3FC>;medium-light skin tone merperson;0;1;0;1
+597;<U+0001F9DC><U+0001F3FD>;medium skin tone merperson;0;1;0;1
+598;<U+0001F9DC><U+0001F3FE>;medium-dark skin tone merperson;0;1;0;1
+599;<U+0001F9DC><U+0001F3FF>;dark skin tone merperson;0;1;0;1
+600;<U+0001F9DC><U+200D>+<U+FE0F>;mermaid;0;1;0;1
+601;<U+0001F9DC><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone mermaid;0;1;0;1
+602;<U+0001F9DC><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone mermaid;0;1;0;1
+603;<U+0001F9DC><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone mermaid;0;1;0;1
+604;<U+0001F9DC><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone mermaid;0;1;0;1
+605;<U+0001F9DC><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone mermaid;0;1;0;1
+606;<U+0001F9DC><U+200D>><U+FE0F>;merman;0;1;0;1
+607;<U+0001F9DC><U+0001F3FB><U+200D>><U+FE0F>;light skin tone merman;0;1;0;1
+608;<U+0001F9DC><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone merman;0;1;0;1
+609;<U+0001F9DC><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone merman;0;1;0;1
+610;<U+0001F9DC><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone merman;0;1;0;1
+611;<U+0001F9DC><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone merman;0;1;0;1
+612;<U+0001F9DD>;elf;0;1;0;1
+613;<U+0001F9DD><U+0001F3FB>;light skin tone elf;0;1;0;1
+614;<U+0001F9DD><U+0001F3FC>;medium-light skin tone elf;0;1;0;1
+615;<U+0001F9DD><U+0001F3FD>;medium skin tone elf;0;1;0;1
+616;<U+0001F9DD><U+0001F3FE>;medium-dark skin tone elf;0;1;0;1
+617;<U+0001F9DD><U+0001F3FF>;dark skin tone elf;0;1;0;1
+618;<U+0001F9DD><U+200D>+<U+FE0F>;woman elf;0;1;0;1
+619;<U+0001F9DD><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman elf;0;1;0;1
+620;<U+0001F9DD><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman elf;0;1;0;1
+621;<U+0001F9DD><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman elf;0;1;0;1
+622;<U+0001F9DD><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman elf;0;1;0;1
+623;<U+0001F9DD><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman elf;0;1;0;1
+624;<U+0001F9DD><U+200D>><U+FE0F>;man elf;0;1;0;1
+625;<U+0001F9DD><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man elf;0;1;0;1
+626;<U+0001F9DD><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man elf;0;1;0;1
+627;<U+0001F9DD><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man elf;0;1;0;1
+628;<U+0001F9DD><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man elf;0;1;0;1
+629;<U+0001F9DD><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man elf;0;1;0;1
+630;<U+0001F9DE>;genie;0;1;0;1
+631;<U+0001F9DE><U+200D>+<U+FE0F>;woman genie;0;1;0;1
+632;<U+0001F9DE><U+200D>><U+FE0F>;man genie;0;1;0;1
+633;<U+0001F9DF>;zombie;0;1;0;1
+634;<U+0001F9DF><U+200D>+<U+FE0F>;woman zombie;0;1;0;1
+635;<U+0001F9DF><U+200D>><U+FE0F>;man zombie;0;1;0;1
+636;<U+0001F64D>;person frowning;1;0;0;1
+637;<U+0001F64D><U+0001F3FB>;light skin tone person frowning;1;0;0;1
+638;<U+0001F64D><U+0001F3FC>;medium-light skin tone person frowning;1;0;0;1
+639;<U+0001F64D><U+0001F3FD>;medium skin tone person frowning;1;0;0;1
+640;<U+0001F64D><U+0001F3FE>;medium-dark skin tone person frowning;1;0;0;1
+641;<U+0001F64D><U+0001F3FF>;dark skin tone person frowning;1;0;0;1
+642;<U+0001F64D><U+200D>><U+FE0F>;man frowning;1;0;0;1
+643;<U+0001F64D><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man frowning;1;0;0;1
+644;<U+0001F64D><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man frowning;1;0;0;1
+645;<U+0001F64D><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man frowning;1;0;0;1
+646;<U+0001F64D><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man frowning;1;0;0;1
+647;<U+0001F64D><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man frowning;1;0;0;1
+648;<U+0001F64D><U+200D>+<U+FE0F>;woman frowning;1;0;0;1
+649;<U+0001F64D><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman frowning;1;0;0;1
+650;<U+0001F64D><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman frowning;1;0;0;1
+651;<U+0001F64D><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman frowning;1;0;0;1
+652;<U+0001F64D><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman frowning;1;0;0;1
+653;<U+0001F64D><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman frowning;1;0;0;1
+654;<U+0001F64E>;person pouting;1;0;0;1
+655;<U+0001F64E><U+0001F3FB>;light skin tone person pouting;1;0;0;1
+656;<U+0001F64E><U+0001F3FC>;medium-light skin tone person pouting;1;0;0;1
+657;<U+0001F64E><U+0001F3FD>;medium skin tone person pouting;1;0;0;1
+658;<U+0001F64E><U+0001F3FE>;medium-dark skin tone person pouting;1;0;0;1
+659;<U+0001F64E><U+0001F3FF>;dark skin tone person pouting;1;0;0;1
+660;<U+0001F64E><U+200D>><U+FE0F>;man pouting;1;0;0;1
+661;<U+0001F64E><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man pouting;1;0;0;1
+662;<U+0001F64E><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man pouting;1;0;0;1
+663;<U+0001F64E><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man pouting;1;0;0;1
+664;<U+0001F64E><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man pouting;1;0;0;1
+665;<U+0001F64E><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man pouting;1;0;0;1
+666;<U+0001F64E><U+200D>+<U+FE0F>;woman pouting;1;0;0;1
+667;<U+0001F64E><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman pouting;1;0;0;1
+668;<U+0001F64E><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman pouting;1;0;0;1
+669;<U+0001F64E><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman pouting;1;0;0;1
+670;<U+0001F64E><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman pouting;1;0;0;1
+671;<U+0001F64E><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman pouting;1;0;0;1
+672;<U+0001F645>;person gesturing NO;1;0;0;1
+673;<U+0001F645><U+0001F3FB>;light skin tone person gesturing NO;1;0;0;1
+674;<U+0001F645><U+0001F3FC>;medium-light skin tone person gesturing NO;1;0;0;1
+675;<U+0001F645><U+0001F3FD>;medium skin tone person gesturing NO;1;0;0;1
+676;<U+0001F645><U+0001F3FE>;medium-dark skin tone person gesturing NO;1;0;0;1
+677;<U+0001F645><U+0001F3FF>;dark skin tone person gesturing NO;1;0;0;1
+678;<U+0001F645><U+200D>><U+FE0F>;man gesturing NO;1;0;0;1
+679;<U+0001F645><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man gesturing NO;1;0;0;1
+680;<U+0001F645><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man gesturing NO;1;0;0;1
+681;<U+0001F645><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man gesturing NO;1;0;0;1
+682;<U+0001F645><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man gesturing NO;1;0;0;1
+683;<U+0001F645><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man gesturing NO;1;0;0;1
+684;<U+0001F645><U+200D>+<U+FE0F>;woman gesturing NO;1;0;0;1
+685;<U+0001F645><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman gesturing NO;1;0;0;1
+686;<U+0001F645><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman gesturing NO;1;0;0;1
+687;<U+0001F645><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman gesturing NO;1;0;0;1
+688;<U+0001F645><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman gesturing NO;1;0;0;1
+689;<U+0001F645><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman gesturing NO;1;0;0;1
+690;<U+0001F646>;person gesturing OK;0;0;1;1
+691;<U+0001F646><U+0001F3FB>;light skin tone person gesturing OK;0;0;1;1
+692;<U+0001F646><U+0001F3FC>;medium-light skin tone person gesturing OK;0;0;1;1
+693;<U+0001F646><U+0001F3FD>;medium skin tone person gesturing OK;0;0;1;1
+694;<U+0001F646><U+0001F3FE>;medium-dark skin tone person gesturing OK;0;0;1;1
+695;<U+0001F646><U+0001F3FF>;dark skin tone person gesturing OK;0;0;1;1
+696;<U+0001F646><U+200D>><U+FE0F>;man gesturing OK;0;0;1;1
+697;<U+0001F646><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man gesturing OK;0;0;1;1
+698;<U+0001F646><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man gesturing OK;0;0;1;1
+699;<U+0001F646><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man gesturing OK;0;0;1;1
+700;<U+0001F646><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man gesturing OK;0;0;1;1
+701;<U+0001F646><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man gesturing OK;0;0;1;1
+702;<U+0001F646><U+200D>+<U+FE0F>;woman gesturing OK;0;0;1;1
+703;<U+0001F646><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman gesturing OK;0;0;1;1
+704;<U+0001F646><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman gesturing OK;0;0;1;1
+705;<U+0001F646><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman gesturing OK;0;0;1;1
+706;<U+0001F646><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman gesturing OK;0;0;1;1
+707;<U+0001F646><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman gesturing OK;0;0;1;1
+708;<U+0001F481>;person tipping hand;0;1;0;1
+709;<U+0001F481><U+0001F3FB>;light skin tone person tipping hand;0;1;0;1
+710;<U+0001F481><U+0001F3FC>;medium-light skin tone person tipping hand;0;1;0;1
+711;<U+0001F481><U+0001F3FD>;medium skin tone person tipping hand;0;1;0;1
+712;<U+0001F481><U+0001F3FE>;medium-dark skin tone person tipping hand;0;1;0;1
+713;<U+0001F481><U+0001F3FF>;dark skin tone person tipping hand;0;1;0;1
+714;<U+0001F481><U+200D>><U+FE0F>;man tipping hand;0;1;0;1
+715;<U+0001F481><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man tipping hand;0;1;0;1
+716;<U+0001F481><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man tipping hand;0;1;0;1
+717;<U+0001F481><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man tipping hand;0;1;0;1
+718;<U+0001F481><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man tipping hand;0;1;0;1
+719;<U+0001F481><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man tipping hand;0;1;0;1
+720;<U+0001F481><U+200D>+<U+FE0F>;woman tipping hand;0;1;0;1
+721;<U+0001F481><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman tipping hand;0;1;0;1
+722;<U+0001F481><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman tipping hand;0;1;0;1
+723;<U+0001F481><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman tipping hand;0;1;0;1
+724;<U+0001F481><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman tipping hand;0;1;0;1
+725;<U+0001F481><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman tipping hand;0;1;0;1
+726;<U+0001F64B>;person raising hand;0;1;0;1
+727;<U+0001F64B><U+0001F3FB>;light skin tone person raising hand;0;1;0;1
+728;<U+0001F64B><U+0001F3FC>;medium-light skin tone person raising hand;0;1;0;1
+729;<U+0001F64B><U+0001F3FD>;medium skin tone person raising hand;0;1;0;1
+730;<U+0001F64B><U+0001F3FE>;medium-dark skin tone person raising hand;0;1;0;1
+731;<U+0001F64B><U+0001F3FF>;dark skin tone person raising hand;0;1;0;1
+732;<U+0001F64B><U+200D>><U+FE0F>;man raising hand;0;1;0;1
+733;<U+0001F64B><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man raising hand;0;1;0;1
+734;<U+0001F64B><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man raising hand;0;1;0;1
+735;<U+0001F64B><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man raising hand;0;1;0;1
+736;<U+0001F64B><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man raising hand;0;1;0;1
+737;<U+0001F64B><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man raising hand;0;1;0;1
+738;<U+0001F64B><U+200D>+<U+FE0F>;woman raising hand;0;1;0;1
+739;<U+0001F64B><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman raising hand;0;1;0;1
+740;<U+0001F64B><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman raising hand;0;1;0;1
+741;<U+0001F64B><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman raising hand;0;1;0;1
+742;<U+0001F64B><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman raising hand;0;1;0;1
+743;<U+0001F64B><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman raising hand;0;1;0;1
+744;<U+0001F647>;person bowing;0;0;1;1
+745;<U+0001F647><U+0001F3FB>;light skin tone person bowing;0;0;1;1
+746;<U+0001F647><U+0001F3FC>;medium-light skin tone person bowing;0;0;1;1
+747;<U+0001F647><U+0001F3FD>;medium skin tone person bowing;0;0;1;1
+748;<U+0001F647><U+0001F3FE>;medium-dark skin tone person bowing;0;0;1;1
+749;<U+0001F647><U+0001F3FF>;dark skin tone person bowing;0;0;1;1
+750;<U+0001F647><U+200D>><U+FE0F>;man bowing;0;0;1;1
+751;<U+0001F647><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man bowing;0;0;1;1
+752;<U+0001F647><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man bowing;0;0;1;1
+753;<U+0001F647><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man bowing;0;0;1;1
+754;<U+0001F647><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man bowing;0;0;1;1
+755;<U+0001F647><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man bowing;0;0;1;1
+756;<U+0001F647><U+200D>+<U+FE0F>;woman bowing;0;0;1;1
+757;<U+0001F647><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman bowing;0;0;1;1
+758;<U+0001F647><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman bowing;0;0;1;1
+759;<U+0001F647><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman bowing;0;0;1;1
+760;<U+0001F647><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman bowing;0;0;1;1
+761;<U+0001F647><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman bowing;0;0;1;1
+762;<U+0001F926>;person facepalming;1;0;0;1
+763;<U+0001F926><U+0001F3FB>;light skin tone person facepalming;1;0;0;1
+764;<U+0001F926><U+0001F3FC>;medium-light skin tone person facepalming;1;0;0;1
+765;<U+0001F926><U+0001F3FD>;medium skin tone person facepalming;1;0;0;1
+766;<U+0001F926><U+0001F3FE>;medium-dark skin tone person facepalming;1;0;0;1
+767;<U+0001F926><U+0001F3FF>;dark skin tone person facepalming;1;0;0;1
+768;<U+0001F926><U+200D>><U+FE0F>;man facepalming;1;0;0;1
+769;<U+0001F926><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man facepalming;1;0;0;1
+770;<U+0001F926><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man facepalming;1;0;0;1
+771;<U+0001F926><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man facepalming;1;0;0;1
+772;<U+0001F926><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man facepalming;1;0;0;1
+773;<U+0001F926><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man facepalming;1;0;0;1
+774;<U+0001F926><U+200D>+<U+FE0F>;woman facepalming;1;0;0;1
+775;<U+0001F926><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman facepalming;1;0;0;1
+776;<U+0001F926><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman facepalming;1;0;0;1
+777;<U+0001F926><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman facepalming;1;0;0;1
+778;<U+0001F926><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman facepalming;1;0;0;1
+779;<U+0001F926><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman facepalming;1;0;0;1
+780;<U+0001F937>;person shrugging;0;1;0;1
+781;<U+0001F937><U+0001F3FB>;light skin tone person shrugging;0;1;0;1
+782;<U+0001F937><U+0001F3FC>;medium-light skin tone person shrugging;0;1;0;1
+783;<U+0001F937><U+0001F3FD>;medium skin tone person shrugging;0;1;0;1
+784;<U+0001F937><U+0001F3FE>;medium-dark skin tone person shrugging;0;1;0;1
+785;<U+0001F937><U+0001F3FF>;dark skin tone person shrugging;0;1;0;1
+786;<U+0001F937><U+200D>><U+FE0F>;man shrugging;0;1;0;1
+787;<U+0001F937><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man shrugging;0;1;0;1
+788;<U+0001F937><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man shrugging;0;1;0;1
+789;<U+0001F937><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man shrugging;0;1;0;1
+790;<U+0001F937><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man shrugging;0;1;0;1
+791;<U+0001F937><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man shrugging;0;1;0;1
+792;<U+0001F937><U+200D>+<U+FE0F>;woman shrugging;0;1;0;1
+793;<U+0001F937><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman shrugging;0;1;0;1
+794;<U+0001F937><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman shrugging;0;1;0;1
+795;<U+0001F937><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman shrugging;0;1;0;1
+796;<U+0001F937><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman shrugging;0;1;0;1
+797;<U+0001F937><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman shrugging;0;1;0;1
+798;<U+0001F486>;person getting massage;0;0;1;1
+799;<U+0001F486><U+0001F3FB>;light skin tone person getting massage;0;0;1;1
+800;<U+0001F486><U+0001F3FC>;medium-light skin tone person getting massage;0;0;1;1
+801;<U+0001F486><U+0001F3FD>;medium skin tone person getting massage;0;0;1;1
+802;<U+0001F486><U+0001F3FE>;medium-dark skin tone person getting massage;0;0;1;1
+803;<U+0001F486><U+0001F3FF>;dark skin tone person getting massage;0;0;1;1
+804;<U+0001F486><U+200D>><U+FE0F>;man getting massage;0;0;1;1
+805;<U+0001F486><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man getting massage;0;0;1;1
+806;<U+0001F486><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man getting massage;0;0;1;1
+807;<U+0001F486><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man getting massage;0;0;1;1
+808;<U+0001F486><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man getting massage;0;0;1;1
+809;<U+0001F486><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man getting massage;0;0;1;1
+810;<U+0001F486><U+200D>+<U+FE0F>;woman getting massage;0;0;1;1
+811;<U+0001F486><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman getting massage;0;0;1;1
+812;<U+0001F486><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman getting massage;0;0;1;1
+813;<U+0001F486><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman getting massage;0;0;1;1
+814;<U+0001F486><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman getting massage;0;0;1;1
+815;<U+0001F486><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman getting massage;0;0;1;1
+816;<U+0001F487>;person getting haircut;0;1;0;1
+817;<U+0001F487><U+0001F3FB>;light skin tone person getting haircut;0;1;0;1
+818;<U+0001F487><U+0001F3FC>;medium-light skin tone person getting haircut;0;1;0;1
+819;<U+0001F487><U+0001F3FD>;medium skin tone person getting haircut;0;1;0;1
+820;<U+0001F487><U+0001F3FE>;medium-dark skin tone person getting haircut;0;1;0;1
+821;<U+0001F487><U+0001F3FF>;dark skin tone person getting haircut;0;1;0;1
+822;<U+0001F487><U+200D>><U+FE0F>;man getting haircut;0;1;0;1
+823;<U+0001F487><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man getting haircut;0;1;0;1
+824;<U+0001F487><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man getting haircut;0;1;0;1
+825;<U+0001F487><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man getting haircut;0;1;0;1
+826;<U+0001F487><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man getting haircut;0;1;0;1
+827;<U+0001F487><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man getting haircut;0;1;0;1
+828;<U+0001F487><U+200D>+<U+FE0F>;woman getting haircut;0;1;0;1
+829;<U+0001F487><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman getting haircut;0;1;0;1
+830;<U+0001F487><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman getting haircut;0;1;0;1
+831;<U+0001F487><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman getting haircut;0;1;0;1
+832;<U+0001F487><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman getting haircut;0;1;0;1
+833;<U+0001F487><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman getting haircut;0;1;0;1
+834;<U+0001F6B6>;person walking;0;1;0;1
+835;<U+0001F6B6><U+0001F3FB>;light skin tone person walking;0;1;0;1
+836;<U+0001F6B6><U+0001F3FC>;medium-light skin tone person walking;0;1;0;1
+837;<U+0001F6B6><U+0001F3FD>;medium skin tone person walking;0;1;0;1
+838;<U+0001F6B6><U+0001F3FE>;medium-dark skin tone person walking;0;1;0;1
+839;<U+0001F6B6><U+0001F3FF>;dark skin tone person walking;0;1;0;1
+840;<U+0001F6B6><U+200D>><U+FE0F>;man walking;0;1;0;1
+841;<U+0001F6B6><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man walking;0;1;0;1
+842;<U+0001F6B6><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man walking;0;1;0;1
+843;<U+0001F6B6><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man walking;0;1;0;1
+844;<U+0001F6B6><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man walking;0;1;0;1
+845;<U+0001F6B6><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man walking;0;1;0;1
+846;<U+0001F6B6><U+200D>+<U+FE0F>;woman walking;0;1;0;1
+847;<U+0001F6B6><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman walking;0;1;0;1
+848;<U+0001F6B6><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman walking;0;1;0;1
+849;<U+0001F6B6><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman walking;0;1;0;1
+850;<U+0001F6B6><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman walking;0;1;0;1
+851;<U+0001F6B6><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman walking;0;1;0;1
+852;<U+0001F3C3>;person running;0;1;0;1
+853;<U+0001F3C3><U+0001F3FB>;light skin tone person running;0;1;0;1
+854;<U+0001F3C3><U+0001F3FC>;medium-light skin tone person running;0;1;0;1
+855;<U+0001F3C3><U+0001F3FD>;medium skin tone person running;0;1;0;1
+856;<U+0001F3C3><U+0001F3FE>;medium-dark skin tone person running;0;1;0;1
+857;<U+0001F3C3><U+0001F3FF>;dark skin tone person running;0;1;0;1
+858;<U+0001F3C3><U+200D>><U+FE0F>;man running;0;1;0;1
+859;<U+0001F3C3><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man running;0;1;0;1
+860;<U+0001F3C3><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man running;0;1;0;1
+861;<U+0001F3C3><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man running;0;1;0;1
+862;<U+0001F3C3><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man running;0;1;0;1
+863;<U+0001F3C3><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man running;0;1;0;1
+864;<U+0001F3C3><U+200D>+<U+FE0F>;woman running;0;1;0;1
+865;<U+0001F3C3><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman running;0;1;0;1
+866;<U+0001F3C3><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman running;0;1;0;1
+867;<U+0001F3C3><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman running;0;1;0;1
+868;<U+0001F3C3><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman running;0;1;0;1
+869;<U+0001F3C3><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman running;0;1;0;1
+870;<U+0001F483>;woman dancing;0;0;1;1
+871;<U+0001F483><U+0001F3FB>;light skin tone woman dancing;0;0;1;1
+872;<U+0001F483><U+0001F3FC>;medium-light skin tone woman dancing;0;0;1;1
+873;<U+0001F483><U+0001F3FD>;medium skin tone woman dancing;0;0;1;1
+874;<U+0001F483><U+0001F3FE>;medium-dark skin tone woman dancing;0;0;1;1
+875;<U+0001F483><U+0001F3FF>;dark skin tone woman dancing;0;0;1;1
+876;<U+0001F57A>;man dancing;0;0;1;1
+877;<U+0001F57A><U+0001F3FB>;light skin tone man dancing;0;0;1;1
+878;<U+0001F57A><U+0001F3FC>;medium-light skin tone man dancing;0;0;1;1
+879;<U+0001F57A><U+0001F3FD>;medium skin tone man dancing;0;0;1;1
+880;<U+0001F57A><U+0001F3FE>;medium-dark skin tone man dancing;0;0;1;1
+881;<U+0001F57A><U+0001F3FF>;dark skin tone man dancing;0;0;1;1
+882;<U+0001F46F>;people with bunny ears;0;1;0;1
+883;<U+0001F46F><U+200D>><U+FE0F>;men with bunny ears;0;1;0;1
+884;<U+0001F46F><U+200D>+<U+FE0F>;women with bunny ears;0;1;0;1
+885;<U+0001F9D6>;person in steamy room;0;1;0;1
+886;<U+0001F9D6><U+0001F3FB>;light skin tone person in steamy room;0;1;0;1
+887;<U+0001F9D6><U+0001F3FC>;medium-light skin tone person in steamy room;0;1;0;1
+888;<U+0001F9D6><U+0001F3FD>;medium skin tone person in steamy room;0;1;0;1
+889;<U+0001F9D6><U+0001F3FE>;medium-dark skin tone person in steamy room;0;1;0;1
+890;<U+0001F9D6><U+0001F3FF>;dark skin tone person in steamy room;0;1;0;1
+891;<U+0001F9D6><U+200D>+<U+FE0F>;woman in steamy room;0;1;0;1
+892;<U+0001F9D6><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman in steamy room;0;1;0;1
+893;<U+0001F9D6><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman in steamy room;0;1;0;1
+894;<U+0001F9D6><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman in steamy room;0;1;0;1
+895;<U+0001F9D6><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman in steamy room;0;1;0;1
+896;<U+0001F9D6><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman in steamy room;0;1;0;1
+897;<U+0001F9D6><U+200D>><U+FE0F>;man in steamy room;0;1;0;1
+898;<U+0001F9D6><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man in steamy room;0;1;0;1
+899;<U+0001F9D6><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man in steamy room;0;1;0;1
+900;<U+0001F9D6><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man in steamy room;0;1;0;1
+901;<U+0001F9D6><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man in steamy room;0;1;0;1
+902;<U+0001F9D6><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man in steamy room;0;1;0;1
+903;<U+0001F9D7>;person climbing;0;1;0;1
+904;<U+0001F9D7><U+0001F3FB>;light skin tone person climbing;0;1;0;1
+905;<U+0001F9D7><U+0001F3FC>;medium-light skin tone person climbing;0;1;0;1
+906;<U+0001F9D7><U+0001F3FD>;medium skin tone person climbing;0;1;0;1
+907;<U+0001F9D7><U+0001F3FE>;medium-dark skin tone person climbing;0;1;0;1
+908;<U+0001F9D7><U+0001F3FF>;dark skin tone person climbing;0;1;0;1
+909;<U+0001F9D7><U+200D>+<U+FE0F>;woman climbing;0;1;0;1
+910;<U+0001F9D7><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman climbing;0;1;0;1
+911;<U+0001F9D7><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman climbing;0;1;0;1
+912;<U+0001F9D7><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman climbing;0;1;0;1
+913;<U+0001F9D7><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman climbing;0;1;0;1
+914;<U+0001F9D7><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman climbing;0;1;0;1
+915;<U+0001F9D7><U+200D>><U+FE0F>;man climbing;0;1;0;1
+916;<U+0001F9D7><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man climbing;0;1;0;1
+917;<U+0001F9D7><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man climbing;0;1;0;1
+918;<U+0001F9D7><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man climbing;0;1;0;1
+919;<U+0001F9D7><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man climbing;0;1;0;1
+920;<U+0001F9D7><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man climbing;0;1;0;1
+921;<U+0001F9D8>;person in lotus position;0;1;0;1
+922;<U+0001F9D8><U+0001F3FB>;light skin tone person in lotus position;0;1;0;1
+923;<U+0001F9D8><U+0001F3FC>;medium-light skin tone person in lotus position;0;1;0;1
+924;<U+0001F9D8><U+0001F3FD>;medium skin tone person in lotus position;0;1;0;1
+925;<U+0001F9D8><U+0001F3FE>;medium-dark skin tone person in lotus position;0;1;0;1
+926;<U+0001F9D8><U+0001F3FF>;dark skin tone person in lotus position;0;1;0;1
+927;<U+0001F9D8><U+200D>+<U+FE0F>;woman in lotus position;0;1;0;1
+928;<U+0001F9D8><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman in lotus position;0;1;0;1
+929;<U+0001F9D8><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman in lotus position;0;1;0;1
+930;<U+0001F9D8><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman in lotus position;0;1;0;1
+931;<U+0001F9D8><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman in lotus position;0;1;0;1
+932;<U+0001F9D8><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman in lotus position;0;1;0;1
+933;<U+0001F9D8><U+200D>><U+FE0F>;man in lotus position;0;1;0;1
+934;<U+0001F9D8><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man in lotus position;0;1;0;1
+935;<U+0001F9D8><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man in lotus position;0;1;0;1
+936;<U+0001F9D8><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man in lotus position;0;1;0;1
+937;<U+0001F9D8><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man in lotus position;0;1;0;1
+938;<U+0001F9D8><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man in lotus position;0;1;0;1
+939;<U+0001F6C0>;person taking bath;0;0;1;1
+940;<U+0001F6C0><U+0001F3FB>;light skin tone person taking bath;0;0;1;1
+941;<U+0001F6C0><U+0001F3FC>;medium-light skin tone person taking bath;0;0;1;1
+942;<U+0001F6C0><U+0001F3FD>;medium skin tone person taking bath;0;0;1;1
+943;<U+0001F6C0><U+0001F3FE>;medium-dark skin tone person taking bath;0;0;1;1
+944;<U+0001F6C0><U+0001F3FF>;dark skin tone person taking bath;0;0;1;1
+945;<U+0001F6CC>;person in bed;0;0;1;1
+946;<U+0001F6CC><U+0001F3FB>;light skin tone person in bed;0;0;1;1
+947;<U+0001F6CC><U+0001F3FC>;medium-light skin tone person in bed;0;0;1;1
+948;<U+0001F6CC><U+0001F3FD>;medium skin tone person in bed;0;0;1;1
+949;<U+0001F6CC><U+0001F3FE>;medium-dark skin tone person in bed;0;0;1;1
+950;<U+0001F6CC><U+0001F3FF>;dark skin tone person in bed;0;0;1;1
+951;<U+0001F574>;man in suit levitating;0;1;0;1
+952;<U+0001F574><U+0001F3FB>;light skin tone man in suit levitating;0;1;0;1
+953;<U+0001F574><U+0001F3FC>;medium-light skin tone man in suit levitating;0;1;0;1
+954;<U+0001F574><U+0001F3FD>;medium skin tone man in suit levitating;0;1;0;1
+955;<U+0001F574><U+0001F3FE>;medium-dark skin tone man in suit levitating;0;1;0;1
+956;<U+0001F574><U+0001F3FF>;dark skin tone man in suit levitating;0;1;0;1
+957;<U+0001F5E3>;speaking head;1;0;0;1
+958;<U+0001F464>;bust in silhouette;0;1;0;1
+959;<U+0001F465>;busts in silhouette;0;1;0;1
+960;<U+0001F93A>;person fencing;0;0;1;1
+961;<U+0001F3C7>;horse racing;0;0;1;1
+962;<U+0001F3C7><U+0001F3FB>;light skin tone horse racing;0;0;1;1
+963;<U+0001F3C7><U+0001F3FC>;medium-light skin tone horse racing;0;0;1;1
+964;<U+0001F3C7><U+0001F3FD>;medium skin tone horse racing;0;0;1;1
+965;<U+0001F3C7><U+0001F3FE>;medium-dark skin tone horse racing;0;0;1;1
+966;<U+0001F3C7><U+0001F3FF>;dark skin tone horse racing;0;0;1;1
+967;<U+26F7>;skier;0;0;1;1
+968;<U+0001F3C2>;snowboarder;0;0;1;1
+969;<U+0001F3C2><U+0001F3FB>;light skin tone snowboarder;0;0;1;1
+970;<U+0001F3C2><U+0001F3FC>;medium-light skin tone snowboarder;0;0;1;1
+971;<U+0001F3C2><U+0001F3FD>;medium skin tone snowboarder;0;0;1;1
+972;<U+0001F3C2><U+0001F3FE>;medium-dark skin tone snowboarder;0;0;1;1
+973;<U+0001F3C2><U+0001F3FF>;dark skin tone snowboarder;0;0;1;1
+974;<U+0001F3CC>;person golfing;0;0;1;1
+975;<U+0001F3CC><U+0001F3FB>;light skin tone person golfing;0;0;1;1
+976;<U+0001F3CC><U+0001F3FC>;medium-light skin tone person golfing;0;0;1;1
+977;<U+0001F3CC><U+0001F3FD>;medium skin tone person golfing;0;0;1;1
+978;<U+0001F3CC><U+0001F3FE>;medium-dark skin tone person golfing;0;0;1;1
+979;<U+0001F3CC><U+0001F3FF>;dark skin tone person golfing;0;0;1;1
+980;<U+0001F3CC><U+FE0F><U+200D>><U+FE0F>;man golfing;0;0;1;1
+981;<U+0001F3CC><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man golfing;0;0;1;1
+982;<U+0001F3CC><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man golfing;0;0;1;1
+983;<U+0001F3CC><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man golfing;0;0;1;1
+984;<U+0001F3CC><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man golfing;0;0;1;1
+985;<U+0001F3CC><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man golfing;0;0;1;1
+986;<U+0001F3CC><U+FE0F><U+200D>+<U+FE0F>;woman golfing;0;0;1;1
+987;<U+0001F3CC><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman golfing;0;0;1;1
+988;<U+0001F3CC><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman golfing;0;0;1;1
+989;<U+0001F3CC><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman golfing;0;0;1;1
+990;<U+0001F3CC><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman golfing;0;0;1;1
+991;<U+0001F3CC><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman golfing;0;0;1;1
+992;<U+0001F3C4>;person surfing;0;0;1;1
+993;<U+0001F3C4><U+0001F3FB>;light skin tone person surfing;0;0;1;1
+994;<U+0001F3C4><U+0001F3FC>;medium-light skin tone person surfing;0;0;1;1
+995;<U+0001F3C4><U+0001F3FD>;medium skin tone person surfing;0;0;1;1
+996;<U+0001F3C4><U+0001F3FE>;medium-dark skin tone person surfing;0;0;1;1
+997;<U+0001F3C4><U+0001F3FF>;dark skin tone person surfing;0;0;1;1
+998;<U+0001F3C4><U+200D>><U+FE0F>;man surfing;0;0;1;1
+999;<U+0001F3C4><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man surfing;0;0;1;1
+1000;<U+0001F3C4><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man surfing;0;0;1;1
+1001;<U+0001F3C4><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man surfing;0;0;1;1
+1002;<U+0001F3C4><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man surfing;0;0;1;1
+1003;<U+0001F3C4><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man surfing;0;0;1;1
+1004;<U+0001F3C4><U+200D>+<U+FE0F>;woman surfing;0;0;1;1
+1005;<U+0001F3C4><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman surfing;0;0;1;1
+1006;<U+0001F3C4><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman surfing;0;0;1;1
+1007;<U+0001F3C4><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman surfing;0;0;1;1
+1008;<U+0001F3C4><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman surfing;0;0;1;1
+1009;<U+0001F3C4><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman surfing;0;0;1;1
+1010;<U+0001F6A3>;person rowing boat;0;0;1;1
+1011;<U+0001F6A3><U+0001F3FB>;light skin tone person rowing boat;0;0;1;1
+1012;<U+0001F6A3><U+0001F3FC>;medium-light skin tone person rowing boat;0;0;1;1
+1013;<U+0001F6A3><U+0001F3FD>;medium skin tone person rowing boat;0;0;1;1
+1014;<U+0001F6A3><U+0001F3FE>;medium-dark skin tone person rowing boat;0;0;1;1
+1015;<U+0001F6A3><U+0001F3FF>;dark skin tone person rowing boat;0;0;1;1
+1016;<U+0001F6A3><U+200D>><U+FE0F>;man rowing boat;0;0;1;1
+1017;<U+0001F6A3><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man rowing boat;0;0;1;1
+1018;<U+0001F6A3><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man rowing boat;0;0;1;1
+1019;<U+0001F6A3><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man rowing boat;0;0;1;1
+1020;<U+0001F6A3><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man rowing boat;0;0;1;1
+1021;<U+0001F6A3><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man rowing boat;0;0;1;1
+1022;<U+0001F6A3><U+200D>+<U+FE0F>;woman rowing boat;0;0;1;1
+1023;<U+0001F6A3><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman rowing boat;0;0;1;1
+1024;<U+0001F6A3><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman rowing boat;0;0;1;1
+1025;<U+0001F6A3><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman rowing boat;0;0;1;1
+1026;<U+0001F6A3><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman rowing boat;0;0;1;1
+1027;<U+0001F6A3><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman rowing boat;0;0;1;1
+1028;<U+0001F3CA>;person swimming;0;0;1;1
+1029;<U+0001F3CA><U+0001F3FB>;light skin tone person swimming;0;0;1;1
+1030;<U+0001F3CA><U+0001F3FC>;medium-light skin tone person swimming;0;0;1;1
+1031;<U+0001F3CA><U+0001F3FD>;medium skin tone person swimming;0;0;1;1
+1032;<U+0001F3CA><U+0001F3FE>;medium-dark skin tone person swimming;0;0;1;1
+1033;<U+0001F3CA><U+0001F3FF>;dark skin tone person swimming;0;0;1;1
+1034;<U+0001F3CA><U+200D>><U+FE0F>;man swimming;0;0;1;1
+1035;<U+0001F3CA><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man swimming;0;0;1;1
+1036;<U+0001F3CA><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man swimming;0;0;1;1
+1037;<U+0001F3CA><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man swimming;0;0;1;1
+1038;<U+0001F3CA><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man swimming;0;0;1;1
+1039;<U+0001F3CA><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man swimming;0;0;1;1
+1040;<U+0001F3CA><U+200D>+<U+FE0F>;woman swimming;0;0;1;1
+1041;<U+0001F3CA><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman swimming;0;0;1;1
+1042;<U+0001F3CA><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman swimming;0;0;1;1
+1043;<U+0001F3CA><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman swimming;0;0;1;1
+1044;<U+0001F3CA><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman swimming;0;0;1;1
+1045;<U+0001F3CA><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman swimming;0;0;1;1
+1046;<U+26F9>;person bouncing ball;0;0;1;1
+1047;<U+26F9><U+0001F3FB>;light skin tone person bouncing ball;0;0;1;1
+1048;<U+26F9><U+0001F3FC>;medium-light skin tone person bouncing ball;0;0;1;1
+1049;<U+26F9><U+0001F3FD>;medium skin tone person bouncing ball;0;0;1;1
+1050;<U+26F9><U+0001F3FE>;medium-dark skin tone person bouncing ball;0;0;1;1
+1051;<U+26F9><U+0001F3FF>;dark skin tone person bouncing ball;0;0;1;1
+1052;<U+26F9><U+FE0F><U+200D>><U+FE0F>;man bouncing ball;0;0;1;1
+1053;<U+26F9><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man bouncing ball;0;0;1;1
+1054;<U+26F9><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man bouncing ball;0;0;1;1
+1055;<U+26F9><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man bouncing ball;0;0;1;1
+1056;<U+26F9><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man bouncing ball;0;0;1;1
+1057;<U+26F9><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man bouncing ball;0;0;1;1
+1058;<U+26F9><U+FE0F><U+200D>+<U+FE0F>;woman bouncing ball;0;0;1;1
+1059;<U+26F9><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman bouncing ball;0;0;1;1
+1060;<U+26F9><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman bouncing ball;0;0;1;1
+1061;<U+26F9><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman bouncing ball;0;0;1;1
+1062;<U+26F9><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman bouncing ball;0;0;1;1
+1063;<U+26F9><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman bouncing ball;0;0;1;1
+1064;<U+0001F3CB>;person lifting weights;0;0;1;1
+1065;<U+0001F3CB><U+0001F3FB>;light skin tone person lifting weights;0;0;1;1
+1066;<U+0001F3CB><U+0001F3FC>;medium-light skin tone person lifting weights;0;0;1;1
+1067;<U+0001F3CB><U+0001F3FD>;medium skin tone person lifting weights;0;0;1;1
+1068;<U+0001F3CB><U+0001F3FE>;medium-dark skin tone person lifting weights;0;0;1;1
+1069;<U+0001F3CB><U+0001F3FF>;dark skin tone person lifting weights;0;0;1;1
+1070;<U+0001F3CB><U+FE0F><U+200D>><U+FE0F>;man lifting weights;0;0;1;1
+1071;<U+0001F3CB><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man lifting weights;0;0;1;1
+1072;<U+0001F3CB><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man lifting weights;0;0;1;1
+1073;<U+0001F3CB><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man lifting weights;0;0;1;1
+1074;<U+0001F3CB><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man lifting weights;0;0;1;1
+1075;<U+0001F3CB><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man lifting weights;0;0;1;1
+1076;<U+0001F3CB><U+FE0F><U+200D>+<U+FE0F>;woman lifting weights;0;0;1;1
+1077;<U+0001F3CB><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman lifting weights;0;0;1;1
+1078;<U+0001F3CB><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman lifting weights;0;0;1;1
+1079;<U+0001F3CB><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman lifting weights;0;0;1;1
+1080;<U+0001F3CB><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman lifting weights;0;0;1;1
+1081;<U+0001F3CB><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman lifting weights;0;0;1;1
+1082;<U+0001F6B4>;person biking;0;0;1;1
+1083;<U+0001F6B4><U+0001F3FB>;light skin tone person biking;0;0;1;1
+1084;<U+0001F6B4><U+0001F3FC>;medium-light skin tone person biking;0;0;1;1
+1085;<U+0001F6B4><U+0001F3FD>;medium skin tone person biking;0;0;1;1
+1086;<U+0001F6B4><U+0001F3FE>;medium-dark skin tone person biking;0;0;1;1
+1087;<U+0001F6B4><U+0001F3FF>;dark skin tone person biking;0;0;1;1
+1088;<U+0001F6B4><U+200D>><U+FE0F>;man biking;0;0;1;1
+1089;<U+0001F6B4><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man biking;0;0;1;1
+1090;<U+0001F6B4><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man biking;0;0;1;1
+1091;<U+0001F6B4><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man biking;0;0;1;1
+1092;<U+0001F6B4><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man biking;0;0;1;1
+1093;<U+0001F6B4><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man biking;0;0;1;1
+1094;<U+0001F6B4><U+200D>+<U+FE0F>;woman biking;0;0;1;1
+1095;<U+0001F6B4><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman biking;0;0;1;1
+1096;<U+0001F6B4><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman biking;0;0;1;1
+1097;<U+0001F6B4><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman biking;0;0;1;1
+1098;<U+0001F6B4><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman biking;0;0;1;1
+1099;<U+0001F6B4><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman biking;0;0;1;1
+1100;<U+0001F6B5>;person mountain biking;0;0;1;1
+1101;<U+0001F6B5><U+0001F3FB>;light skin tone person mountain biking;0;0;1;1
+1102;<U+0001F6B5><U+0001F3FC>;medium-light skin tone person mountain biking;0;0;1;1
+1103;<U+0001F6B5><U+0001F3FD>;medium skin tone person mountain biking;0;0;1;1
+1104;<U+0001F6B5><U+0001F3FE>;medium-dark skin tone person mountain biking;0;0;1;1
+1105;<U+0001F6B5><U+0001F3FF>;dark skin tone person mountain biking;0;0;1;1
+1106;<U+0001F6B5><U+200D>><U+FE0F>;man mountain biking;0;0;1;1
+1107;<U+0001F6B5><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man mountain biking;0;0;1;1
+1108;<U+0001F6B5><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man mountain biking;0;0;1;1
+1109;<U+0001F6B5><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man mountain biking;0;0;1;1
+1110;<U+0001F6B5><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man mountain biking;0;0;1;1
+1111;<U+0001F6B5><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man mountain biking;0;0;1;1
+1112;<U+0001F6B5><U+200D>+<U+FE0F>;woman mountain biking;0;0;1;1
+1113;<U+0001F6B5><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman mountain biking;0;0;1;1
+1114;<U+0001F6B5><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman mountain biking;0;0;1;1
+1115;<U+0001F6B5><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman mountain biking;0;0;1;1
+1116;<U+0001F6B5><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman mountain biking;0;0;1;1
+1117;<U+0001F6B5><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman mountain biking;0;0;1;1
+1118;<U+0001F3CE>;racing car;0;1;0;1
+1119;<U+0001F3CD>;motorcycle;0;1;0;1
+1120;<U+0001F938>;person cartwheeling;0;0;1;1
+1121;<U+0001F938><U+0001F3FB>;light skin tone person cartwheeling;0;0;1;1
+1122;<U+0001F938><U+0001F3FC>;medium-light skin tone person cartwheeling;0;0;1;1
+1123;<U+0001F938><U+0001F3FD>;medium skin tone person cartwheeling;0;0;1;1
+1124;<U+0001F938><U+0001F3FE>;medium-dark skin tone person cartwheeling;0;0;1;1
+1125;<U+0001F938><U+0001F3FF>;dark skin tone person cartwheeling;0;0;1;1
+1126;<U+0001F938><U+200D>><U+FE0F>;man cartwheeling;0;0;1;1
+1127;<U+0001F938><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man cartwheeling;0;0;1;1
+1128;<U+0001F938><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man cartwheeling;0;0;1;1
+1129;<U+0001F938><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man cartwheeling;0;0;1;1
+1130;<U+0001F938><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man cartwheeling;0;0;1;1
+1131;<U+0001F938><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man cartwheeling;0;0;1;1
+1132;<U+0001F938><U+200D>+<U+FE0F>;woman cartwheeling;0;0;1;1
+1133;<U+0001F938><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman cartwheeling;0;0;1;1
+1134;<U+0001F938><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman cartwheeling;0;0;1;1
+1135;<U+0001F938><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman cartwheeling;0;0;1;1
+1136;<U+0001F938><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman cartwheeling;0;0;1;1
+1137;<U+0001F938><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman cartwheeling;0;0;1;1
+1138;<U+0001F93C>;people wrestling;0;0;1;1
+1139;<U+0001F93C><U+200D>><U+FE0F>;men wrestling;0;0;1;1
+1140;<U+0001F93C><U+200D>+<U+FE0F>;women wrestling;0;0;1;1
+1141;<U+0001F93D>;person playing water polo;0;0;1;1
+1142;<U+0001F93D><U+0001F3FB>;light skin tone person playing water polo;0;0;1;1
+1143;<U+0001F93D><U+0001F3FC>;medium-light skin tone person playing water polo;0;0;1;1
+1144;<U+0001F93D><U+0001F3FD>;medium skin tone person playing water polo;0;0;1;1
+1145;<U+0001F93D><U+0001F3FE>;medium-dark skin tone person playing water polo;0;0;1;1
+1146;<U+0001F93D><U+0001F3FF>;dark skin tone person playing water polo;0;0;1;1
+1147;<U+0001F93D><U+200D>><U+FE0F>;man playing water polo;0;0;1;1
+1148;<U+0001F93D><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man playing water polo;0;0;1;1
+1149;<U+0001F93D><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man playing water polo;0;0;1;1
+1150;<U+0001F93D><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man playing water polo;0;0;1;1
+1151;<U+0001F93D><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man playing water polo;0;0;1;1
+1152;<U+0001F93D><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man playing water polo;0;0;1;1
+1153;<U+0001F93D><U+200D>+<U+FE0F>;woman playing water polo;0;0;1;1
+1154;<U+0001F93D><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman playing water polo;0;0;1;1
+1155;<U+0001F93D><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman playing water polo;0;0;1;1
+1156;<U+0001F93D><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman playing water polo;0;0;1;1
+1157;<U+0001F93D><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman playing water polo;0;0;1;1
+1158;<U+0001F93D><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman playing water polo;0;0;1;1
+1159;<U+0001F93E>;person playing handball;0;0;1;1
+1160;<U+0001F93E><U+0001F3FB>;light skin tone person playing handball;0;0;1;1
+1161;<U+0001F93E><U+0001F3FC>;medium-light skin tone person playing handball;0;0;1;1
+1162;<U+0001F93E><U+0001F3FD>;medium skin tone person playing handball;0;0;1;1
+1163;<U+0001F93E><U+0001F3FE>;medium-dark skin tone person playing handball;0;0;1;1
+1164;<U+0001F93E><U+0001F3FF>;dark skin tone person playing handball;0;0;1;1
+1165;<U+0001F93E><U+200D>><U+FE0F>;man playing handball;0;0;1;1
+1166;<U+0001F93E><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man playing handball;0;0;1;1
+1167;<U+0001F93E><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man playing handball;0;0;1;1
+1168;<U+0001F93E><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man playing handball;0;0;1;1
+1169;<U+0001F93E><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man playing handball;0;0;1;1
+1170;<U+0001F93E><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man playing handball;0;0;1;1
+1171;<U+0001F93E><U+200D>+<U+FE0F>;woman playing handball;0;0;1;1
+1172;<U+0001F93E><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman playing handball;0;0;1;1
+1173;<U+0001F93E><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman playing handball;0;0;1;1
+1174;<U+0001F93E><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman playing handball;0;0;1;1
+1175;<U+0001F93E><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman playing handball;0;0;1;1
+1176;<U+0001F93E><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman playing handball;0;0;1;1
+1177;<U+0001F939>;person juggling;0;0;1;1
+1178;<U+0001F939><U+0001F3FB>;light skin tone person juggling;0;0;1;1
+1179;<U+0001F939><U+0001F3FC>;medium-light skin tone person juggling;0;0;1;1
+1180;<U+0001F939><U+0001F3FD>;medium skin tone person juggling;0;0;1;1
+1181;<U+0001F939><U+0001F3FE>;medium-dark skin tone person juggling;0;0;1;1
+1182;<U+0001F939><U+0001F3FF>;dark skin tone person juggling;0;0;1;1
+1183;<U+0001F939><U+200D>><U+FE0F>;man juggling;0;0;1;1
+1184;<U+0001F939><U+0001F3FB><U+200D>><U+FE0F>;light skin tone man juggling;0;0;1;1
+1185;<U+0001F939><U+0001F3FC><U+200D>><U+FE0F>;medium-light skin tone man juggling;0;0;1;1
+1186;<U+0001F939><U+0001F3FD><U+200D>><U+FE0F>;medium skin tone man juggling;0;0;1;1
+1187;<U+0001F939><U+0001F3FE><U+200D>><U+FE0F>;medium-dark skin tone man juggling;0;0;1;1
+1188;<U+0001F939><U+0001F3FF><U+200D>><U+FE0F>;dark skin tone man juggling;0;0;1;1
+1189;<U+0001F939><U+200D>+<U+FE0F>;woman juggling;0;0;1;1
+1190;<U+0001F939><U+0001F3FB><U+200D>+<U+FE0F>;light skin tone woman juggling;0;0;1;1
+1191;<U+0001F939><U+0001F3FC><U+200D>+<U+FE0F>;medium-light skin tone woman juggling;0;0;1;1
+1192;<U+0001F939><U+0001F3FD><U+200D>+<U+FE0F>;medium skin tone woman juggling;0;0;1;1
+1193;<U+0001F939><U+0001F3FE><U+200D>+<U+FE0F>;medium-dark skin tone woman juggling;0;0;1;1
+1194;<U+0001F939><U+0001F3FF><U+200D>+<U+FE0F>;dark skin tone woman juggling;0;0;1;1
+1195;<U+0001F46B>;man and woman holding hands;0;0;1;1
+1196;<U+0001F46C>;two men holding hands;0;0;1;1
+1197;<U+0001F46D>;two women holding hands;0;0;1;1
+1198;<U+0001F48F>;kiss;0;0;1;1
+1199;<U+0001F469><U+200D><U+2764><U+FE0F><U+200D><U+0001F48B><U+200D><U+0001F468>;woman, man kiss;0;0;1;1
+1200;<U+0001F468><U+200D><U+2764><U+FE0F><U+200D><U+0001F48B><U+200D><U+0001F468>;man, man kiss;0;0;1;1
+1201;<U+0001F469><U+200D><U+2764><U+FE0F><U+200D><U+0001F48B><U+200D><U+0001F469>;woman, woman kiss;0;0;1;1
+1202;<U+0001F491>;couple with heart;0;0;1;1
+1203;<U+0001F469><U+200D><U+2764><U+FE0F><U+200D><U+0001F468>;woman, man couple with heart;0;0;1;1
+1204;<U+0001F468><U+200D><U+2764><U+FE0F><U+200D><U+0001F468>;man, man couple with heart;0;0;1;1
+1205;<U+0001F469><U+200D><U+2764><U+FE0F><U+200D><U+0001F469>;woman, woman couple with heart;0;0;1;1
+1206;<U+0001F46A>;family;0;0;1;1
+1207;<U+0001F468><U+200D><U+0001F469><U+200D><U+0001F466>;man, woman, boy family;0;0;1;1
+1208;<U+0001F468><U+200D><U+0001F469><U+200D><U+0001F467>;man, woman, girl family;0;0;1;1
+1209;<U+0001F468><U+200D><U+0001F469><U+200D><U+0001F467><U+200D><U+0001F466>;man, woman, girl, boy family;0;0;1;1
+1210;<U+0001F468><U+200D><U+0001F469><U+200D><U+0001F466><U+200D><U+0001F466>;man, woman, boy, boy family;0;0;1;1
+1211;<U+0001F468><U+200D><U+0001F469><U+200D><U+0001F467><U+200D><U+0001F467>;man, woman, girl, girl family;0;0;1;1
+1212;<U+0001F468><U+200D><U+0001F468><U+200D><U+0001F466>;man, man, boy family;0;0;1;1
+1213;<U+0001F468><U+200D><U+0001F468><U+200D><U+0001F467>;man, man, girl family;0;0;1;1
+1214;<U+0001F468><U+200D><U+0001F468><U+200D><U+0001F467><U+200D><U+0001F466>;man, man, girl, boy family;0;0;1;1
+1215;<U+0001F468><U+200D><U+0001F468><U+200D><U+0001F466><U+200D><U+0001F466>;man, man, boy, boy family;0;0;1;1
+1216;<U+0001F468><U+200D><U+0001F468><U+200D><U+0001F467><U+200D><U+0001F467>;man, man, girl, girl family;0;0;1;1
+1217;<U+0001F469><U+200D><U+0001F469><U+200D><U+0001F466>;woman, woman, boy family;0;0;1;1
+1218;<U+0001F469><U+200D><U+0001F469><U+200D><U+0001F467>;woman, woman, girl family;0;0;1;1
+1219;<U+0001F469><U+200D><U+0001F469><U+200D><U+0001F467><U+200D><U+0001F466>;woman, woman, girl, boy family;0;0;1;1
+1220;<U+0001F469><U+200D><U+0001F469><U+200D><U+0001F466><U+200D><U+0001F466>;woman, woman, boy, boy family;0;0;1;1
+1221;<U+0001F469><U+200D><U+0001F469><U+200D><U+0001F467><U+200D><U+0001F467>;woman, woman, girl, girl family;0;0;1;1
+1222;<U+0001F468><U+200D><U+0001F466>;man, boy family;0;0;1;1
+1223;<U+0001F468><U+200D><U+0001F466><U+200D><U+0001F466>;man, boy, boy family;0;0;1;1
+1224;<U+0001F468><U+200D><U+0001F467>;man, girl family;0;0;1;1
+1225;<U+0001F468><U+200D><U+0001F467><U+200D><U+0001F466>;man, girl, boy family;0;0;1;1
+1226;<U+0001F468><U+200D><U+0001F467><U+200D><U+0001F467>;man, girl, girl family;0;0;1;1
+1227;<U+0001F469><U+200D><U+0001F466>;woman, boy family;0;0;1;1
+1228;<U+0001F469><U+200D><U+0001F466><U+200D><U+0001F466>;woman, boy, boy family;0;0;1;1
+1229;<U+0001F469><U+200D><U+0001F467>;woman, girl family;0;0;1;1
+1230;<U+0001F469><U+200D><U+0001F467><U+200D><U+0001F466>;woman, girl, boy family;0;0;1;1
+1231;<U+0001F469><U+200D><U+0001F467><U+200D><U+0001F467>;woman, girl, girl family;0;0;1;1
+1232;<U+0001F933>;selfie;0;1;0;1
+1233;<U+0001F933><U+0001F3FB>;light skin tone selfie;0;1;0;1
+1234;<U+0001F933><U+0001F3FC>;medium-light skin tone selfie;0;1;0;1
+1235;<U+0001F933><U+0001F3FD>;medium skin tone selfie;0;1;0;1
+1236;<U+0001F933><U+0001F3FE>;medium-dark skin tone selfie;0;1;0;1
+1237;<U+0001F933><U+0001F3FF>;dark skin tone selfie;0;1;0;1
+1238;<U+0001F4AA>;flexed biceps;0;0;1;1
+1239;<U+0001F4AA><U+0001F3FB>;light skin tone flexed biceps;0;0;1;1
+1240;<U+0001F4AA><U+0001F3FC>;medium-light skin tone flexed biceps;0;0;1;1
+1241;<U+0001F4AA><U+0001F3FD>;medium skin tone flexed biceps;0;0;1;1
+1242;<U+0001F4AA><U+0001F3FE>;medium-dark skin tone flexed biceps;0;0;1;1
+1243;<U+0001F4AA><U+0001F3FF>;dark skin tone flexed biceps;0;0;1;1
+1244;<U+0001F448>;backhand index pointing left;0;1;0;1
+1245;<U+0001F448><U+0001F3FB>;light skin tone backhand index pointing left;0;1;0;1
+1246;<U+0001F448><U+0001F3FC>;medium-light skin tone backhand index pointing left;0;1;0;1
+1247;<U+0001F448><U+0001F3FD>;medium skin tone backhand index pointing left;0;1;0;1
+1248;<U+0001F448><U+0001F3FE>;medium-dark skin tone backhand index pointing left;0;1;0;1
+1249;<U+0001F448><U+0001F3FF>;dark skin tone backhand index pointing left;0;1;0;1
+1250;<U+0001F449>;backhand index pointing right;0;1;0;1
+1251;<U+0001F449><U+0001F3FB>;light skin tone backhand index pointing right;0;1;0;1
+1252;<U+0001F449><U+0001F3FC>;medium-light skin tone backhand index pointing right;0;1;0;1
+1253;<U+0001F449><U+0001F3FD>;medium skin tone backhand index pointing right;0;1;0;1
+1254;<U+0001F449><U+0001F3FE>;medium-dark skin tone backhand index pointing right;0;1;0;1
+1255;<U+0001F449><U+0001F3FF>;dark skin tone backhand index pointing right;0;1;0;1
+1256;<U+261D>;index pointing up;0;1;0;1
+1257;<U+261D><U+0001F3FB>;light skin tone index pointing up;0;1;0;1
+1258;<U+261D><U+0001F3FC>;medium-light skin tone index pointing up;0;1;0;1
+1259;<U+261D><U+0001F3FD>;medium skin tone index pointing up;0;1;0;1
+1260;<U+261D><U+0001F3FE>;medium-dark skin tone index pointing up;0;1;0;1
+1261;<U+261D><U+0001F3FF>;dark skin tone index pointing up;0;1;0;1
+1262;<U+0001F446>;backhand index pointing up;0;1;0;1
+1263;<U+0001F446><U+0001F3FB>;light skin tone backhand index pointing up;0;1;0;1
+1264;<U+0001F446><U+0001F3FC>;medium-light skin tone backhand index pointing up;0;1;0;1
+1265;<U+0001F446><U+0001F3FD>;medium skin tone backhand index pointing up;0;1;0;1
+1266;<U+0001F446><U+0001F3FE>;medium-dark skin tone backhand index pointing up;0;1;0;1
+1267;<U+0001F446><U+0001F3FF>;dark skin tone backhand index pointing up;0;1;0;1
+1268;<U+0001F595>;middle finger;1;0;0;1
+1269;<U+0001F595><U+0001F3FB>;light skin tone middle finger;1;0;0;1
+1270;<U+0001F595><U+0001F3FC>;medium-light skin tone middle finger;1;0;0;1
+1271;<U+0001F595><U+0001F3FD>;medium skin tone middle finger;1;0;0;1
+1272;<U+0001F595><U+0001F3FE>;medium-dark skin tone middle finger;1;0;0;1
+1273;<U+0001F595><U+0001F3FF>;dark skin tone middle finger;1;0;0;1
+1274;<U+0001F447>;backhand index pointing down;0;1;0;1
+1275;<U+0001F447><U+0001F3FB>;light skin tone backhand index pointing down;0;1;0;1
+1276;<U+0001F447><U+0001F3FC>;medium-light skin tone backhand index pointing down;0;1;0;1
+1277;<U+0001F447><U+0001F3FD>;medium skin tone backhand index pointing down;0;1;0;1
+1278;<U+0001F447><U+0001F3FE>;medium-dark skin tone backhand index pointing down;0;1;0;1
+1279;<U+0001F447><U+0001F3FF>;dark skin tone backhand index pointing down;0;1;0;1
+1280;<U+270C>;victory hand;0;0;1;1
+1281;<U+270C><U+0001F3FB>;light skin tone victory hand;0;0;1;1
+1282;<U+270C><U+0001F3FC>;medium-light skin tone victory hand;0;0;1;1
+1283;<U+270C><U+0001F3FD>;medium skin tone victory hand;0;0;1;1
+1284;<U+270C><U+0001F3FE>;medium-dark skin tone victory hand;0;0;1;1
+1285;<U+270C><U+0001F3FF>;dark skin tone victory hand;0;0;1;1
+1286;<U+0001F91E>;crossed fingers;0;0;1;1
+1287;<U+0001F91E><U+0001F3FB>;light skin tone crossed fingers;0;0;1;1
+1288;<U+0001F91E><U+0001F3FC>;medium-light skin tone crossed fingers;0;0;1;1
+1289;<U+0001F91E><U+0001F3FD>;medium skin tone crossed fingers;0;0;1;1
+1290;<U+0001F91E><U+0001F3FE>;medium-dark skin tone crossed fingers;0;0;1;1
+1291;<U+0001F91E><U+0001F3FF>;dark skin tone crossed fingers;0;0;1;1
+1292;<U+0001F596>;vulcan salute;0;0;1;1
+1293;<U+0001F596><U+0001F3FB>;light skin tone vulcan salute;0;0;1;1
+1294;<U+0001F596><U+0001F3FC>;medium-light skin tone vulcan salute;0;0;1;1
+1295;<U+0001F596><U+0001F3FD>;medium skin tone vulcan salute;0;0;1;1
+1296;<U+0001F596><U+0001F3FE>;medium-dark skin tone vulcan salute;0;0;1;1
+1297;<U+0001F596><U+0001F3FF>;dark skin tone vulcan salute;0;0;1;1
+1298;<U+0001F918>;sign of the horns;0;0;1;1
+1299;<U+0001F918><U+0001F3FB>;light skin tone sign of the horns;0;0;1;1
+1300;<U+0001F918><U+0001F3FC>;medium-light skin tone sign of the horns;0;0;1;1
+1301;<U+0001F918><U+0001F3FD>;medium skin tone sign of the horns;0;0;1;1
+1302;<U+0001F918><U+0001F3FE>;medium-dark skin tone sign of the horns;0;0;1;1
+1303;<U+0001F918><U+0001F3FF>;dark skin tone sign of the horns;0;0;1;1
+1304;<U+0001F919>;call me hand;0;1;0;1
+1305;<U+0001F919><U+0001F3FB>;light skin tone call me hand;0;1;0;1
+1306;<U+0001F919><U+0001F3FC>;medium-light skin tone call me hand;0;1;0;1
+1307;<U+0001F919><U+0001F3FD>;medium skin tone call me hand;0;1;0;1
+1308;<U+0001F919><U+0001F3FE>;medium-dark skin tone call me hand;0;1;0;1
+1309;<U+0001F919><U+0001F3FF>;dark skin tone call me hand;0;1;0;1
+1310;<U+0001F590>;hand with fingers splayed;0;0;1;1
+1311;<U+0001F590><U+0001F3FB>;light skin tone hand with fingers splayed;0;0;1;1
+1312;<U+0001F590><U+0001F3FC>;medium-light skin tone hand with fingers splayed;0;0;1;1
+1313;<U+0001F590><U+0001F3FD>;medium skin tone hand with fingers splayed;0;0;1;1
+1314;<U+0001F590><U+0001F3FE>;medium-dark skin tone hand with fingers splayed;0;0;1;1
+1315;<U+0001F590><U+0001F3FF>;dark skin tone hand with fingers splayed;0;0;1;1
+1316;<U+270B>;raised hand;0;1;0;1
+1317;<U+270B><U+0001F3FB>;light skin tone raised hand;0;1;0;1
+1318;<U+270B><U+0001F3FC>;medium-light skin tone raised hand;0;1;0;1
+1319;<U+270B><U+0001F3FD>;medium skin tone raised hand;0;1;0;1
+1320;<U+270B><U+0001F3FE>;medium-dark skin tone raised hand;0;1;0;1
+1321;<U+270B><U+0001F3FF>;dark skin tone raised hand;0;1;0;1
+1322;<U+0001F44C>;OK hand;0;0;1;1
+1323;<U+0001F44C><U+0001F3FB>;light skin tone OK hand;0;0;1;1
+1324;<U+0001F44C><U+0001F3FC>;medium-light skin tone OK hand;0;0;1;1
+1325;<U+0001F44C><U+0001F3FD>;medium skin tone OK hand;0;0;1;1
+1326;<U+0001F44C><U+0001F3FE>;medium-dark skin tone OK hand;0;0;1;1
+1327;<U+0001F44C><U+0001F3FF>;dark skin tone OK hand;0;0;1;1
+1328;<U+0001F44D>;thumbs up;0;0;1;1
+1329;<U+0001F44D><U+0001F3FB>;light skin tone thumbs up;0;0;1;1
+1330;<U+0001F44D><U+0001F3FC>;medium-light skin tone thumbs up;0;0;1;1
+1331;<U+0001F44D><U+0001F3FD>;medium skin tone thumbs up;0;0;1;1
+1332;<U+0001F44D><U+0001F3FE>;medium-dark skin tone thumbs up;0;0;1;1
+1333;<U+0001F44D><U+0001F3FF>;dark skin tone thumbs up;0;0;1;1
+1334;<U+0001F44E>;thumbs down;1;0;0;1
+1335;<U+0001F44E><U+0001F3FB>;light skin tone thumbs down;1;0;0;1
+1336;<U+0001F44E><U+0001F3FC>;medium-light skin tone thumbs down;1;0;0;1
+1337;<U+0001F44E><U+0001F3FD>;medium skin tone thumbs down;1;0;0;1
+1338;<U+0001F44E><U+0001F3FE>;medium-dark skin tone thumbs down;1;0;0;1
+1339;<U+0001F44E><U+0001F3FF>;dark skin tone thumbs down;1;0;0;1
+1340;<U+270A>;raised fist;0;0;1;1
+1341;<U+270A><U+0001F3FB>;light skin tone raised fist;0;0;1;1
+1342;<U+270A><U+0001F3FC>;medium-light skin tone raised fist;0;0;1;1
+1343;<U+270A><U+0001F3FD>;medium skin tone raised fist;0;0;1;1
+1344;<U+270A><U+0001F3FE>;medium-dark skin tone raised fist;0;0;1;1
+1345;<U+270A><U+0001F3FF>;dark skin tone raised fist;0;0;1;1
+1346;<U+0001F44A>;oncoming fist;0;0;1;1
+1347;<U+0001F44A><U+0001F3FB>;light skin tone oncoming fist;0;0;1;1
+1348;<U+0001F44A><U+0001F3FC>;medium-light skin tone oncoming fist;0;0;1;1
+1349;<U+0001F44A><U+0001F3FD>;medium skin tone oncoming fist;0;0;1;1
+1350;<U+0001F44A><U+0001F3FE>;medium-dark skin tone oncoming fist;0;0;1;1
+1351;<U+0001F44A><U+0001F3FF>;dark skin tone oncoming fist;0;0;1;1
+1352;<U+0001F91B>;left-facing fist;0;1;0;1
+1353;<U+0001F91B><U+0001F3FB>;light skin tone left-facing fist;0;1;0;1
+1354;<U+0001F91B><U+0001F3FC>;medium-light skin tone left-facing fist;0;1;0;1
+1355;<U+0001F91B><U+0001F3FD>;medium skin tone left-facing fist;0;1;0;1
+1356;<U+0001F91B><U+0001F3FE>;medium-dark skin tone left-facing fist;0;1;0;1
+1357;<U+0001F91B><U+0001F3FF>;dark skin tone left-facing fist;0;1;0;1
+1358;<U+0001F91C>;right-facing fist;0;1;0;1
+1359;<U+0001F91C><U+0001F3FB>;light skin tone right-facing fist;0;1;0;1
+1360;<U+0001F91C><U+0001F3FC>;medium-light skin tone right-facing fist;0;1;0;1
+1361;<U+0001F91C><U+0001F3FD>;medium skin tone right-facing fist;0;1;0;1
+1362;<U+0001F91C><U+0001F3FE>;medium-dark skin tone right-facing fist;0;1;0;1
+1363;<U+0001F91C><U+0001F3FF>;dark skin tone right-facing fist;0;1;0;1
+1364;<U+0001F91A>;raised back of hand;0;0;1;1
+1365;<U+0001F91A><U+0001F3FB>;light skin tone raised back of hand;0;0;1;1
+1366;<U+0001F91A><U+0001F3FC>;medium-light skin tone raised back of hand;0;0;1;1
+1367;<U+0001F91A><U+0001F3FD>;medium skin tone raised back of hand;0;0;1;1
+1368;<U+0001F91A><U+0001F3FE>;medium-dark skin tone raised back of hand;0;0;1;1
+1369;<U+0001F91A><U+0001F3FF>;dark skin tone raised back of hand;0;0;1;1
+1370;<U+0001F44B>;waving hand;0;0;1;1
+1371;<U+0001F44B><U+0001F3FB>;light skin tone waving hand;0;0;1;1
+1372;<U+0001F44B><U+0001F3FC>;medium-light skin tone waving hand;0;0;1;1
+1373;<U+0001F44B><U+0001F3FD>;medium skin tone waving hand;0;0;1;1
+1374;<U+0001F44B><U+0001F3FE>;medium-dark skin tone waving hand;0;0;1;1
+1375;<U+0001F44B><U+0001F3FF>;dark skin tone waving hand;0;0;1;1
+1376;<U+0001F91F>;love-you gesture;0;0;1;1
+1377;<U+0001F91F><U+0001F3FB>;light skin tone love-you gesture;0;0;1;1
+1378;<U+0001F91F><U+0001F3FC>;medium-light skin tone love-you gesture;0;0;1;1
+1379;<U+0001F91F><U+0001F3FD>;medium skin tone love-you gesture;0;0;1;1
+1380;<U+0001F91F><U+0001F3FE>;medium-dark skin tone love-you gesture;0;0;1;1
+1381;<U+0001F91F><U+0001F3FF>;dark skin tone love-you gesture;0;0;1;1
+1382;<U+270D>;writing hand;0;1;0;1
+1383;<U+270D><U+0001F3FB>;light skin tone writing hand;0;1;0;1
+1384;<U+270D><U+0001F3FC>;medium-light skin tone writing hand;0;1;0;1
+1385;<U+270D><U+0001F3FD>;medium skin tone writing hand;0;1;0;1
+1386;<U+270D><U+0001F3FE>;medium-dark skin tone writing hand;0;1;0;1
+1387;<U+270D><U+0001F3FF>;dark skin tone writing hand;0;1;0;1
+1388;<U+0001F44F>;clapping hands;0;1;0;1
+1389;<U+0001F44F><U+0001F3FB>;light skin tone clapping hands;0;1;0;1
+1390;<U+0001F44F><U+0001F3FC>;medium-light skin tone clapping hands;0;1;0;1
+1391;<U+0001F44F><U+0001F3FD>;medium skin tone clapping hands;0;1;0;1
+1392;<U+0001F44F><U+0001F3FE>;medium-dark skin tone clapping hands;0;1;0;1
+1393;<U+0001F44F><U+0001F3FF>;dark skin tone clapping hands;0;1;0;1
+1394;<U+0001F450>;open hands;0;1;0;1
+1395;<U+0001F450><U+0001F3FB>;light skin tone open hands;0;1;0;1
+1396;<U+0001F450><U+0001F3FC>;medium-light skin tone open hands;0;1;0;1
+1397;<U+0001F450><U+0001F3FD>;medium skin tone open hands;0;1;0;1
+1398;<U+0001F450><U+0001F3FE>;medium-dark skin tone open hands;0;1;0;1
+1399;<U+0001F450><U+0001F3FF>;dark skin tone open hands;0;1;0;1
+1400;<U+0001F64C>;raising hands;0;1;0;1
+1401;<U+0001F64C><U+0001F3FB>;light skin tone raising hands;0;1;0;1
+1402;<U+0001F64C><U+0001F3FC>;medium-light skin tone raising hands;0;1;0;1
+1403;<U+0001F64C><U+0001F3FD>;medium skin tone raising hands;0;1;0;1
+1404;<U+0001F64C><U+0001F3FE>;medium-dark skin tone raising hands;0;1;0;1
+1405;<U+0001F64C><U+0001F3FF>;dark skin tone raising hands;0;1;0;1
+1406;<U+0001F932>;palms up together;0;1;0;1
+1407;<U+0001F932><U+0001F3FB>;light skin tone palms up together;0;1;0;1
+1408;<U+0001F932><U+0001F3FC>;medium-light skin tone palms up together;0;1;0;1
+1409;<U+0001F932><U+0001F3FD>;medium skin tone palms up together;0;1;0;1
+1410;<U+0001F932><U+0001F3FE>;medium-dark skin tone palms up together;0;1;0;1
+1411;<U+0001F932><U+0001F3FF>;dark skin tone palms up together;0;1;0;1
+1412;<U+0001F64F>;folded hands;0;1;0;1
+1413;<U+0001F64F><U+0001F3FB>;light skin tone folded hands;0;1;0;1
+1414;<U+0001F64F><U+0001F3FC>;medium-light skin tone folded hands;0;1;0;1
+1415;<U+0001F64F><U+0001F3FD>;medium skin tone folded hands;0;1;0;1
+1416;<U+0001F64F><U+0001F3FE>;medium-dark skin tone folded hands;0;1;0;1
+1417;<U+0001F64F><U+0001F3FF>;dark skin tone folded hands;0;1;0;1
+1418;<U+0001F91D>;handshake;0;1;0;1
+1419;<U+0001F485>;nail polish;0;1;0;1
+1420;<U+0001F485><U+0001F3FB>;light skin tone nail polish;0;1;0;1
+1421;<U+0001F485><U+0001F3FC>;medium-light skin tone nail polish;0;1;0;1
+1422;<U+0001F485><U+0001F3FD>;medium skin tone nail polish;0;1;0;1
+1423;<U+0001F485><U+0001F3FE>;medium-dark skin tone nail polish;0;1;0;1
+1424;<U+0001F485><U+0001F3FF>;dark skin tone nail polish;0;1;0;1
+1425;<U+0001F442>;ear;0;1;0;1
+1426;<U+0001F442><U+0001F3FB>;light skin tone ear;0;1;0;1
+1427;<U+0001F442><U+0001F3FC>;medium-light skin tone ear;0;1;0;1
+1428;<U+0001F442><U+0001F3FD>;medium skin tone ear;0;1;0;1
+1429;<U+0001F442><U+0001F3FE>;medium-dark skin tone ear;0;1;0;1
+1430;<U+0001F442><U+0001F3FF>;dark skin tone ear;0;1;0;1
+1431;<U+0001F443>;nose;0;1;0;1
+1432;<U+0001F443><U+0001F3FB>;light skin tone nose;0;1;0;1
+1433;<U+0001F443><U+0001F3FC>;medium-light skin tone nose;0;1;0;1
+1434;<U+0001F443><U+0001F3FD>;medium skin tone nose;0;1;0;1
+1435;<U+0001F443><U+0001F3FE>;medium-dark skin tone nose;0;1;0;1
+1436;<U+0001F443><U+0001F3FF>;dark skin tone nose;0;1;0;1
+1437;<U+0001F463>;footprints;0;1;0;1
+1438;<U+0001F440>;eyes;0;1;0;1
+1439;<U+0001F441>;eye;0;1;0;1
+1440;<U+0001F441><U+FE0F><U+200D><U+0001F5E8><U+FE0F>;eye in speech bubble;0;1;0;1
+1441;<U+0001F9E0>;brain;0;1;0;1
+1442;<U+0001F445>;tongue;0;1;0;1
+1443;<U+0001F444>;mouth;0;1;0;1
+1444;<U+0001F48B>;kiss mark;0;0;1;1
+1445;<U+0001F498>;heart with arrow;0;1;0;1
+1446;<U+2764>;red heart;0;1;0;1
+1447;<U+0001F493>;beating heart;0;1;0;1
+1448;<U+0001F494>;broken heart;0;1;0;1
+1449;<U+0001F495>;two hearts;0;1;0;1
+1450;<U+0001F496>;sparkling heart;0;1;0;1
+1451;<U+0001F497>;growing heart;0;1;0;1
+1452;<U+0001F499>;blue heart;0;1;0;1
+1453;<U+0001F49A>;green heart;0;1;0;1
+1454;<U+0001F49B>;yellow heart;0;1;0;1
+1455;<U+0001F9E1>;orange heart;0;1;0;1
+1456;<U+0001F49C>;purple heart;0;1;0;1
+1457;<U+0001F5A4>;black heart;0;1;0;1
+1458;<U+0001F49D>;heart with ribbon;0;1;0;1
+1459;<U+0001F49E>;revolving hearts;0;1;0;1
+1460;<U+0001F49F>;heart decoration;0;1;0;1
+1461;<U+2763>;heavy heart exclamation;0;1;0;1
+1462;<U+0001F48C>;love letter;0;1;0;1
+1463;<U+0001F4A4>;zzz;0;1;0;1
+1464;<U+0001F4A2>;anger symbol;0;1;0;1
+1465;<U+0001F4A3>;bomb;0;1;0;1
+1466;<U+0001F4A5>;collision;0;1;0;1
+1467;<U+0001F4A6>;sweat droplets;0;1;0;1
+1468;<U+0001F4A8>;dashing away;0;1;0;1
+1469;<U+0001F4AB>;dizzy;0;1;0;1
+1470;<U+0001F4AC>;speech balloon;0;1;0;1
+1471;<U+0001F5E8>;left speech bubble;0;1;0;1
+1472;<U+0001F5EF>;right anger bubble;0;1;0;1
+1473;<U+0001F4AD>;thought balloon;0;1;0;1
+1474;<U+0001F573>;hole;0;1;0;1
+1475;<U+0001F453>;glasses;0;1;0;1
+1476;<U+0001F576>;sunglasses;0;1;0;1
+1477;<U+0001F454>;necktie;0;1;0;1
+1478;<U+0001F455>;t-shirt;0;1;0;1
+1479;<U+0001F456>;jeans;0;1;0;1
+1480;<U+0001F9E3>;scarf;0;1;0;1
+1481;<U+0001F9E4>;gloves;0;1;0;1
+1482;<U+0001F9E5>;coat;0;1;0;1
+1483;<U+0001F9E6>;socks;0;1;0;1
+1484;<U+0001F457>;dress;0;1;0;1
+1485;<U+0001F458>;kimono;0;1;0;1
+1486;<U+0001F459>;bikini;0;1;0;1
+1487;<U+0001F45A>;woman’s clothes;0;1;0;1
+1488;<U+0001F45B>;purse;0;1;0;1
+1489;<U+0001F45C>;handbag;0;1;0;1
+1490;<U+0001F45D>;clutch bag;0;1;0;1
+1491;<U+0001F6CD>;shopping bags;0;1;0;1
+1492;<U+0001F392>;school backpack;0;1;0;1
+1493;<U+0001F45E>;man’s shoe;0;1;0;1
+1494;<U+0001F45F>;running shoe;0;1;0;1
+1495;<U+0001F460>;high-heeled shoe;0;1;0;1
+1496;<U+0001F461>;woman’s sandal;0;1;0;1
+1497;<U+0001F462>;woman’s boot;0;1;0;1
+1498;<U+0001F451>;crown;0;1;0;1
+1499;<U+0001F452>;woman’s hat;0;1;0;1
+1500;<U+0001F3A9>;top hat;0;1;0;1
+1501;<U+0001F393>;graduation cap;0;1;0;1
+1502;<U+0001F9E2>;billed cap;0;1;0;1
+1503;<U+26D1>;rescue worker’s helmet;0;1;0;1
+1504;<U+0001F4FF>;prayer beads;0;1;0;1
+1505;<U+0001F484>;lipstick;0;1;0;1
+1506;<U+0001F48D>;ring;0;1;0;1
+1507;<U+0001F48E>;gem stone;0;1;0;1
+1508;<U+0001F435>;monkey face;0;1;0;1
+1509;<U+0001F412>;monkey;0;1;0;1
+1510;<U+0001F98D>;gorilla;0;1;0;1
+1511;<U+0001F436>;dog face;0;1;0;1
+1512;<U+0001F415>;dog;0;1;0;1
+1513;<U+0001F429>;poodle;0;1;0;1
+1514;<U+0001F43A>;wolf face;0;1;0;1
+1515;<U+0001F98A>;fox face;0;1;0;1
+1516;<U+0001F431>;cat face;0;1;0;1
+1517;<U+0001F408>;cat;0;1;0;1
+1518;<U+0001F981>;lion face;0;1;0;1
+1519;<U+0001F42F>;tiger face;0;1;0;1
+1520;<U+0001F405>;tiger;0;1;0;1
+1521;<U+0001F406>;leopard;0;1;0;1
+1522;<U+0001F434>;horse face;0;1;0;1
+1523;<U+0001F40E>;horse;0;1;0;1
+1524;<U+0001F984>;unicorn face;0;1;0;1
+1525;<U+0001F993>;zebra;0;1;0;1
+1526;<U+0001F98C>;deer;0;1;0;1
+1527;<U+0001F42E>;cow face;0;1;0;1
+1528;<U+0001F402>;ox;0;1;0;1
+1529;<U+0001F403>;water buffalo;0;1;0;1
+1530;<U+0001F404>;cow;0;1;0;1
+1531;<U+0001F437>;pig face;0;1;0;1
+1532;<U+0001F416>;pig;0;1;0;1
+1533;<U+0001F417>;boar;0;1;0;1
+1534;<U+0001F43D>;pig nose;0;1;0;1
+1535;<U+0001F40F>;ram;0;1;0;1
+1536;<U+0001F411>;ewe;0;1;0;1
+1537;<U+0001F410>;goat;0;1;0;1
+1538;<U+0001F42A>;camel;0;1;0;1
+1539;<U+0001F42B>;two-hump camel;0;1;0;1
+1540;<U+0001F992>;giraffe;0;1;0;1
+1541;<U+0001F418>;elephant;0;1;0;1
+1542;<U+0001F98F>;rhinoceros;0;1;0;1
+1543;<U+0001F42D>;mouse face;0;1;0;1
+1544;<U+0001F401>;mouse;0;1;0;1
+1545;<U+0001F400>;rat;0;1;0;1
+1546;<U+0001F439>;hamster face;0;1;0;1
+1547;<U+0001F430>;rabbit face;0;1;0;1
+1548;<U+0001F407>;rabbit;0;1;0;1
+1549;<U+0001F43F>;chipmunk;0;1;0;1
+1550;<U+0001F994>;hedgehog;0;1;0;1
+1551;<U+0001F987>;bat;0;1;0;1
+1552;<U+0001F43B>;bear face;0;1;0;1
+1553;<U+0001F428>;koala;0;1;0;1
+1554;<U+0001F43C>;panda face;0;1;0;1
+1555;<U+0001F43E>;paw prints;0;1;0;1
+1556;<U+0001F983>;turkey;0;1;0;1
+1557;<U+0001F414>;chicken;0;1;0;1
+1558;<U+0001F413>;rooster;0;1;0;1
+1559;<U+0001F423>;hatching chick;0;1;0;1
+1560;<U+0001F424>;baby chick;0;1;0;1
+1561;<U+0001F425>;front-facing baby chick;0;1;0;1
+1562;<U+0001F426>;bird;0;1;0;1
+1563;<U+0001F427>;penguin;0;1;0;1
+1564;<U+0001F54A>;dove;0;1;0;1
+1565;<U+0001F985>;eagle;0;1;0;1
+1566;<U+0001F986>;duck;0;1;0;1
+1567;<U+0001F989>;owl;0;1;0;1
+1568;<U+0001F438>;frog face;0;1;0;1
+1569;<U+0001F40A>;crocodile;0;1;0;1
+1570;<U+0001F422>;turtle;0;1;0;1
+1571;<U+0001F98E>;lizard;0;1;0;1
+1572;<U+0001F40D>;snake;0;1;0;1
+1573;<U+0001F432>;dragon face;0;1;0;1
+1574;<U+0001F409>;dragon;0;1;0;1
+1575;<U+0001F995>;sauropod;0;1;0;1
+1576;<U+0001F996>;T-Rex;0;1;0;1
+1577;<U+0001F433>;spouting whale;0;1;0;1
+1578;<U+0001F40B>;whale;0;1;0;1
+1579;<U+0001F42C>;dolphin;0;1;0;1
+1580;<U+0001F41F>;fish;0;1;0;1
+1581;<U+0001F420>;tropical fish;0;1;0;1
+1582;<U+0001F421>;blowfish;0;1;0;1
+1583;<U+0001F988>;shark;0;1;0;1
+1584;<U+0001F419>;octopus;0;1;0;1
+1585;<U+0001F41A>;spiral shell;0;1;0;1
+1586;<U+0001F980>;crab;0;1;0;1
+1587;<U+0001F990>;shrimp;0;1;0;1
+1588;<U+0001F991>;squid;0;1;0;1
+1589;<U+0001F40C>;snail;0;1;0;1
+1590;<U+0001F98B>;butterfly;0;1;0;1
+1591;<U+0001F41B>;bug;0;1;0;1
+1592;<U+0001F41C>;ant;0;1;0;1
+1593;<U+0001F41D>;honeybee;0;1;0;1
+1594;<U+0001F41E>;lady beetle;0;1;0;1
+1595;<U+0001F997>;cricket;0;1;0;1
+1596;<U+0001F577>;spider;0;1;0;1
+1597;<U+0001F578>;spider web;0;1;0;1
+1598;<U+0001F982>;scorpion;0;1;0;1
+1599;<U+0001F490>;bouquet;0;1;0;1
+1600;<U+0001F338>;cherry blossom;0;1;0;1
+1601;<U+0001F4AE>;white flower;0;1;0;1
+1602;<U+0001F3F5>;rosette;0;1;0;1
+1603;<U+0001F339>;rose;0;1;0;1
+1604;<U+0001F940>;wilted flower;0;1;0;1
+1605;<U+0001F33A>;hibiscus;0;1;0;1
+1606;<U+0001F33B>;sunflower;0;1;0;1
+1607;<U+0001F33C>;blossom;0;1;0;1
+1608;<U+0001F337>;tulip;0;1;0;1
+1609;<U+0001F331>;seedling;0;1;0;1
+1610;<U+0001F332>;evergreen tree;0;1;0;1
+1611;<U+0001F333>;deciduous tree;0;1;0;1
+1612;<U+0001F334>;palm tree;0;1;0;1
+1613;<U+0001F335>;cactus;0;1;0;1
+1614;<U+0001F33E>;sheaf of rice;0;1;0;1
+1615;<U+0001F33F>;herb;0;1;0;1
+1616;<U+2618>;shamrock;0;1;0;1
+1617;<U+0001F340>;four leaf clover;0;1;0;1
+1618;<U+0001F341>;maple leaf;0;1;0;1
+1619;<U+0001F342>;fallen leaf;0;1;0;1
+1620;<U+0001F343>;leaf fluttering in wind;0;1;0;1
+1621;<U+0001F347>;grapes;0;1;0;1
+1622;<U+0001F348>;melon;0;1;0;1
+1623;<U+0001F349>;watermelon;0;1;0;1
+1624;<U+0001F34A>;tangerine;0;1;0;1
+1625;<U+0001F34B>;lemon;0;1;0;1
+1626;<U+0001F34C>;banana;0;1;0;1
+1627;<U+0001F34D>;pineapple;0;1;0;1
+1628;<U+0001F34E>;red apple;0;1;0;1
+1629;<U+0001F34F>;green apple;0;1;0;1
+1630;<U+0001F350>;pear;0;1;0;1
+1631;<U+0001F351>;peach;0;1;0;1
+1632;<U+0001F352>;cherries;0;1;0;1
+1633;<U+0001F353>;strawberry;0;1;0;1
+1634;<U+0001F95D>;kiwi fruit;0;1;0;1
+1635;<U+0001F345>;tomato;0;1;0;1
+1636;<U+0001F965>;coconut;0;1;0;1
+1637;<U+0001F951>;avocado;0;1;0;1
+1638;<U+0001F346>;eggplant;0;1;0;1
+1639;<U+0001F954>;potato;0;1;0;1
+1640;<U+0001F955>;carrot;0;1;0;1
+1641;<U+0001F33D>;ear of corn;0;1;0;1
+1642;<U+0001F336>;hot pepper;0;1;0;1
+1643;<U+0001F952>;cucumber;0;1;0;1
+1644;<U+0001F966>;broccoli;0;1;0;1
+1645;<U+0001F344>;mushroom;0;1;0;1
+1646;<U+0001F95C>;peanuts;0;1;0;1
+1647;<U+0001F330>;chestnut;0;1;0;1
+1648;<U+0001F35E>;bread;0;1;0;1
+1649;<U+0001F950>;croissant;0;1;0;1
+1650;<U+0001F956>;baguette bread;0;1;0;1
+1651;<U+0001F968>;pretzel;0;1;0;1
+1652;<U+0001F95E>;pancakes;0;1;0;1
+1653;<U+0001F9C0>;cheese wedge;0;1;0;1
+1654;<U+0001F356>;meat on bone;0;1;0;1
+1655;<U+0001F357>;poultry leg;0;1;0;1
+1656;<U+0001F969>;cut of meat;0;1;0;1
+1657;<U+0001F953>;bacon;0;1;0;1
+1658;<U+0001F354>;hamburger;0;1;0;1
+1659;<U+0001F35F>;french fries;0;1;0;1
+1660;<U+0001F355>;pizza;0;1;0;1
+1661;<U+0001F32D>;hot dog;0;1;0;1
+1662;<U+0001F96A>;sandwich;0;1;0;1
+1663;<U+0001F32E>;taco;0;1;0;1
+1664;<U+0001F32F>;burrito;0;1;0;1
+1665;<U+0001F959>;stuffed flatbread;0;1;0;1
+1666;<U+0001F95A>;egg;0;1;0;1
+1667;<U+0001F373>;cooking;0;1;0;1
+1668;<U+0001F958>;shallow pan of food;0;1;0;1
+1669;<U+0001F372>;pot of food;0;1;0;1
+1670;<U+0001F963>;bowl with spoon;0;1;0;1
+1671;<U+0001F957>;green salad;0;1;0;1
+1672;<U+0001F37F>;popcorn;0;1;0;1
+1673;<U+0001F96B>;canned food;0;1;0;1
+1674;<U+0001F371>;bento box;0;1;0;1
+1675;<U+0001F358>;rice cracker;0;1;0;1
+1676;<U+0001F359>;rice ball;0;1;0;1
+1677;<U+0001F35A>;cooked rice;0;1;0;1
+1678;<U+0001F35B>;curry rice;0;1;0;1
+1679;<U+0001F35C>;steaming bowl;0;1;0;1
+1680;<U+0001F35D>;spaghetti;0;1;0;1
+1681;<U+0001F360>;roasted sweet potato;0;1;0;1
+1682;<U+0001F362>;oden;0;1;0;1
+1683;<U+0001F363>;sushi;0;1;0;1
+1684;<U+0001F364>;fried shrimp;0;1;0;1
+1685;<U+0001F365>;fish cake with swirl;0;1;0;1
+1686;<U+0001F361>;dango;0;1;0;1
+1687;<U+0001F95F>;dumpling;0;1;0;1
+1688;<U+0001F960>;fortune cookie;0;1;0;1
+1689;<U+0001F961>;takeout box;0;1;0;1
+1690;<U+0001F366>;soft ice cream;0;1;0;1
+1691;<U+0001F367>;shaved ice;0;1;0;1
+1692;<U+0001F368>;ice cream;0;1;0;1
+1693;<U+0001F369>;doughnut;0;1;0;1
+1694;<U+0001F36A>;cookie;0;1;0;1
+1695;<U+0001F382>;birthday cake;0;1;0;1
+1696;<U+0001F370>;shortcake;0;1;0;1
+1697;<U+0001F967>;pie;0;1;0;1
+1698;<U+0001F36B>;chocolate bar;0;1;0;1
+1699;<U+0001F36C>;candy;0;1;0;1
+1700;<U+0001F36D>;lollipop;0;1;0;1
+1701;<U+0001F36E>;custard;0;1;0;1
+1702;<U+0001F36F>;honey pot;0;1;0;1
+1703;<U+0001F37C>;baby bottle;0;1;0;1
+1704;<U+0001F95B>;glass of milk;0;1;0;1
+1705;<U+2615>;hot beverage;0;1;0;1
+1706;<U+0001F375>;teacup without handle;0;1;0;1
+1707;<U+0001F376>;sake;0;1;0;1
+1708;<U+0001F37E>;bottle with popping cork;0;1;0;1
+1709;<U+0001F377>;wine glass;0;1;0;1
+1710;<U+0001F378>;cocktail glass;0;1;0;1
+1711;<U+0001F379>;tropical drink;0;1;0;1
+1712;<U+0001F37A>;beer mug;0;1;0;1
+1713;<U+0001F37B>;clinking beer mugs;0;1;0;1
+1714;<U+0001F942>;clinking glasses;0;1;0;1
+1715;<U+0001F943>;tumbler glass;0;1;0;1
+1716;<U+0001F964>;cup with straw;0;1;0;1
+1717;<U+0001F962>;chopsticks;0;1;0;1
+1718;<U+0001F37D>;fork and knife with plate;0;1;0;1
+1719;<U+0001F374>;fork and knife;0;1;0;1
+1720;<U+0001F944>;spoon;0;1;0;1
+1721;<U+0001F52A>;kitchen knife;0;1;0;1
+1722;<U+0001F3FA>;amphora;0;1;0;1
+1723;<U+0001F30D>;globe showing Europe-Africa;0;1;0;1
+1724;<U+0001F30E>;globe showing Americas;0;1;0;1
+1725;<U+0001F30F>;globe showing Asia-Australia;0;1;0;1
+1726;<U+0001F310>;globe with meridians;0;1;0;1
+1727;<U+0001F5FA>;world map;0;1;0;1
+1728;<U+0001F5FE>;map of Japan;0;1;0;1
+1729;<U+0001F3D4>;snow-capped mountain;0;1;0;1
+1730;<U+26F0>;mountain;0;1;0;1
+1731;<U+0001F30B>;volcano;0;1;0;1
+1732;<U+0001F5FB>;mount fuji;0;1;0;1
+1733;<U+0001F3D5>;camping;0;1;0;1
+1734;<U+0001F3D6>;beach with umbrella;0;1;0;1
+1735;<U+0001F3DC>;desert;0;1;0;1
+1736;<U+0001F3DD>;desert island;0;1;0;1
+1737;<U+0001F3DE>;national park;0;1;0;1
+1738;<U+0001F3DF>;stadium;0;1;0;1
+1739;<U+0001F3DB>;classical building;0;1;0;1
+1740;<U+0001F3D7>;building construction;0;1;0;1
+1741;<U+0001F3D8>;houses;0;1;0;1
+1742;<U+0001F3D9>;cityscape;0;1;0;1
+1743;<U+0001F3DA>;derelict house;0;1;0;1
+1744;<U+0001F3E0>;house;0;1;0;1
+1745;<U+0001F3E1>;house with garden;0;1;0;1
+1746;<U+0001F3E2>;office building;0;1;0;1
+1747;<U+0001F3E3>;Japanese post office;0;1;0;1
+1748;<U+0001F3E4>;post office;0;1;0;1
+1749;<U+0001F3E5>;hospital;0;1;0;1
+1750;<U+0001F3E6>;bank;0;1;0;1
+1751;<U+0001F3E8>;hotel;0;1;0;1
+1752;<U+0001F3E9>;love hotel;0;1;0;1
+1753;<U+0001F3EA>;convenience store;0;1;0;1
+1754;<U+0001F3EB>;school;0;1;0;1
+1755;<U+0001F3EC>;department store;0;1;0;1
+1756;<U+0001F3ED>;factory;0;1;0;1
+1757;<U+0001F3EF>;Japanese castle;0;1;0;1
+1758;<U+0001F3F0>;castle;0;1;0;1
+1759;<U+0001F492>;wedding;0;1;0;1
+1760;<U+0001F5FC>;Tokyo tower;0;1;0;1
+1761;<U+0001F5FD>;Statue of Liberty;0;1;0;1
+1762;<U+26EA>;church;0;1;0;1
+1763;<U+0001F54C>;mosque;0;1;0;1
+1764;<U+0001F54D>;synagogue;0;1;0;1
+1765;<U+26E9>;shinto shrine;0;1;0;1
+1766;<U+0001F54B>;kaaba;0;1;0;1
+1767;<U+26F2>;fountain;0;1;0;1
+1768;<U+26FA>;tent;0;1;0;1
+1769;<U+0001F301>;foggy;0;1;0;1
+1770;<U+0001F303>;night with stars;0;1;0;1
+1771;<U+0001F304>;sunrise over mountains;0;1;0;1
+1772;<U+0001F305>;sunrise;0;1;0;1
+1773;<U+0001F306>;cityscape at dusk;0;1;0;1
+1774;<U+0001F307>;sunset;0;1;0;1
+1775;<U+0001F309>;bridge at night;0;1;0;1
+1776;<U+2668>;hot springs;0;1;0;1
+1777;<U+0001F30C>;milky way;0;1;0;1
+1778;<U+0001F3A0>;carousel horse;0;1;0;1
+1779;<U+0001F3A1>;ferris wheel;0;1;0;1
+1780;<U+0001F3A2>;roller coaster;0;1;0;1
+1781;<U+0001F488>;barber pole;0;1;0;1
+1782;<U+0001F3AA>;circus tent;0;1;0;1
+1783;<U+0001F3AD>;performing arts;0;1;0;1
+1784;<U+0001F5BC>;framed picture;0;1;0;1
+1785;<U+0001F3A8>;artist palette;0;1;0;1
+1786;<U+0001F3B0>;slot machine;0;1;0;1
+1787;<U+0001F682>;locomotive;0;1;0;1
+1788;<U+0001F683>;railway car;0;1;0;1
+1789;<U+0001F684>;high-speed train;0;1;0;1
+1790;<U+0001F685>;bullet train;0;1;0;1
+1791;<U+0001F686>;train;0;1;0;1
+1792;<U+0001F687>;metro;0;1;0;1
+1793;<U+0001F688>;light rail;0;1;0;1
+1794;<U+0001F689>;station;0;1;0;1
+1795;<U+0001F68A>;tram;0;1;0;1
+1796;<U+0001F69D>;monorail;0;1;0;1
+1797;<U+0001F69E>;mountain railway;0;1;0;1
+1798;<U+0001F68B>;tram car;0;1;0;1
+1799;<U+0001F68C>;bus;0;1;0;1
+1800;<U+0001F68D>;oncoming bus;0;1;0;1
+1801;<U+0001F68E>;trolleybus;0;1;0;1
+1802;<U+0001F690>;minibus;0;1;0;1
+1803;<U+0001F691>;ambulance;0;1;0;1
+1804;<U+0001F692>;fire engine;0;1;0;1
+1805;<U+0001F693>;police car;0;1;0;1
+1806;<U+0001F694>;oncoming police car;0;1;0;1
+1807;<U+0001F695>;taxi;0;1;0;1
+1808;<U+0001F696>;oncoming taxi;0;1;0;1
+1809;<U+0001F697>;automobile;0;1;0;1
+1810;<U+0001F698>;oncoming automobile;0;1;0;1
+1811;<U+0001F699>;sport utility vehicle;0;1;0;1
+1812;<U+0001F69A>;delivery truck;0;1;0;1
+1813;<U+0001F69B>;articulated lorry;0;1;0;1
+1814;<U+0001F69C>;tractor;0;1;0;1
+1815;<U+0001F6B2>;bicycle;0;1;0;1
+1816;<U+0001F6F4>;kick scooter;0;1;0;1
+1817;<U+0001F6F5>;motor scooter;0;1;0;1
+1818;<U+0001F68F>;bus stop;0;1;0;1
+1819;<U+0001F6E3>;motorway;0;1;0;1
+1820;<U+0001F6E4>;railway track;0;1;0;1
+1821;<U+26FD>;fuel pump;0;1;0;1
+1822;<U+0001F6A8>;police car light;0;1;0;1
+1823;<U+0001F6A5>;horizontal traffic light;0;1;0;1
+1824;<U+0001F6A6>;vertical traffic light;0;1;0;1
+1825;<U+0001F6A7>;construction;0;1;0;1
+1826;<U+0001F6D1>;stop sign;0;1;0;1
+1827;<U+2693>;anchor;0;1;0;1
+1828;<U+26F5>;sailboat;0;1;0;1
+1829;<U+0001F6F6>;canoe;0;1;0;1
+1830;<U+0001F6A4>;speedboat;0;1;0;1
+1831;<U+0001F6F3>;passenger ship;0;1;0;1
+1832;<U+26F4>;ferry;0;1;0;1
+1833;<U+0001F6E5>;motor boat;0;1;0;1
+1834;<U+0001F6A2>;ship;0;1;0;1
+1835;<U+2708>;airplane;0;1;0;1
+1836;<U+0001F6E9>;small airplane;0;1;0;1
+1837;<U+0001F6EB>;airplane departure;0;1;0;1
+1838;<U+0001F6EC>;airplane arrival;0;1;0;1
+1839;<U+0001F4BA>;seat;0;1;0;1
+1840;<U+0001F681>;helicopter;0;1;0;1
+1841;<U+0001F69F>;suspension railway;0;1;0;1
+1842;<U+0001F6A0>;mountain cableway;0;1;0;1
+1843;<U+0001F6A1>;aerial tramway;0;1;0;1
+1844;<U+0001F6F0>;satellite;0;1;0;1
+1845;<U+0001F680>;rocket;0;1;0;1
+1846;<U+0001F6F8>;flying saucer;0;1;0;1
+1847;<U+0001F6CE>;bellhop bell;0;1;0;1
+1848;<U+0001F6AA>;door;0;1;0;1
+1849;<U+0001F6CF>;bed;0;1;0;1
+1850;<U+0001F6CB>;couch and lamp;0;1;0;1
+1851;<U+0001F6BD>;toilet;0;1;0;1
+1852;<U+0001F6BF>;shower;0;1;0;1
+1853;<U+0001F6C1>;bathtub;0;1;0;1
+1854;<U+231B>;hourglass done;0;1;0;1
+1855;<U+23F3>;hourglass not done;0;1;0;1
+1856;<U+231A>;watch;0;1;0;1
+1857;<U+23F0>;alarm clock;0;1;0;1
+1858;<U+23F1>;stopwatch;0;1;0;1
+1859;<U+23F2>;timer clock;0;1;0;1
+1860;<U+0001F570>;mantelpiece clock;0;1;0;1
+1861;<U+0001F55B>;twelve o’clock;0;1;0;1
+1862;<U+0001F567>;twelve-thirty;0;1;0;1
+1863;<U+0001F550>;one o’clock;0;1;0;1
+1864;<U+0001F55C>;one-thirty;0;1;0;1
+1865;<U+0001F551>;two o’clock;0;1;0;1
+1866;<U+0001F55D>;two-thirty;0;1;0;1
+1867;<U+0001F552>;three o’clock;0;1;0;1
+1868;<U+0001F55E>;three-thirty;0;1;0;1
+1869;<U+0001F553>;four o’clock;0;1;0;1
+1870;<U+0001F55F>;four-thirty;0;1;0;1
+1871;<U+0001F554>;five o’clock;0;1;0;1
+1872;<U+0001F560>;five-thirty;0;1;0;1
+1873;<U+0001F555>;six o’clock;0;1;0;1
+1874;<U+0001F561>;six-thirty;0;1;0;1
+1875;<U+0001F556>;seven o’clock;0;1;0;1
+1876;<U+0001F562>;seven-thirty;0;1;0;1
+1877;<U+0001F557>;eight o’clock;0;1;0;1
+1878;<U+0001F563>;eight-thirty;0;1;0;1
+1879;<U+0001F558>;nine o’clock;0;1;0;1
+1880;<U+0001F564>;nine-thirty;0;1;0;1
+1881;<U+0001F559>;ten o’clock;0;1;0;1
+1882;<U+0001F565>;ten-thirty;0;1;0;1
+1883;<U+0001F55A>;eleven o’clock;0;1;0;1
+1884;<U+0001F566>;eleven-thirty;0;1;0;1
+1885;<U+0001F311>;new moon;0;1;0;1
+1886;<U+0001F312>;waxing crescent moon;0;1;0;1
+1887;<U+0001F313>;first quarter moon;0;1;0;1
+1888;<U+0001F314>;waxing gibbous moon;0;1;0;1
+1889;<U+0001F315>;full moon;0;1;0;1
+1890;<U+0001F316>;waning gibbous moon;0;1;0;1
+1891;<U+0001F317>;last quarter moon;0;1;0;1
+1892;<U+0001F318>;waning crescent moon;0;1;0;1
+1893;<U+0001F319>;crescent moon;0;1;0;1
+1894;<U+0001F31A>;new moon face;0;1;0;1
+1895;<U+0001F31B>;first quarter moon face;0;1;0;1
+1896;<U+0001F31C>;last quarter moon face;0;1;0;1
+1897;<U+0001F321>;thermometer;0;1;0;1
+1898;<U+2600>;sun;0;1;0;1
+1899;<U+0001F31D>;full moon face;0;1;0;1
+1900;<U+0001F31E>;sun with face;0;1;0;1
+1901;<U+2B50>;white medium star;0;1;0;1
+1902;<U+0001F31F>;glowing star;0;1;0;1
+1903;<U+0001F320>;shooting star;0;1;0;1
+1904;<U+2601>;cloud;0;1;0;1
+1905;<U+26C5>;sun behind cloud;0;1;0;1
+1906;<U+26C8>;cloud with lightning and rain;0;1;0;1
+1907;<U+0001F324>;sun behind small cloud;0;1;0;1
+1908;<U+0001F325>;sun behind large cloud;0;1;0;1
+1909;<U+0001F326>;sun behind rain cloud;0;1;0;1
+1910;<U+0001F327>;cloud with rain;0;1;0;1
+1911;<U+0001F328>;cloud with snow;0;1;0;1
+1912;<U+0001F329>;cloud with lightning;0;1;0;1
+1913;<U+0001F32A>;tornado;0;1;0;1
+1914;<U+0001F32B>;fog;0;1;0;1
+1915;<U+0001F32C>;wind face;0;1;0;1
+1916;<U+0001F300>;cyclone;0;1;0;1
+1917;<U+0001F308>;rainbow;0;1;0;1
+1918;<U+0001F302>;closed umbrella;0;1;0;1
+1919;<U+2602>;umbrella;0;1;0;1
+1920;<U+2614>;umbrella with rain drops;0;1;0;1
+1921;<U+26F1>;umbrella on ground;0;1;0;1
+1922;<U+26A1>;high voltage;0;1;0;1
+1923;<U+2744>;snowflake;0;1;0;1
+1924;<U+2603>;snowman;0;1;0;1
+1925;<U+26C4>;snowman without snow;0;1;0;1
+1926;<U+2604>;comet;0;1;0;1
+1927;<U+0001F525>;fire;0;1;0;1
+1928;<U+0001F4A7>;droplet;0;1;0;1
+1929;<U+0001F30A>;water wave;0;1;0;1
+1930;<U+0001F383>;jack-o-lantern;0;1;0;1
+1931;<U+0001F384>;Christmas tree;0;1;0;1
+1932;<U+0001F386>;fireworks;0;1;0;1
+1933;<U+0001F387>;sparkler;0;1;0;1
+1934;<U+2728>;sparkles;0;1;0;1
+1935;<U+0001F388>;balloon;0;1;0;1
+1936;<U+0001F389>;party popper;0;1;0;1
+1937;<U+0001F38A>;confetti ball;0;1;0;1
+1938;<U+0001F38B>;tanabata tree;0;1;0;1
+1939;<U+0001F38D>;pine decoration;0;1;0;1
+1940;<U+0001F38E>;Japanese dolls;0;1;0;1
+1941;<U+0001F38F>;carp streamer;0;1;0;1
+1942;<U+0001F390>;wind chime;0;1;0;1
+1943;<U+0001F391>;moon viewing ceremony;0;1;0;1
+1944;<U+0001F380>;ribbon;0;1;0;1
+1945;<U+0001F381>;wrapped gift;0;1;0;1
+1946;<U+0001F397>;reminder ribbon;0;1;0;1
+1947;<U+0001F39F>;admission tickets;0;1;0;1
+1948;<U+0001F3AB>;ticket;0;1;0;1
+1949;<U+0001F396>;military medal;0;1;0;1
+1950;<U+0001F3C6>;trophy;0;1;0;1
+1951;<U+0001F3C5>;sports medal;0;1;0;1
+1952;<U+0001F947>;1st place medal;0;1;0;1
+1953;<U+0001F948>;2nd place medal;0;1;0;1
+1954;<U+0001F949>;3rd place medal;0;1;0;1
+1955;<U+26BD>;soccer ball;0;1;0;1
+1956;<U+26BE>;baseball;0;1;0;1
+1957;<U+0001F3C0>;basketball;0;1;0;1
+1958;<U+0001F3D0>;volleyball;0;1;0;1
+1959;<U+0001F3C8>;american football;0;1;0;1
+1960;<U+0001F3C9>;rugby football;0;1;0;1
+1961;<U+0001F3BE>;tennis;0;1;0;1
+1962;<U+0001F3B1>;pool 8 ball;0;1;0;1
+1963;<U+0001F3B3>;bowling;0;1;0;1
+1964;<U+0001F3CF>;cricket game;0;1;0;1
+1965;<U+0001F3D1>;field hockey;0;1;0;1
+1966;<U+0001F3D2>;ice hockey;0;1;0;1
+1967;<U+0001F3D3>;ping pong;0;1;0;1
+1968;<U+0001F3F8>;badminton;0;1;0;1
+1969;<U+0001F94A>;boxing glove;0;1;0;1
+1970;<U+0001F94B>;martial arts uniform;0;1;0;1
+1971;<U+0001F945>;goal net;0;1;0;1
+1972;<U+0001F3AF>;direct hit;0;1;0;1
+1973;<U+26F3>;flag in hole;0;1;0;1
+1974;<U+26F8>;ice skate;0;1;0;1
+1975;<U+0001F3A3>;fishing pole;0;1;0;1
+1976;<U+0001F3BD>;running shirt;0;1;0;1
+1977;<U+0001F3BF>;skis;0;1;0;1
+1978;<U+0001F6F7>;sled;0;1;0;1
+1979;<U+0001F94C>;curling stone;0;1;0;1
+1980;<U+0001F3AE>;video game;0;1;0;1
+1981;<U+0001F579>;joystick;0;1;0;1
+1982;<U+0001F3B2>;game die;0;1;0;1
+1983;¦;spade suit;0;1;0;1
+1984;¦;heart suit;0;1;0;1
+1985;¦;diamond suit;0;1;0;1
+1986;¦;club suit;0;1;0;1
+1987;<U+0001F0CF>;joker;0;1;0;1
+1988;<U+0001F004>;mahjong red dragon;0;1;0;1
+1989;<U+0001F3B4>;flower playing cards;0;1;0;1
+1990;<U+0001F507>;muted speaker;0;1;0;1
+1991;<U+0001F508>;speaker low volume;0;1;0;1
+1992;<U+0001F509>;speaker medium volume;0;1;0;1
+1993;<U+0001F50A>;speaker high volume;0;1;0;1
+1994;<U+0001F4E2>;loudspeaker;0;1;0;1
+1995;<U+0001F4E3>;megaphone;0;1;0;1
+1996;<U+0001F4EF>;postal horn;0;1;0;1
+1997;<U+0001F514>;bell;0;1;0;1
+1998;<U+0001F515>;bell with slash;0;1;0;1
+1999;<U+0001F3BC>;musical score;0;1;0;1
+2000;<U+0001F3B5>;musical note;0;1;0;1
+2001;<U+0001F3B6>;musical notes;0;1;0;1
+2002;<U+0001F399>;studio microphone;0;1;0;1
+2003;<U+0001F39A>;level slider;0;1;0;1
+2004;<U+0001F39B>;control knobs;0;1;0;1
+2005;<U+0001F3A4>;microphone;0;1;0;1
+2006;<U+0001F3A7>;headphone;0;1;0;1
+2007;<U+0001F4FB>;radio;0;1;0;1
+2008;<U+0001F3B7>;saxophone;0;1;0;1
+2009;<U+0001F3B8>;guitar;0;1;0;1
+2010;<U+0001F3B9>;musical keyboard;0;1;0;1
+2011;<U+0001F3BA>;trumpet;0;1;0;1
+2012;<U+0001F3BB>;violin;0;1;0;1
+2013;<U+0001F941>;drum;0;1;0;1
+2014;<U+0001F4F1>;mobile phone;0;1;0;1
+2015;<U+0001F4F2>;mobile phone with arrow;0;1;0;1
+2016;<U+260E>;telephone;0;1;0;1
+2017;<U+0001F4DE>;telephone receiver;0;1;0;1
+2018;<U+0001F4DF>;pager;0;1;0;1
+2019;<U+0001F4E0>;fax machine;0;1;0;1
+2020;<U+0001F50B>;battery;0;1;0;1
+2021;<U+0001F50C>;electric plug;0;1;0;1
+2022;<U+0001F4BB>;laptop computer;0;1;0;1
+2023;<U+0001F5A5>;desktop computer;0;1;0;1
+2024;<U+0001F5A8>;printer;0;1;0;1
+2025;<U+2328>;keyboard;0;1;0;1
+2026;<U+0001F5B1>;computer mouse;0;1;0;1
+2027;<U+0001F5B2>;trackball;0;1;0;1
+2028;<U+0001F4BD>;computer disk;0;1;0;1
+2029;<U+0001F4BE>;floppy disk;0;1;0;1
+2030;<U+0001F4BF>;optical disk;0;1;0;1
+2031;<U+0001F4C0>;dvd;0;1;0;1
+2032;<U+0001F3A5>;movie camera;0;1;0;1
+2033;<U+0001F39E>;film frames;0;1;0;1
+2034;<U+0001F4FD>;film projector;0;1;0;1
+2035;<U+0001F3AC>;clapper board;0;1;0;1
+2036;<U+0001F4FA>;television;0;1;0;1
+2037;<U+0001F4F7>;camera;0;1;0;1
+2038;<U+0001F4F8>;camera with flash;0;1;0;1
+2039;<U+0001F4F9>;video camera;0;1;0;1
+2040;<U+0001F4FC>;videocassette;0;1;0;1
+2041;<U+0001F50D>;magnifying glass tilted left;0;1;0;1
+2042;<U+0001F50E>;magnifying glass tilted right;0;1;0;1
+2043;<U+0001F52C>;microscope;0;1;0;1
+2044;<U+0001F52D>;telescope;0;1;0;1
+2045;<U+0001F4E1>;satellite antenna;0;1;0;1
+2046;<U+0001F56F>;candle;0;1;0;1
+2047;<U+0001F4A1>;light bulb;0;1;0;1
+2048;<U+0001F526>;flashlight;0;1;0;1
+2049;<U+0001F3EE>;red paper lantern;0;1;0;1
+2050;<U+0001F4D4>;notebook with decorative cover;0;1;0;1
+2051;<U+0001F4D5>;closed book;0;1;0;1
+2052;<U+0001F4D6>;open book;0;1;0;1
+2053;<U+0001F4D7>;green book;0;1;0;1
+2054;<U+0001F4D8>;blue book;0;1;0;1
+2055;<U+0001F4D9>;orange book;0;1;0;1
+2056;<U+0001F4DA>;books;0;1;0;1
+2057;<U+0001F4D3>;notebook;0;1;0;1
+2058;<U+0001F4D2>;ledger;0;1;0;1
+2059;<U+0001F4C3>;page with curl;0;1;0;1
+2060;<U+0001F4DC>;scroll;0;1;0;1
+2061;<U+0001F4C4>;page facing up;0;1;0;1
+2062;<U+0001F4F0>;newspaper;0;1;0;1
+2063;<U+0001F5DE>;rolled-up newspaper;0;1;0;1
+2064;<U+0001F4D1>;bookmark tabs;0;1;0;1
+2065;<U+0001F516>;bookmark;0;1;0;1
+2066;<U+0001F3F7>;label;0;1;0;1
+2067;<U+0001F4B0>;money bag;0;1;0;1
+2068;<U+0001F4B4>;yen banknote;0;1;0;1
+2069;<U+0001F4B5>;dollar banknote;0;1;0;1
+2070;<U+0001F4B6>;euro banknote;0;1;0;1
+2071;<U+0001F4B7>;pound banknote;0;1;0;1
+2072;<U+0001F4B8>;money with wings;0;1;0;1
+2073;<U+0001F4B3>;credit card;0;1;0;1
+2074;<U+0001F4B9>;chart increasing with yen;0;1;0;1
+2075;<U+0001F4B1>;currency exchange;0;1;0;1
+2076;<U+0001F4B2>;heavy dollar sign;0;1;0;1
+2077;<U+2709>;envelope;0;1;0;1
+2078;<U+0001F4E7>;e-mail;0;1;0;1
+2079;<U+0001F4E8>;incoming envelope;0;1;0;1
+2080;<U+0001F4E9>;envelope with arrow;0;1;0;1
+2081;<U+0001F4E4>;outbox tray;0;1;0;1
+2082;<U+0001F4E5>;inbox tray;0;1;0;1
+2083;<U+0001F4E6>;package;0;1;0;1
+2084;<U+0001F4EB>;closed mailbox with raised flag;0;1;0;1
+2085;<U+0001F4EA>;closed mailbox with lowered flag;0;1;0;1
+2086;<U+0001F4EC>;open mailbox with raised flag;0;1;0;1
+2087;<U+0001F4ED>;open mailbox with lowered flag;0;1;0;1
+2088;<U+0001F4EE>;postbox;0;1;0;1
+2089;<U+0001F5F3>;ballot box with ballot;0;1;0;1
+2090;<U+270F>;pencil;0;1;0;1
+2091;<U+2712>;black nib;0;1;0;1
+2092;<U+0001F58B>;fountain pen;0;1;0;1
+2093;<U+0001F58A>;pen;0;1;0;1
+2094;<U+0001F58C>;paintbrush;0;1;0;1
+2095;<U+0001F58D>;crayon;0;1;0;1
+2096;<U+0001F4DD>;memo;0;1;0;1
+2097;<U+0001F4BC>;briefcase;0;1;0;1
+2098;<U+0001F4C1>;file folder;0;1;0;1
+2099;<U+0001F4C2>;open file folder;0;1;0;1
+2100;<U+0001F5C2>;card index dividers;0;1;0;1
+2101;<U+0001F4C5>;calendar;0;1;0;1
+2102;<U+0001F4C6>;tear-off calendar;0;1;0;1
+2103;<U+0001F5D2>;spiral notepad;0;1;0;1
+2104;<U+0001F5D3>;spiral calendar;0;1;0;1
+2105;<U+0001F4C7>;card index;0;1;0;1
+2106;<U+0001F4C8>;chart increasing;0;1;0;1
+2107;<U+0001F4C9>;chart decreasing;0;1;0;1
+2108;<U+0001F4CA>;bar chart;0;1;0;1
+2109;<U+0001F4CB>;clipboard;0;1;0;1
+2110;<U+0001F4CC>;pushpin;0;1;0;1
+2111;<U+0001F4CD>;round pushpin;0;1;0;1
+2112;<U+0001F4CE>;paperclip;0;1;0;1
+2113;<U+0001F587>;linked paperclips;0;1;0;1
+2114;<U+0001F4CF>;straight ruler;0;1;0;1
+2115;<U+0001F4D0>;triangular ruler;0;1;0;1
+2116;<U+2702>;scissors;0;1;0;1
+2117;<U+0001F5C3>;card file box;0;1;0;1
+2118;<U+0001F5C4>;file cabinet;0;1;0;1
+2119;<U+0001F5D1>;wastebasket;0;1;0;1
+2120;<U+0001F512>;locked;0;1;0;1
+2121;<U+0001F513>;unlocked;0;1;0;1
+2122;<U+0001F50F>;locked with pen;0;1;0;1
+2123;<U+0001F510>;locked with key;0;1;0;1
+2124;<U+0001F511>;key;0;1;0;1
+2125;<U+0001F5DD>;old key;0;1;0;1
+2126;<U+0001F528>;hammer;0;1;0;1
+2127;<U+26CF>;pick;0;1;0;1
+2128;<U+2692>;hammer and pick;0;1;0;1
+2129;<U+0001F6E0>;hammer and wrench;0;1;0;1
+2130;<U+0001F5E1>;dagger;0;1;0;1
+2131;<U+2694>;crossed swords;0;1;0;1
+2132;<U+0001F52B>;pistol;0;1;0;1
+2133;<U+0001F3F9>;bow and arrow;0;1;0;1
+2134;<U+0001F6E1>;shield;0;1;0;1
+2135;<U+0001F527>;wrench;0;1;0;1
+2136;<U+0001F529>;nut and bolt;0;1;0;1
+2137;<U+2699>;gear;0;1;0;1
+2138;<U+0001F5DC>;clamp;0;1;0;1
+2139;<U+2697>;alembic;0;1;0;1
+2140;<U+2696>;balance scale;0;1;0;1
+2141;<U+0001F517>;link;0;1;0;1
+2142;<U+26D3>;chains;0;1;0;1
+2143;<U+0001F489>;syringe;0;1;0;1
+2144;<U+0001F48A>;pill;0;1;0;1
+2145;<U+0001F6AC>;cigarette;0;1;0;1
+2146;<U+26B0>;coffin;0;1;0;1
+2147;<U+26B1>;funeral urn;0;1;0;1
+2148;<U+0001F5FF>;moai;0;1;0;1
+2149;<U+0001F6E2>;oil drum;0;1;0;1
+2150;<U+0001F52E>;crystal ball;0;1;0;1
+2151;<U+0001F6D2>;shopping cart;0;1;0;1
+2152;<U+0001F3E7>;ATM sign;0;1;0;1
+2153;<U+0001F6AE>;litter in bin sign;0;1;0;1
+2154;<U+0001F6B0>;potable water;0;1;0;1
+2155;<U+267F>;wheelchair symbol;0;1;0;1
+2156;<U+0001F6B9>;men’s room;0;1;0;1
+2157;<U+0001F6BA>;women’s room;0;1;0;1
+2158;<U+0001F6BB>;restroom;0;1;0;1
+2159;<U+0001F6BC>;baby symbol;0;1;0;1
+2160;<U+0001F6BE>;water closet;0;1;0;1
+2161;<U+0001F6C2>;passport control;0;1;0;1
+2162;<U+0001F6C3>;customs;0;1;0;1
+2163;<U+0001F6C4>;baggage claim;0;1;0;1
+2164;<U+0001F6C5>;left luggage;0;1;0;1
+2165;<U+26A0>;warning;0;1;0;1
+2166;<U+0001F6B8>;children crossing;0;1;0;1
+2167;<U+26D4>;no entry;0;1;0;1
+2168;<U+0001F6AB>;prohibited;0;1;0;1
+2169;<U+0001F6B3>;no bicycles;0;1;0;1
+2170;<U+0001F6AD>;no smoking;0;1;0;1
+2171;<U+0001F6AF>;no littering;0;1;0;1
+2172;<U+0001F6B1>;non-potable water;0;1;0;1
+2173;<U+0001F6B7>;no pedestrians;0;1;0;1
+2174;<U+0001F4F5>;no mobile phones;0;1;0;1
+2175;<U+0001F51E>;no one under eighteen;0;1;0;1
+2176;<U+2622>;radioactive;0;1;0;1
+2177;<U+2623>;biohazard;0;1;0;1
+2178;<U+2B06>;up arrow;0;1;0;1
+2179;<U+2197>;up-right arrow;0;1;0;1
+2180;<U+27A1>;right arrow;0;1;0;1
+2181;<U+2198>;down-right arrow;0;1;0;1
+2182;<U+2B07>;down arrow;0;1;0;1
+2183;<U+2199>;down-left arrow;0;1;0;1
+2184;<U+2B05>;left arrow;0;1;0;1
+2185;<U+2196>;up-left arrow;0;1;0;1
+2186;¦;up-down arrow;0;1;0;1
+2187;-;left-right arrow;0;1;0;1
+2188;<U+21A9>;right arrow curving left;0;1;0;1
+2189;<U+21AA>;left arrow curving right;0;1;0;1
+2190;<U+2934>;right arrow curving up;0;1;0;1
+2191;<U+2935>;right arrow curving down;0;1;0;1
+2192;<U+0001F503>;clockwise vertical arrows;0;1;0;1
+2193;<U+0001F504>;counterclockwise arrows button;0;1;0;1
+2194;<U+0001F519>;BACK arrow;0;1;0;1
+2195;<U+0001F51A>;END arrow;0;1;0;1
+2196;<U+0001F51B>;ON! arrow;0;1;0;1
+2197;<U+0001F51C>;SOON arrow;0;1;0;1
+2198;<U+0001F51D>;TOP arrow;0;1;0;1
+2199;<U+0001F6D0>;place of worship;0;1;0;1
+2200;<U+269B>;atom symbol;0;1;0;1
+2201;<U+0001F549>;om;0;1;0;1
+2202;<U+2721>;star of David;0;1;0;1
+2203;<U+2638>;wheel of dharma;0;1;0;1
+2204;<U+262F>;yin yang;0;1;0;1
+2205;<U+271D>;latin cross;0;1;0;1
+2206;<U+2626>;orthodox cross;0;1;0;1
+2207;<U+262A>;star and crescent;0;1;0;1
+2208;<U+262E>;peace symbol;0;1;0;1
+2209;<U+0001F54E>;menorah;0;1;0;1
+2210;<U+0001F52F>;dotted six-pointed star;0;1;0;1
+2211;<U+2648>;Aries;0;1;0;1
+2212;<U+2649>;Taurus;0;1;0;1
+2213;<U+264A>;Gemini;0;1;0;1
+2214;<U+264B>;Cancer;0;1;0;1
+2215;<U+264C>;Leo;0;1;0;1
+2216;<U+264D>;Virgo;0;1;0;1
+2217;<U+264E>;Libra;0;1;0;1
+2218;<U+264F>;Scorpius;0;1;0;1
+2219;<U+2650>;Sagittarius;0;1;0;1
+2220;<U+2651>;Capricorn;0;1;0;1
+2221;<U+2652>;Aquarius;0;1;0;1
+2222;<U+2653>;Pisces;0;1;0;1
+2223;<U+26CE>;Ophiuchus;0;1;0;1
+2224;<U+0001F500>;shuffle tracks button;0;1;0;1
+2225;<U+0001F501>;repeat button;0;1;0;1
+2226;<U+0001F502>;repeat single button;0;1;0;1
+2227;<U+25B6>;play button;0;1;0;1
+2228;<U+23E9>;fast-forward button;0;1;0;1
+2229;<U+23ED>;next track button;0;1;0;1
+2230;<U+23EF>;play or pause button;0;1;0;1
+2231;<U+25C0>;reverse button;0;1;0;1
+2232;<U+23EA>;fast reverse button;0;1;0;1
+2233;<U+23EE>;last track button;0;1;0;1
+2234;<U+0001F53C>;up button;0;1;0;1
+2235;<U+23EB>;fast up button;0;1;0;1
+2236;<U+0001F53D>;down button;0;1;0;1
+2237;<U+23EC>;fast down button;0;1;0;1
+2238;<U+23F8>;pause button;0;1;0;1
+2239;<U+23F9>;stop button;0;1;0;1
+2240;<U+23FA>;record button;0;1;0;1
+2241;<U+23CF>;eject button;0;1;0;1
+2242;<U+0001F3A6>;cinema;0;1;0;1
+2243;<U+0001F505>;dim button;0;1;0;1
+2244;<U+0001F506>;bright button;0;1;0;1
+2245;<U+0001F4F6>;antenna bars;0;1;0;1
+2246;<U+0001F4F3>;vibration mode;0;1;0;1
+2247;<U+0001F4F4>;mobile phone off;0;1;0;1
+2248;+;female sign;0;1;0;1
+2249;>;male sign;0;1;0;1
+2250;<U+2695>;medical symbol;0;1;0;1
+2251;<U+267B>;recycling symbol;0;1;0;1
+2252;<U+269C>;fleur-de-lis;0;1;0;1
+2253;<U+0001F531>;trident emblem;0;1;0;1
+2254;<U+0001F4DB>;name badge;0;1;0;1
+2255;<U+0001F530>;Japanese symbol for beginner;0;1;0;1
+2256;<U+2B55>;heavy large circle;0;1;0;1
+2257;<U+2705>;white heavy check mark;0;0;1;1
+2258;<U+2611>;ballot box with check;0;1;0;1
+2259;<U+2714>;heavy check mark;0;0;1;1
+2260;<U+2716>;heavy multiplication x;0;1;0;1
+2261;<U+274C>;cross mark;1;0;0;1
+2262;<U+274E>;cross mark button;1;0;0;1
+2263;<U+2795>;heavy plus sign;0;1;0;1
+2264;<U+2796>;heavy minus sign;0;1;0;1
+2265;<U+2797>;heavy division sign;0;1;0;1
+2266;<U+27B0>;curly loop;0;1;0;1
+2267;<U+27BF>;double curly loop;0;1;0;1
+2268;<U+303D>;part alternation mark;0;1;0;1
+2269;<U+2733>;eight-spoked asterisk;0;1;0;1
+2270;<U+2734>;eight-pointed star;0;1;0;1
+2271;<U+2747>;sparkle;0;1;0;1
+2272;!;double exclamation mark;0;1;0;1
+2273;<U+2049>;exclamation question mark;0;1;0;1
+2274;<U+2753>;question mark;0;1;0;1
+2275;<U+2754>;white question mark;0;1;0;1
+2276;<U+2755>;white exclamation mark;0;1;0;1
+2277;<U+2757>;exclamation mark;0;1;0;1
+2278;<U+3030>;wavy dash;0;1;0;1
+2279;©;copyright;0;1;0;1
+2280;®;registered;0;1;0;1
+2281;™;trade mark;0;1;0;1
+2282;#<U+FE0F><U+20E3>;# keycap;0;1;0;1
+2283;*<U+FE0F><U+20E3>;* keycap;0;1;0;1
+2284;0<U+FE0F><U+20E3>;0 keycap;0;1;0;1
+2285;1<U+FE0F><U+20E3>;1 keycap;0;1;0;1
+2286;2<U+FE0F><U+20E3>;2 keycap;0;1;0;1
+2287;3<U+FE0F><U+20E3>;3 keycap;0;1;0;1
+2288;4<U+FE0F><U+20E3>;4 keycap;0;1;0;1
+2289;5<U+FE0F><U+20E3>;5 keycap;0;1;0;1
+2290;6<U+FE0F><U+20E3>;6 keycap;0;1;0;1
+2291;7<U+FE0F><U+20E3>;7 keycap;0;1;0;1
+2292;8<U+FE0F><U+20E3>;8 keycap;0;1;0;1
+2293;9<U+FE0F><U+20E3>;9 keycap;0;1;0;1
+2294;<U+0001F51F>;keycap 10;0;1;0;1
+2295;<U+0001F4AF>;hundred points;0;1;0;1
+2296;<U+0001F520>;input latin uppercase;0;1;0;1
+2297;<U+0001F521>;input latin lowercase;0;1;0;1
+2298;<U+0001F522>;input numbers;0;1;0;1
+2299;<U+0001F523>;input symbols;0;1;0;1
+2300;<U+0001F524>;input latin letters;0;1;0;1
+2301;<U+0001F170>;A button (blood type);0;1;0;1
+2302;<U+0001F18E>;AB button (blood type);0;1;0;1
+2303;<U+0001F171>;B button (blood type);0;1;0;1
+2304;<U+0001F191>;CL button;0;1;0;1
+2305;<U+0001F192>;COOL button;0;1;0;1
+2306;<U+0001F193>;FREE button;0;1;0;1
+2307;<U+2139>;information;0;1;0;1
+2308;<U+0001F194>;ID button;0;1;0;1
+2309;<U+24C2>;circled M;0;1;0;1
+2310;<U+0001F195>;NEW button;0;1;0;1
+2311;<U+0001F196>;NG button;0;1;0;1
+2312;<U+0001F17E>;O button (blood type);0;1;0;1
+2313;<U+0001F197>;OK button;0;1;0;1
+2314;<U+0001F17F>;P button;0;1;0;1
+2315;<U+0001F198>;SOS button;0;1;0;1
+2316;<U+0001F199>;UP! button;0;1;0;1
+2317;<U+0001F19A>;VS button;0;1;0;1
+2318;<U+0001F201>;Japanese “here” button;0;1;0;1
+2319;<U+0001F202>;Japanese “service charge” button;0;1;0;1
+2320;<U+0001F237>;Japanese “monthly amount” button;0;1;0;1
+2321;<U+0001F236>;Japanese “not free of charge” button;0;1;0;1
+2322;<U+0001F22F>;Japanese “reserved” button;0;1;0;1
+2323;<U+0001F250>;Japanese “bargain” button;0;1;0;1
+2324;<U+0001F239>;Japanese “discount” button;0;1;0;1
+2325;<U+0001F21A>;Japanese “free of charge” button;0;1;0;1
+2326;<U+0001F232>;Japanese “prohibited” button;0;1;0;1
+2327;<U+0001F251>;Japanese “acceptable” button;0;1;0;1
+2328;<U+0001F238>;Japanese “application” button;0;1;0;1
+2329;<U+0001F234>;Japanese “passing grade” button;0;1;0;1
+2330;<U+0001F233>;Japanese “vacancy” button;0;1;0;1
+2331;<U+3297>;Japanese “congratulations” button;0;1;0;1
+2332;<U+3299>;Japanese “secret” button;0;1;0;1
+2333;<U+0001F23A>;Japanese “open for business” button;0;1;0;1
+2334;<U+0001F235>;Japanese “no vacancy” button;0;1;0;1
+2335;<U+25AA>;black small square;0;1;0;1
+2336;<U+25AB>;white small square;0;1;0;1
+2337;<U+25FB>;white medium square;0;1;0;1
+2338;<U+25FC>;black medium square;0;1;0;1
+2339;<U+25FD>;white medium-small square;0;1;0;1
+2340;<U+25FE>;black medium-small square;0;1;0;1
+2341;<U+2B1B>;black large square;0;1;0;1
+2342;<U+2B1C>;white large square;0;1;0;1
+2343;<U+0001F536>;large orange diamond;0;1;0;1
+2344;<U+0001F537>;large blue diamond;0;1;0;1
+2345;<U+0001F538>;small orange diamond;0;1;0;1
+2346;<U+0001F539>;small blue diamond;0;1;0;1
+2347;<U+0001F53A>;red triangle pointed up;0;1;0;1
+2348;<U+0001F53B>;red triangle pointed down;0;1;0;1
+2349;<U+0001F4A0>;diamond with a dot;0;1;0;1
+2350;<U+0001F518>;radio button;0;1;0;1
+2351;<U+0001F532>;black square button;0;1;0;1
+2352;<U+0001F533>;white square button;0;1;0;1
+2353;<U+26AA>;white circle;0;1;0;1
+2354;<U+26AB>;black circle;0;1;0;1
+2355;<U+0001F534>;red circle;0;1;0;1
+2356;<U+0001F535>;blue circle;0;1;0;1
+2357;<U+0001F3C1>;chequered flag;0;1;0;1
+2358;<U+0001F6A9>;triangular flag;0;1;0;1
+2359;<U+0001F38C>;crossed flags;0;1;0;1
+2360;<U+0001F3F4>;black flag;0;1;0;1
+2361;<U+0001F3F3>;white flag;0;1;0;1
+2362;<U+0001F3F3><U+FE0F><U+200D><U+0001F308>;rainbow flag;0;1;0;1
+2363;<U+0001F1E6><U+0001F1E8>;Ascension Island;0;1;0;1
+2364;<U+0001F1E6><U+0001F1E9>;Andorra;0;1;0;1
+2365;<U+0001F1E6><U+0001F1EA>;United Arab Emirates;0;1;0;1
+2366;<U+0001F1E6><U+0001F1EB>;Afghanistan;0;1;0;1
+2367;<U+0001F1E6><U+0001F1EC>;Antigua & Barbuda;0;1;0;1
+2368;<U+0001F1E6><U+0001F1EE>;Anguilla;0;1;0;1
+2369;<U+0001F1E6><U+0001F1F1>;Albania;0;1;0;1
+2370;<U+0001F1E6><U+0001F1F2>;Armenia;0;1;0;1
+2371;<U+0001F1E6><U+0001F1F4>;Angola;0;1;0;1
+2372;<U+0001F1E6><U+0001F1F6>;Antarctica;0;1;0;1
+2373;<U+0001F1E6><U+0001F1F7>;Argentina;0;1;0;1
+2374;<U+0001F1E6><U+0001F1F8>;American Samoa;0;1;0;1
+2375;<U+0001F1E6><U+0001F1F9>;Austria;0;1;0;1
+2376;<U+0001F1E6><U+0001F1FA>;Australia;0;1;0;1
+2377;<U+0001F1E6><U+0001F1FC>;Aruba;0;1;0;1
+2378;<U+0001F1E6><U+0001F1FD>;Aland Islands;0;1;0;1
+2379;<U+0001F1E6><U+0001F1FF>;Azerbaijan;0;1;0;1
+2380;<U+0001F1E7><U+0001F1E6>;Bosnia & Herzegovina;0;1;0;1
+2381;<U+0001F1E7><U+0001F1E7>;Barbados;0;1;0;1
+2382;<U+0001F1E7><U+0001F1E9>;Bangladesh;0;1;0;1
+2383;<U+0001F1E7><U+0001F1EA>;Belgium;0;1;0;1
+2384;<U+0001F1E7><U+0001F1EB>;Burkina Faso;0;1;0;1
+2385;<U+0001F1E7><U+0001F1EC>;Bulgaria;0;1;0;1
+2386;<U+0001F1E7><U+0001F1ED>;Bahrain;0;1;0;1
+2387;<U+0001F1E7><U+0001F1EE>;Burundi;0;1;0;1
+2388;<U+0001F1E7><U+0001F1EF>;Benin;0;1;0;1
+2389;<U+0001F1E7><U+0001F1F1>;St. Barthelemy;0;1;0;1
+2390;<U+0001F1E7><U+0001F1F2>;Bermuda;0;1;0;1
+2391;<U+0001F1E7><U+0001F1F3>;Brunei;0;1;0;1
+2392;<U+0001F1E7><U+0001F1F4>;Bolivia;0;1;0;1
+2393;<U+0001F1E7><U+0001F1F6>;Caribbean Netherlands;0;1;0;1
+2394;<U+0001F1E7><U+0001F1F7>;Brazil;0;1;0;1
+2395;<U+0001F1E7><U+0001F1F8>;Bahamas;0;1;0;1
+2396;<U+0001F1E7><U+0001F1F9>;Bhutan;0;1;0;1
+2397;<U+0001F1E7><U+0001F1FB>;Bouvet Island;0;1;0;1
+2398;<U+0001F1E7><U+0001F1FC>;Botswana;0;1;0;1
+2399;<U+0001F1E7><U+0001F1FE>;Belarus;0;1;0;1
+2400;<U+0001F1E7><U+0001F1FF>;Belize;0;1;0;1
+2401;<U+0001F1E8><U+0001F1E6>;Canada;0;1;0;1
+2402;<U+0001F1E8><U+0001F1E8>;Cocos (Keeling) Islands;0;1;0;1
+2403;<U+0001F1E8><U+0001F1E9>;Congo - Kinshasa;0;1;0;1
+2404;<U+0001F1E8><U+0001F1EB>;Central African Republic;0;1;0;1
+2405;<U+0001F1E8><U+0001F1EC>;Congo - Brazzaville;0;1;0;1
+2406;<U+0001F1E8><U+0001F1ED>;Switzerland;0;1;0;1
+2407;<U+0001F1E8><U+0001F1EE>;Cote d’Ivoire;0;1;0;1
+2408;<U+0001F1E8><U+0001F1F0>;Cook Islands;0;1;0;1
+2409;<U+0001F1E8><U+0001F1F1>;Chile;0;1;0;1
+2410;<U+0001F1E8><U+0001F1F2>;Cameroon;0;1;0;1
+2411;<U+0001F1E8><U+0001F1F3>;China;0;1;0;1
+2412;<U+0001F1E8><U+0001F1F4>;Colombia;0;1;0;1
+2413;<U+0001F1E8><U+0001F1F5>;Clipperton Island;0;1;0;1
+2414;<U+0001F1E8><U+0001F1F7>;Costa Rica;0;1;0;1
+2415;<U+0001F1E8><U+0001F1FA>;Cuba;0;1;0;1
+2416;<U+0001F1E8><U+0001F1FB>;Cape Verde;0;1;0;1
+2417;<U+0001F1E8><U+0001F1FC>;Curacao;0;1;0;1
+2418;<U+0001F1E8><U+0001F1FD>;Christmas Island;0;1;0;1
+2419;<U+0001F1E8><U+0001F1FE>;Cyprus;0;1;0;1
+2420;<U+0001F1E8><U+0001F1FF>;Czechia;0;1;0;1
+2421;<U+0001F1E9><U+0001F1EA>;Germany;0;1;0;1
+2422;<U+0001F1E9><U+0001F1EC>;Diego Garcia;0;1;0;1
+2423;<U+0001F1E9><U+0001F1EF>;Djibouti;0;1;0;1
+2424;<U+0001F1E9><U+0001F1F0>;Denmark;0;1;0;1
+2425;<U+0001F1E9><U+0001F1F2>;Dominica;0;1;0;1
+2426;<U+0001F1E9><U+0001F1F4>;Dominican Republic;0;1;0;1
+2427;<U+0001F1E9><U+0001F1FF>;Algeria;0;1;0;1
+2428;<U+0001F1EA><U+0001F1E6>;Ceuta & Melilla;0;1;0;1
+2429;<U+0001F1EA><U+0001F1E8>;Ecuador;0;1;0;1
+2430;<U+0001F1EA><U+0001F1EA>;Estonia;0;1;0;1
+2431;<U+0001F1EA><U+0001F1EC>;Egypt;0;1;0;1
+2432;<U+0001F1EA><U+0001F1ED>;Western Sahara;0;1;0;1
+2433;<U+0001F1EA><U+0001F1F7>;Eritrea;0;1;0;1
+2434;<U+0001F1EA><U+0001F1F8>;Spain;0;1;0;1
+2435;<U+0001F1EA><U+0001F1F9>;Ethiopia;0;1;0;1
+2436;<U+0001F1EA><U+0001F1FA>;European Union;0;1;0;1
+2437;<U+0001F1EB><U+0001F1EE>;Finland;0;1;0;1
+2438;<U+0001F1EB><U+0001F1EF>;Fiji;0;1;0;1
+2439;<U+0001F1EB><U+0001F1F0>;Falkland Islands;0;1;0;1
+2440;<U+0001F1EB><U+0001F1F2>;Micronesia;0;1;0;1
+2441;<U+0001F1EB><U+0001F1F4>;Faroe Islands;0;1;0;1
+2442;<U+0001F1EB><U+0001F1F7>;France;0;1;0;1
+2443;<U+0001F1EC><U+0001F1E6>;Gabon;0;1;0;1
+2444;<U+0001F1EC><U+0001F1E7>;United Kingdom;0;1;0;1
+2445;<U+0001F1EC><U+0001F1E9>;Grenada;0;1;0;1
+2446;<U+0001F1EC><U+0001F1EA>;Georgia;0;1;0;1
+2447;<U+0001F1EC><U+0001F1EB>;French Guiana;0;1;0;1
+2448;<U+0001F1EC><U+0001F1EC>;Guernsey;0;1;0;1
+2449;<U+0001F1EC><U+0001F1ED>;Ghana;0;1;0;1
+2450;<U+0001F1EC><U+0001F1EE>;Gibraltar;0;1;0;1
+2451;<U+0001F1EC><U+0001F1F1>;Greenland;0;1;0;1
+2452;<U+0001F1EC><U+0001F1F2>;Gambia;0;1;0;1
+2453;<U+0001F1EC><U+0001F1F3>;Guinea;0;1;0;1
+2454;<U+0001F1EC><U+0001F1F5>;Guadeloupe;0;1;0;1
+2455;<U+0001F1EC><U+0001F1F6>;Equatorial Guinea;0;1;0;1
+2456;<U+0001F1EC><U+0001F1F7>;Greece;0;1;0;1
+2457;<U+0001F1EC><U+0001F1F8>;South Georgia & South Sandwich Islands;0;1;0;1
+2458;<U+0001F1EC><U+0001F1F9>;Guatemala;0;1;0;1
+2459;<U+0001F1EC><U+0001F1FA>;Guam;0;1;0;1
+2460;<U+0001F1EC><U+0001F1FC>;Guinea-Bissau;0;1;0;1
+2461;<U+0001F1EC><U+0001F1FE>;Guyana;0;1;0;1
+2462;<U+0001F1ED><U+0001F1F0>;Hong Kong SAR China;0;1;0;1
+2463;<U+0001F1ED><U+0001F1F2>;Heard & McDonald Islands;0;1;0;1
+2464;<U+0001F1ED><U+0001F1F3>;Honduras;0;1;0;1
+2465;<U+0001F1ED><U+0001F1F7>;Croatia;0;1;0;1
+2466;<U+0001F1ED><U+0001F1F9>;Haiti;0;1;0;1
+2467;<U+0001F1ED><U+0001F1FA>;Hungary;0;1;0;1
+2468;<U+0001F1EE><U+0001F1E8>;Canary Islands;0;1;0;1
+2469;<U+0001F1EE><U+0001F1E9>;Indonesia;0;1;0;1
+2470;<U+0001F1EE><U+0001F1EA>;Ireland;0;1;0;1
+2471;<U+0001F1EE><U+0001F1F1>;Israel;0;1;0;1
+2472;<U+0001F1EE><U+0001F1F2>;Isle of Man;0;1;0;1
+2473;<U+0001F1EE><U+0001F1F3>;India;0;1;0;1
+2474;<U+0001F1EE><U+0001F1F4>;British Indian Ocean Territory;0;1;0;1
+2475;<U+0001F1EE><U+0001F1F6>;Iraq;0;1;0;1
+2476;<U+0001F1EE><U+0001F1F7>;Iran;0;1;0;1
+2477;<U+0001F1EE><U+0001F1F8>;Iceland;0;1;0;1
+2478;<U+0001F1EE><U+0001F1F9>;Italy;0;1;0;1
+2479;<U+0001F1EF><U+0001F1EA>;Jersey;0;1;0;1
+2480;<U+0001F1EF><U+0001F1F2>;Jamaica;0;1;0;1
+2481;<U+0001F1EF><U+0001F1F4>;Jordan;0;1;0;1
+2482;<U+0001F1EF><U+0001F1F5>;Japan;0;1;0;1
+2483;<U+0001F1F0><U+0001F1EA>;Kenya;0;1;0;1
+2484;<U+0001F1F0><U+0001F1EC>;Kyrgyzstan;0;1;0;1
+2485;<U+0001F1F0><U+0001F1ED>;Cambodia;0;1;0;1
+2486;<U+0001F1F0><U+0001F1EE>;Kiribati;0;1;0;1
+2487;<U+0001F1F0><U+0001F1F2>;Comoros;0;1;0;1
+2488;<U+0001F1F0><U+0001F1F3>;St. Kitts & Nevis;0;1;0;1
+2489;<U+0001F1F0><U+0001F1F5>;North Korea;0;1;0;1
+2490;<U+0001F1F0><U+0001F1F7>;South Korea;0;1;0;1
+2491;<U+0001F1F0><U+0001F1FC>;Kuwait;0;1;0;1
+2492;<U+0001F1F0><U+0001F1FE>;Cayman Islands;0;1;0;1
+2493;<U+0001F1F0><U+0001F1FF>;Kazakhstan;0;1;0;1
+2494;<U+0001F1F1><U+0001F1E6>;Laos;0;1;0;1
+2495;<U+0001F1F1><U+0001F1E7>;Lebanon;0;1;0;1
+2496;<U+0001F1F1><U+0001F1E8>;St. Lucia;0;1;0;1
+2497;<U+0001F1F1><U+0001F1EE>;Liechtenstein;0;1;0;1
+2498;<U+0001F1F1><U+0001F1F0>;Sri Lanka;0;1;0;1
+2499;<U+0001F1F1><U+0001F1F7>;Liberia;0;1;0;1
+2500;<U+0001F1F1><U+0001F1F8>;Lesotho;0;1;0;1
+2501;<U+0001F1F1><U+0001F1F9>;Lithuania;0;1;0;1
+2502;<U+0001F1F1><U+0001F1FA>;Luxembourg;0;1;0;1
+2503;<U+0001F1F1><U+0001F1FB>;Latvia;0;1;0;1
+2504;<U+0001F1F1><U+0001F1FE>;Libya;0;1;0;1
+2505;<U+0001F1F2><U+0001F1E6>;Morocco;0;1;0;1
+2506;<U+0001F1F2><U+0001F1E8>;Monaco;0;1;0;1
+2507;<U+0001F1F2><U+0001F1E9>;Moldova;0;1;0;1
+2508;<U+0001F1F2><U+0001F1EA>;Montenegro;0;1;0;1
+2509;<U+0001F1F2><U+0001F1EB>;St. Martin;0;1;0;1
+2510;<U+0001F1F2><U+0001F1EC>;Madagascar;0;1;0;1
+2511;<U+0001F1F2><U+0001F1ED>;Marshall Islands;0;1;0;1
+2512;<U+0001F1F2><U+0001F1F0>;Macedonia;0;1;0;1
+2513;<U+0001F1F2><U+0001F1F1>;Mali;0;1;0;1
+2514;<U+0001F1F2><U+0001F1F2>;Myanmar (Burma);0;1;0;1
+2515;<U+0001F1F2><U+0001F1F3>;Mongolia;0;1;0;1
+2516;<U+0001F1F2><U+0001F1F4>;Macau SAR China;0;1;0;1
+2517;<U+0001F1F2><U+0001F1F5>;Northern Mariana Islands;0;1;0;1
+2518;<U+0001F1F2><U+0001F1F6>;Martinique;0;1;0;1
+2519;<U+0001F1F2><U+0001F1F7>;Mauritania;0;1;0;1
+2520;<U+0001F1F2><U+0001F1F8>;Montserrat;0;1;0;1
+2521;<U+0001F1F2><U+0001F1F9>;Malta;0;1;0;1
+2522;<U+0001F1F2><U+0001F1FA>;Mauritius;0;1;0;1
+2523;<U+0001F1F2><U+0001F1FB>;Maldives;0;1;0;1
+2524;<U+0001F1F2><U+0001F1FC>;Malawi;0;1;0;1
+2525;<U+0001F1F2><U+0001F1FD>;Mexico;0;1;0;1
+2526;<U+0001F1F2><U+0001F1FE>;Malaysia;0;1;0;1
+2527;<U+0001F1F2><U+0001F1FF>;Mozambique;0;1;0;1
+2528;<U+0001F1F3><U+0001F1E6>;Namibia;0;1;0;1
+2529;<U+0001F1F3><U+0001F1E8>;New Caledonia;0;1;0;1
+2530;<U+0001F1F3><U+0001F1EA>;Niger;0;1;0;1
+2531;<U+0001F1F3><U+0001F1EB>;Norfolk Island;0;1;0;1
+2532;<U+0001F1F3><U+0001F1EC>;Nigeria;0;1;0;1
+2533;<U+0001F1F3><U+0001F1EE>;Nicaragua;0;1;0;1
+2534;<U+0001F1F3><U+0001F1F1>;Netherlands;0;1;0;1
+2535;<U+0001F1F3><U+0001F1F4>;Norway;0;1;0;1
+2536;<U+0001F1F3><U+0001F1F5>;Nepal;0;1;0;1
+2537;<U+0001F1F3><U+0001F1F7>;Nauru;0;1;0;1
+2538;<U+0001F1F3><U+0001F1FA>;Niue;0;1;0;1
+2539;<U+0001F1F3><U+0001F1FF>;New Zealand;0;1;0;1
+2540;<U+0001F1F4><U+0001F1F2>;Oman;0;1;0;1
+2541;<U+0001F1F5><U+0001F1E6>;Panama;0;1;0;1
+2542;<U+0001F1F5><U+0001F1EA>;Peru;0;1;0;1
+2543;<U+0001F1F5><U+0001F1EB>;French Polynesia;0;1;0;1
+2544;<U+0001F1F5><U+0001F1EC>;Papua New Guinea;0;1;0;1
+2545;<U+0001F1F5><U+0001F1ED>;Philippines;0;1;0;1
+2546;<U+0001F1F5><U+0001F1F0>;Pakistan;0;1;0;1
+2547;<U+0001F1F5><U+0001F1F1>;Poland;0;1;0;1
+2548;<U+0001F1F5><U+0001F1F2>;St. Pierre & Miquelon;0;1;0;1
+2549;<U+0001F1F5><U+0001F1F3>;Pitcairn Islands;0;1;0;1
+2550;<U+0001F1F5><U+0001F1F7>;Puerto Rico;0;1;0;1
+2551;<U+0001F1F5><U+0001F1F8>;Palestinian Territories;0;1;0;1
+2552;<U+0001F1F5><U+0001F1F9>;Portugal;0;1;0;1
+2553;<U+0001F1F5><U+0001F1FC>;Palau;0;1;0;1
+2554;<U+0001F1F5><U+0001F1FE>;Paraguay;0;1;0;1
+2555;<U+0001F1F6><U+0001F1E6>;Qatar;0;1;0;1
+2556;<U+0001F1F7><U+0001F1EA>;Reunion;0;1;0;1
+2557;<U+0001F1F7><U+0001F1F4>;Romania;0;1;0;1
+2558;<U+0001F1F7><U+0001F1F8>;Serbia;0;1;0;1
+2559;<U+0001F1F7><U+0001F1FA>;Russia;0;1;0;1
+2560;<U+0001F1F7><U+0001F1FC>;Rwanda;0;1;0;1
+2561;<U+0001F1F8><U+0001F1E6>;Saudi Arabia;0;1;0;1
+2562;<U+0001F1F8><U+0001F1E7>;Solomon Islands;0;1;0;1
+2563;<U+0001F1F8><U+0001F1E8>;Seychelles;0;1;0;1
+2564;<U+0001F1F8><U+0001F1E9>;Sudan;0;1;0;1
+2565;<U+0001F1F8><U+0001F1EA>;Sweden;0;1;0;1
+2566;<U+0001F1F8><U+0001F1EC>;Singapore;0;1;0;1
+2567;<U+0001F1F8><U+0001F1ED>;St. Helena;0;1;0;1
+2568;<U+0001F1F8><U+0001F1EE>;Slovenia;0;1;0;1
+2569;<U+0001F1F8><U+0001F1EF>;Svalbard & Jan Mayen;0;1;0;1
+2570;<U+0001F1F8><U+0001F1F0>;Slovakia;0;1;0;1
+2571;<U+0001F1F8><U+0001F1F1>;Sierra Leone;0;1;0;1
+2572;<U+0001F1F8><U+0001F1F2>;San Marino;0;1;0;1
+2573;<U+0001F1F8><U+0001F1F3>;Senegal;0;1;0;1
+2574;<U+0001F1F8><U+0001F1F4>;Somalia;0;1;0;1
+2575;<U+0001F1F8><U+0001F1F7>;Suriname;0;1;0;1
+2576;<U+0001F1F8><U+0001F1F8>;South Sudan;0;1;0;1
+2577;<U+0001F1F8><U+0001F1F9>;Sao Tome & Principe;0;1;0;1
+2578;<U+0001F1F8><U+0001F1FB>;El Salvador;0;1;0;1
+2579;<U+0001F1F8><U+0001F1FD>;Sint Maarten;0;1;0;1
+2580;<U+0001F1F8><U+0001F1FE>;Syria;0;1;0;1
+2581;<U+0001F1F8><U+0001F1FF>;Swaziland;0;1;0;1
+2582;<U+0001F1F9><U+0001F1E6>;Tristan da Cunha;0;1;0;1
+2583;<U+0001F1F9><U+0001F1E8>;Turks & Caicos Islands;0;1;0;1
+2584;<U+0001F1F9><U+0001F1E9>;Chad;0;1;0;1
+2585;<U+0001F1F9><U+0001F1EB>;French Southern Territories;0;1;0;1
+2586;<U+0001F1F9><U+0001F1EC>;Togo;0;1;0;1
+2587;<U+0001F1F9><U+0001F1ED>;Thailand;0;1;0;1
+2588;<U+0001F1F9><U+0001F1EF>;Tajikistan;0;1;0;1
+2589;<U+0001F1F9><U+0001F1F0>;Tokelau;0;1;0;1
+2590;<U+0001F1F9><U+0001F1F1>;Timor-Leste;0;1;0;1
+2591;<U+0001F1F9><U+0001F1F2>;Turkmenistan;0;1;0;1
+2592;<U+0001F1F9><U+0001F1F3>;Tunisia;0;1;0;1
+2593;<U+0001F1F9><U+0001F1F4>;Tonga;0;1;0;1
+2594;<U+0001F1F9><U+0001F1F7>;Turkey;0;1;0;1
+2595;<U+0001F1F9><U+0001F1F9>;Trinidad & Tobago;0;1;0;1
+2596;<U+0001F1F9><U+0001F1FB>;Tuvalu;0;1;0;1
+2597;<U+0001F1F9><U+0001F1FC>;Taiwan;0;1;0;1
+2598;<U+0001F1F9><U+0001F1FF>;Tanzania;0;1;0;1
+2599;<U+0001F1FA><U+0001F1E6>;Ukraine;0;1;0;1
+2600;<U+0001F1FA><U+0001F1EC>;Uganda;0;1;0;1
+2601;<U+0001F1FA><U+0001F1F2>;U.S. Outlying Islands;0;1;0;1
+2602;<U+0001F1FA><U+0001F1F3>;United Nations;0;1;0;1
+2603;<U+0001F1FA><U+0001F1F8>;United States;0;1;0;1
+2604;<U+0001F1FA><U+0001F1FE>;Uruguay;0;1;0;1
+2605;<U+0001F1FA><U+0001F1FF>;Uzbekistan;0;1;0;1
+2606;<U+0001F1FB><U+0001F1E6>;Vatican City;0;1;0;1
+2607;<U+0001F1FB><U+0001F1E8>;St. Vincent & Grenadines;0;1;0;1
+2608;<U+0001F1FB><U+0001F1EA>;Venezuela;0;1;0;1
+2609;<U+0001F1FB><U+0001F1EC>;British Virgin Islands;0;1;0;1
+2610;<U+0001F1FB><U+0001F1EE>;U.S. Virgin Islands;0;1;0;1
+2611;<U+0001F1FB><U+0001F1F3>;Vietnam;0;1;0;1
+2612;<U+0001F1FB><U+0001F1FA>;Vanuatu;0;1;0;1
+2613;<U+0001F1FC><U+0001F1EB>;Wallis & Futuna;0;1;0;1
+2614;<U+0001F1FC><U+0001F1F8>;Samoa;0;1;0;1
+2615;<U+0001F1FD><U+0001F1F0>;Kosovo;0;1;0;1
+2616;<U+0001F1FE><U+0001F1EA>;Yemen;0;1;0;1
+2617;<U+0001F1FE><U+0001F1F9>;Mayotte;0;1;0;1
+2618;<U+0001F1FF><U+0001F1E6>;South Africa;0;1;0;1
+2619;<U+0001F1FF><U+0001F1F2>;Zambia;0;1;0;1
+2620;<U+0001F1FF><U+0001F1FC>;Zimbabwe;0;1;0;1
+2621;<U+0001F3F4><U+000E0067><U+000E0062><U+000E0065><U+000E006E><U+000E0067><U+000E007F>;England;0;1;0;1
+2622;<U+0001F3F4><U+000E0067><U+000E0062><U+000E0073><U+000E0063><U+000E0074><U+000E007F>;Scotland;0;1;0;1
+2623;<U+0001F3F4><U+000E0067><U+000E0062><U+000E0077><U+000E006C><U+000E0073><U+000E007F>;Wales;0;1;0;1

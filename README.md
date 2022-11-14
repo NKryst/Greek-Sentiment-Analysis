@@ -3,6 +3,9 @@
 ## As a result of my MSc thesis : "Study on Social Media Data" 
 <https://dias.library.tuc.gr/view/89031>
 
+
+## Package rtweet v. 0.7.0
+
 Greek-Sentiment-Analysis Lexicon Based
 The following scripts was used to:
 

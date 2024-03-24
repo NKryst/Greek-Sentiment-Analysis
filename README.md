@@ -3,6 +3,7 @@
 ## As a result of my MSc thesis : "Study on Social Media Data" 
 <https://dias.library.tuc.gr/view/89031>
 
+#### Playlist to hear that I have created for reading my repos :D : <https://open.spotify.com/playlist/13PihYZ73GTgCN6snGAZnV?si=04ad54b6ae244a47>
 
 ## Package rtweet v. 0.7.0
 

@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This section provides information about the versions of this project that are currently supported with security updates. It's important to use only supported versions to benefit from the latest security fixes.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -14,8 +13,13 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security issue in this project, please report it responsibly. 
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+### What to expect after reporting a vulnerability:
+
+- **Acknowledgment of report receipt**: We aim to acknowledge the receipt of your security report within 48 hours.
+- **Communication**: After acknowledging your report, we will keep you informed of our progress toward addressing the security issue approximately every week. This timeline might vary depending on the complexity of the issue.
+- **Disclosure**: We will work with you to assess the appropriate timing and details of disclosing the vulnerability to the public. Our primary aim is to mitigate the issue before public disclosure to protect the community.
+- **Recognition**: Contributors who responsibly disclose security vulnerabilities will be acknowledged in the project's security announcements, unless they prefer to remain anonymous.
+
+We appreciate your help in keeping our project secure. Thank you for your cooperation and understanding in responsibly reporting security vulnerabilities.
